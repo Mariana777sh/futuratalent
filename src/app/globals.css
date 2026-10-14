@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { @apply bg-slate-50 text-slate-800; }
+
+html.dark {
+  color-scheme: dark;
+}
+
+html.dark body {
+  background-color: #0f172a;
+  color: #e2e8f0;
+}
+
+html.dark [class~="bg-white"] {
+  background-color: #1e293b;
+}
+
+html.dark [class~="bg-slate-50"] {
+  background-color: #0f172a;
+}
+
+html.dark [class~="bg-slate-100"],
+html.dark [class~="bg-slate-200"],
+html.dark [class~="hover:bg-slate-100"]:hover,
+html.dark [class~="hover:bg-slate-200"]:hover,
+html.dark [class~="hover:bg-slate-50"]:hover {
+  background-color: #334155;
+}
+
+html.dark [class~="bg-slate-900"] {
+  background-color: #334155;
+}
+
+html.dark [class~="text-slate-900"],
+html.dark [class~="text-slate-800"],
+html.dark [class~="text-slate-700"],
+html.dark [class~="text-slate-600"],
+html.dark [class~="text-slate-500"] {
+  color: #cbd5e1;
+}
+
+html.dark [class~="text-slate-400"] {
+  color: #94a3b8;
+}
+
+html.dark [class~="text-slate-300"] {
+  color: #cbd5e1;
+}
+
+html.dark [class~="border"],
+html.dark [class~="border-t"],
+html.dark [class~="border-b"],
+html.dark [class~="border-l"],
+html.dark [class~="border-r"] {
+  border-color: #475569;
+}
+
+html.dark input:not([type="checkbox"]):not([type="radio"]),
+html.dark textarea,
+html.dark select {
+  background-color: #1e293b;
+  color: #e2e8f0;
+  border-color: #475569;
+}
+
+html.dark input::placeholder,
+html.dark textarea::placeholder {
+  color: #94a3b8;
+}
+
+html.dark option {
+  background-color: #1e293b;
+  color: #e2e8f0;
+}

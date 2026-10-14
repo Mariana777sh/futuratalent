@@ -1,0 +1,46 @@
+// Static UI strings (instant, no LLM). Dynamic content goes through translate.ts.
+export const UI = {
+  en: {
+    candidates: "Candidates", search: "Search", emails: "Emails", ingest: "Ingest transcripts", darkMode: "Dark mode", lightMode: "Light mode",
+    transcriptFiles: "Transcript files", showTranscriptFiles: "Show names", hideTranscriptFiles: "Hide names", noTranscriptFiles: "No .txt or .md transcripts found.", candidateEmail: "Candidate email address",
+    chooseTranscripts: "Choose .txt or .md files", uploadTranscripts: "Add transcripts",
+    transcriptsAdded: "transcript(s) added to the processing folder.",
+    skillCategories: {
+      language: "Programming languages", framework: "Frameworks", scraping: "Web scraping",
+      cloud: "Cloud", database: "Databases", additional: "Additional",
+    },
+    pdfImport: "Import candidates from PDF", choosePdf: "Choose a PDF", previewPdf: "Preview candidates",
+    pdfSection: "section",
+    saveDrafts: "Save selected as transcripts", include: "Include", duplicate: "Possible duplicate",
+    editNotes: "Review or edit extracted notes", detected: "Detected", pending: "Pending", processed: "Processed",
+    failed: "Failed", pdfSaved: "Transcript files saved. Use Ingest transcripts to process them.",
+    searchPlaceholder: "Search by name, skill, company, experience, salary, availability, or project…", run: "Search", noSearchResults: "No candidates match those terms.", score: "Match", matched: "Matched search terms", searchExperience: "Experience", years: "Years", role: "Current role", seniority: "Seniority", leadership: "Leadership", companiesWorked: "Companies worked at", duration: "Duration", salary: "Compensation", currentSalary: "Current salary", expectedSalary: "Expected salary", availability: "Availability", availabilityType: "Work arrangement", hoursPerWeek: "Hours per week", hoursPerDay: "Hours per day", immediateAvailability: "Start availability", noticePeriod: "Notice period", availabilityNotes: "Availability notes", languages: "Languages", english: "English", spanish: "Spanish", responsibilities: "Responsibilities", otherDetails: "Other profile details",
+    missing: "Missing requirements", projects: "Relevant projects", companies: "Relevant companies", evidence: "Evidence",
+    source: "Source", confidence: "Confidence", generate: "Generate email", emailPreview: "Email preview", emailSubject: "Subject", emailBody: "Email body", saveEmail: "Save edits", saved: "Edits saved.", unsavedEmail: "Save your edits before changing the email status.", approve: "Approve", review: "Send to review", sendEmail: "Send email", recipient: "Recipient", editNotice: "Saving edits returns the draft to the Draft state.", close: "Close", loadingProfile: "Loading candidate profile…", emailStatus: "Status",
+    send: "Send email", sendWarning: "This sends the approved email to the address entered above. SMTP must be configured.", deleteReviewEmail: "Delete review email", confirmDeleteReview: "Permanently delete this email in Review?", draft: "Draft", approved: "Approved", sent: "Sent", inReview: "Review", summary: "Summary",
+    recruiterNotes: "Recruiter notes (internal)", skills: "Skills", experience: "Companies", projectsTitle: "Projects", followUps: "Follow-ups", originalTranscript: "Original transcript",
+    achievements: "Achievements", clientContext: "Optional role/client details (write in English)", similar: "Similar candidates",
+  },
+  "es-LATAM": {
+    candidates: "Candidatos", search: "Búsqueda", emails: "Correos", ingest: "Procesar transcripciones", darkMode: "Modo oscuro", lightMode: "Modo claro",
+    transcriptFiles: "Archivos de transcripción", showTranscriptFiles: "Mostrar nombres", hideTranscriptFiles: "Ocultar nombres", noTranscriptFiles: "No se encontraron transcripciones .txt o .md.",
+    chooseTranscripts: "Elegir archivos .txt o .md", uploadTranscripts: "Agregar transcripciones",
+    transcriptsAdded: "transcripción(es) agregada(s) a la carpeta de procesamiento.", candidateEmail: "Correo electrónico del candidato",
+    skillCategories: {
+      language: "Lenguajes de programación", framework: "Frameworks", scraping: "Web scraping",
+      cloud: "Nube", database: "Bases de datos", additional: "Adicionales",
+    },
+    pdfImport: "Importar candidatos desde PDF", choosePdf: "Elegir un PDF", previewPdf: "Vista previa de candidatos",
+    pdfSection: "sección",
+    saveDrafts: "Guardar seleccionados como transcripciones", include: "Incluir", duplicate: "Posible duplicado",
+    editNotes: "Revisar o editar las notas extraídas", detected: "Detectado", pending: "Pendiente", processed: "Procesado",
+    failed: "Error", pdfSaved: "Archivos guardados. Usa Procesar transcripciones para procesarlos.",
+    searchPlaceholder: "Busca por nombre, habilidad, empresa, experiencia, salario, disponibilidad o proyecto…", run: "Buscar", noSearchResults: "No hay candidatos que coincidan con esos términos.", score: "Coincidencia", matched: "Términos coincidentes", searchExperience: "Experiencia", years: "Años", role: "Cargo actual", seniority: "Seniority", leadership: "Liderazgo", companiesWorked: "Empresas donde trabajó", duration: "Duración", salary: "Compensación", currentSalary: "Salario actual", expectedSalary: "Salario esperado", availability: "Disponibilidad", availabilityType: "Modalidad", hoursPerWeek: "Horas por semana", hoursPerDay: "Horas por día", immediateAvailability: "Disponibilidad de inicio", noticePeriod: "Preaviso", availabilityNotes: "Notas de disponibilidad", languages: "Idiomas", english: "Inglés", spanish: "Español", responsibilities: "Responsabilidades", otherDetails: "Otros datos del perfil",
+    missing: "Requisitos faltantes", projects: "Proyectos relevantes", companies: "Empresas relevantes", evidence: "Evidencia",
+    source: "Fuente", confidence: "Confianza", generate: "Generar correo", emailPreview: "Vista previa del correo", emailSubject: "Asunto", emailBody: "Cuerpo del correo", saveEmail: "Guardar cambios", saved: "Cambios guardados.", unsavedEmail: "Guarda los cambios antes de cambiar el estado del correo.", approve: "Aprobar", review: "Enviar a revisión", sendEmail: "Enviar correo", recipient: "Destinatario", editNotice: "Al guardar cambios, el borrador vuelve al estado Borrador.", close: "Cerrar", loadingProfile: "Cargando perfil del candidato…", emailStatus: "Estado",
+    send: "Enviar correo", sendWarning: "Esto enviará el correo aprobado a la dirección indicada. SMTP debe estar configurado.", deleteReviewEmail: "Eliminar correo en revisión", confirmDeleteReview: "¿Eliminar definitivamente este correo en revisión?", draft: "Borrador", approved: "Aprobado", sent: "Enviado", inReview: "Revisión", summary: "Resumen",
+    recruiterNotes: "Notas del reclutador (internas)", skills: "Habilidades", experience: "Empresas", projectsTitle: "Proyectos", followUps: "Pendientes", originalTranscript: "Transcripción original",
+    achievements: "Logros", clientContext: "Detalles opcionales del cargo/cliente (escríbelos en inglés)", similar: "Candidatos similares",
+  },
+} as const;
+export type UIKey = keyof (typeof UI)["en"];

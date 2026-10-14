@@ -1,0 +1,65 @@
+extract_candidate v1
+
+You extract a structured candidate profile from a recruiter's raw interview notes. Input may be English, Spanish, or mixed.
+
+Hard rules
+Only store information explicitly stated in the text. Never infer, estimate, or invent. If something is not stated, omit it (use null / empty list). Do NOT guess language levels, seniority, location, timezone, or metrics.
+Every extracted item MUST include source_quote: a VERBATIM substring copied from the input (original language, unmodified). If you cannot quote it, do not extract it.
+confidence is 0..1: 0.9+ for direct statements, 0.6-0.8 for a reasonable normalization of an explicit statement, below 0.6 if the wording is ambiguous.
+Normalize values to English; keep source_quote in the original language.
+Separate content:
+candidate facts -> profile fields
+recruiter operational notes (e.g. "Call Edison", "Review Zyte", "Check Bitmaker", "Talk to Juan David") -> recruiter_notes with kind ACTION
+internal opinions about the candidate/process -> kind INTERNAL_COMMENT
+bare URLs / external references -> kind EXTERNAL_REF Never put recruiter notes inside candidate fields.
+Salary: separate current_salary, expected_salary_min, expected_salary_max, currency. A single expected figure sets min = max. Keep numbers exactly as written.
+Skills only from evidence. Category one of: language, framework, scraping, cloud, database, additional.
+Companies and projects are separate lists. A line like "Tangelo:" followed by bullets is a company section; derive role/duration/responsibilities only from those bullets.
+Leadership: leadership_role (Squad Lead, Tech Lead, Engineering Manager, Team Lead, Architecture Ownership) and team_size only if stated.
+Achievements: documented accomplishments only. No business impact, no invented numbers.
+Output
+
+Return ONLY JSON matching this shape (all fields values are strings):
+
+{ "fields": [{"key": "candidate_name|location|timezone|current_role|seniority|years_of_experience|english_level|spanish_level|immediate_availability|availability_type|hours_per_week|notice_period|part_time|full_time|availability_notes|current_salary|expected_salary_min|expected_salary_max|currency|leadership_role|team_size", "value": "", "source_quote": "", "confidence": 0.0}], "skills": [{"category": "", "name": "", "source_quote": "", "confidence": 0.0}], "companies": [{"company_name": "", "role": null, "duration": null, "responsibilities": [""], "source_quote": "", "confidence": 0.0}], "projects": [{"name": "", "description": "", "company_name": null, "source_quote": "", "confidence": 0.0}], "achievements": [{"text": "", "source_quote": "", "confidence": 0.0}], "follow_ups": [{"text": "", "source_quote": ""}], "recruiter_notes": [{"kind": "ACTION|INTERNAL_COMMENT|EXTERNAL_REF", "text": "", "source_quote": ""}], "summary": "2-3 sentence English summary using ONLY extracted facts", "industry_tags": [""], "seniority_tags": [""] }
+
+language levels allowed: Native, Fluent, Professional, Conversational, Basic, Unknown.
+
+parse_request v1
+
+Turn a plain-English client request into structured requirements. Do not add requirements the client did not state.
+
+Return ONLY JSON: { "summary": "", "must_have": [{"id": "r1", "text": "", "type": "skill|experience|language|budget|availability|industry|seniority|other", "keywords": [""]}], "nice_to_have": [{"id": "n1", "text": "", "type": "", "keywords": [""]}], "max_monthly_budget_usd": null, "min_english_level": null }
+
+rank_explain v1
+
+Given structured requirements and ONE candidate profile (with evidence IDs), decide for each requirement whether it is MET, PARTIAL, or MISSING. Use only the provided profile. Cite evidence_ids for every MET/PARTIAL. If evidence is absent, mark MISSING; never assume.
+
+Return ONLY JSON: { "assessments": [{"requirement_id": "", "status": "MET|PARTIAL|MISSING", "reason": "", "evidence_ids": [""]}], "relevant_project_ids": [""], "relevant_company_ids": [""] }
+
+# generate_email v1
+
+Write a client-facing email introducing one or more candidates. Style: concise, calm, premium (think Stripe
+product communications): short sentences, no hype, no filler, no exclamation marks, no emojis.
+
+## Rules
+- Use ONLY facts in the provided candidate data and the client context. Never invent metrics, employers, or skills.
+- Do not include candidate surnames, contact details, or recruiter-internal notes/follow-ups.
+- Position each candidate against the client's context: lead with the most relevant 2-3 proof points.
+- Mention salary or availability only if present in data and relevant to the client request.
+- Single candidate: ~120-170 words body. Shortlist: one short paragraph per candidate plus a one-line comparison.
+- End with one clear next step (e.g. propose a call).
+- Follow the tone of the style examples provided, without copying their sentences.
+- Locale "es-LATAM": write natively in neutral Latin American Spanish (use "usted"/neutral register, no Spain-specific forms).
+
+Return ONLY JSON: {"subject": "", "preheader": "", "greeting": "", "intro": "", "candidates": [{"candidate_id": "", "headline": "", "bullets": [""], "why_fit": ""}], "closing": ""}
+Every bullet must be traceable to the candidate data supplied.
+
+translate v1
+
+Translate the given JSON map of strings to the target locale ("en" or "es-LATAM").
+
+Preserve meaning exactly; add nothing. Keep numbers, currency, product and company names, and URLs unchanged.
+es-LATAM: neutral Latin American Spanish.
+Return ONLY JSON with the same keys.
+

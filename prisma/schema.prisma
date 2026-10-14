@@ -1,0 +1,187 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// One row per source transcript file.
+model Document {
+  id          String   @id @default(cuid())
+  filename    String   @unique
+  rawText     String
+  sha256      String
+  status      String   @default("PENDING") // PENDING | PROCESSED | FAILED
+  error       String?
+  promptVer   String?
+  createdAt   DateTime @default(now())
+  candidate   Candidate?
+  notes       RecruiterNote[]
+}
+
+model Candidate {
+  id           String   @id @default(cuid())
+  documentId   String   @unique
+  document     Document @relation(fields: [documentId], references: [id])
+  candidateId  String   @unique // human id e.g. CAND-001
+  summary      String   // English, derived
+  primarySkills String  // JSON string[]
+  industryTags String   // JSON string[]
+  seniorityTags String  // JSON string[]
+  embedding    String?  // JSON number[]
+  createdAt    DateTime @default(now())
+  fields       Field[]
+  companies    CompanyExperience[]
+  projects     ProjectExperience[]
+  skills       Skill[]
+  achievements Achievement[]
+  followUps    FollowUp[]
+  emails       Email[]
+}
+
+// Generic traceable scalar field: every value carries evidence.
+model Field {
+  id          String   @id @default(cuid())
+  candidateId String
+  candidate   Candidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  key         String   // e.g. "current_salary", "english_level", "leadership_role"
+  value       String   // normalized English value
+  sourceQuote String   // original quote, verbatim
+  document    String   // filename
+  confidence  Float
+  @@index([candidateId, key])
+}
+
+model Skill {
+  id          String   @id @default(cuid())
+  candidateId String
+  candidate   Candidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  category    String   // language | framework | scraping | cloud | database | additional
+  name        String
+  sourceQuote String
+  document    String
+  confidence  Float
+}
+
+model CompanyExperience {
+  id          String   @id @default(cuid())
+  candidateId String
+  candidate   Candidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  companyName String
+  role        String?
+  duration    String?
+  responsibilities String // JSON string[]
+  sourceQuote String
+  document    String
+  confidence  Float
+}
+
+// Independent of companies.
+model ProjectExperience {
+  id          String   @id @default(cuid())
+  candidateId String
+  candidate   Candidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  name        String
+  description String
+  companyName String?  // optional soft link, not FK
+  sourceQuote String
+  document    String
+  confidence  Float
+}
+
+model Achievement {
+  id          String   @id @default(cuid())
+  candidateId String
+  candidate   Candidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  text        String
+  sourceQuote String
+  document    String
+  confidence  Float
+}
+
+// Recruiter operational notes: never merged into candidate profile.
+model RecruiterNote {
+  id         String   @id @default(cuid())
+  documentId String
+  document   Document @relation(fields: [documentId], references: [id], onDelete: Cascade)
+  kind       String   // ACTION | INTERNAL_COMMENT | EXTERNAL_REF
+  text       String
+  sourceQuote String
+}
+
+model FollowUp {
+  id          String   @id @default(cuid())
+  candidateId String
+  candidate   Candidate @relation(fields: [candidateId], references: [id], onDelete: Cascade)
+  text        String
+  sourceQuote String
+}
+
+// Cache of translations. Stored data is never mutated.
+model Translation {
+  id          String   @id @default(cuid())
+  entityType  String
+  entityId    String
+  fieldKey    String
+  locale      String   // "es-LATAM" | "en"
+  original    String
+  translated  String
+  @@unique([entityType, entityId, fieldKey, locale])
+}
+
+model SearchQuery {
+  id           String   @id @default(cuid())
+  text         String
+  requirements String   // JSON
+  createdAt    DateTime @default(now())
+  feedback     SearchFeedback[]
+}
+
+model SearchFeedback {
+  id          String   @id @default(cuid())
+  queryId     String
+  query       SearchQuery @relation(fields: [queryId], references: [id], onDelete: Cascade)
+  candidateId String
+  rating      Int      // +1 / -1
+  createdAt   DateTime @default(now())
+}
+
+model Email {
+  id          String   @id @default(cuid())
+  candidateId String?
+  candidate   Candidate? @relation(fields: [candidateId], references: [id])
+  candidateIds String  // JSON string[] (shortlists)
+  clientContext String
+  locale      String   @default("en")
+  subject     String
+  html        String
+  text        String
+  status      String   @default("DRAFT") // DRAFT | REVIEW | APPROVED | SENT
+  promptVer   String
+  approvedAt  DateTime?
+  sentAt      DateTime?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  revisions   EmailRevision[]
+}
+
+// Recruiter edits: audit trail + learning signal.
+model EmailRevision {
+  id        String   @id @default(cuid())
+  emailId   String
+  email     Email    @relation(fields: [emailId], references: [id], onDelete: Cascade)
+  beforeText String
+  afterText  String
+  createdAt DateTime @default(now())
+}
+
+model AuditLog {
+  id        String   @id @default(cuid())
+  entity    String
+  entityId  String
+  action    String
+  detail    String?
+  createdAt DateTime @default(now())
+}
