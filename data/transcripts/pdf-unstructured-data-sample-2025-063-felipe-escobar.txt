@@ -1,0 +1,19 @@
+FELIPE ESCOBAR — WEB SCRAPER
+TechStack: Python,
+ZYTE — Giving support to scrawlers of American clients. Big e-commerce companies like Amazon,
+Walmart, Ikea. Currently we are using the Scrapy API, it is easier to do a crawler that way. It is not
+difficult to break a captcha, because the Scrapy api supports this. If you have problems other teams
+solve this
+A3Data - Same as doing in Abstract, AI agent to help healthcare communication.
+Abstato — I worked with AI Chatbots, improve the quality of responses of the chatbot, some prompt
+engineering, some knowledge graph to improve the responses, for financial markets. Techstack:
+qdrant, chromed, lang chain. Some parts doing request directed to OpenAI. Because lang chain has a
+lot of abstraction.
+Nutritive — Intern— raspsible for some APIs, some dashboards, internal apps for the company.
+CFIT — Beautiful Soup and Selenium — handle browser, some specific skills. — 1 year
+Structure information from sport activities, Scrap info from sport activities websites. Websites in Brazil.
+Create an application to show these activities. The people who are doing these activities.
+Web Scraper skill 6/10… junior-mid
+English 6/10
+Salary: $3.4k >>> I want $4k.
+I am good at algorithms.

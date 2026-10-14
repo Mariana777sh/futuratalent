@@ -1,0 +1,47 @@
+NELSON GARZON — KRIPTOS
+Barbosa Santander, carretera Moniquira, ese es el ultimo pueblo que tiene Boyaca y ahi comienza
+Santander.
+TechStack: Python, Django, FastAPI, TypeScript, React, Golang, C#, Postgres, Dinamo, Redis,
+MySQL, OpenSearch, S3, Lambdas, AWS.
+We use Python native. Because we deploy on Lambdas.
+
+
+AI - OpenSearch — vector data base.
+Software Developer. I have worked for 10-15 Yeats. My main language is currently Python, I have
+experience with AWS Cloud on technologies focused on scaling availability big data. I have used
+MCP to communicate chatgpt to query data bases like Postgres.
+KRIPTOS — Now I am working on Classifier, the main product. It is a data classification product., for
+unstructured data. Classifying files in work stations. The system scans the document, transform the
+content of of the document in an enbedding, representing in numeric positions in a vector, meta data
+to send in the backend, and we classify it using AI models for classification. For example credit cards,
+personal data.
+The product is focused on banks and big insurance, where the sensible data is in the company, every
+employee has a computer assigned to. Him. You don’t know if the employee stored sensible data in
+the laptop, if you have credit card numbers in a document, this engine has th power to check it and
+classify it as classified information. — OLPs — systems to block information in the storage, for
+example in the hard disc if you have confidential info, it makes you to avoid to see it or share it with
+another device. That guarantees the security of your information. This is the first step to guarantee.
+The first step is clarify the info, tag info, and block it. They connect with an OLP after the clarify, so the
+OLP can block it.
+I updated the code, divided into microservices, because it was built on an old version of Python. I also
+worked on C#, Golang. Not core languages but I know about them. TypeScript — I have worked with
+it doing a microservice doing the front end also, because it is used doing React. The micro service is
+able to query information from Postgres and Dinamo, from the web platform.
+Hardest Technical Project - I think it would be to build the system ingestion. It is a system to ingest a
+lot of data, 18 million documents per day and ingest that data, in a flexible way. That is not only writing
+a lot of time in the day with high performance, search the data, query the data in different ways
+through OpenSearch, Python, Dinamo, and Golang.
+Kubernetes - in the past I used them, maybe 3 or 4 years ago, deployments, we used it for the
+classifier, it was built on Kubernetes and had a lot of projects to scale up. Maintain the project on
+Kuberntes, so I had to do deployments.
+Startup —In a startup you have a lot of challenges and you specialize in one product. You have the
+opportunity to go deep into a product and build it. You can also have a wide look about the
+technologies at the same time. Narrow on the product and broad on the technology.
+APIUX — It was a consulting company, I worked with a team, working on a project about working on
+the functionalities and services of health companies. The company audits healthcare companies in
+Chile. We were building the software for certifying health services in general, if a hospital wants to
+open the services, lets say, brain exam, the hospital needs to build the process and describe the
+process, assign in different stages, be sure that the team is able to work with the process and stage of
+the process. The hospital needs to send a lot of information about the process, people participating in
+the process. Public Healthcare Compliance Platform.
+Salary: $6k -> I am looking for $8k/ month

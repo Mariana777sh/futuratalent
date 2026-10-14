@@ -1,0 +1,31 @@
+RAFAEL PEREZ — BACKEND ENGINEER RUBY / FULL STACK + front and cloud
+WHY THIS CANDIDATE __ SO UCH JOB HOPPING
+TechStack: NextJS, React, Ruby, Ruby on Rails, Python, JavaScript, Elixir,
+Ruby and JavaScript, TypeScript, Postgres, MySQL, Redis, Kafka, AWS.
+
+
+Lightnishware — WebRPC, video calls, the protocol for video calls in the web and in browser. I was
+supporting the video call product. I was working with that in Elixir. I also worked with Ruby.
+https://thundr.com
+I was the Head of Engineering — so I was building mostly the moderation system and solving the
+matching algorithms and react development. It was already built. I contributed the integrations with the
+moderation system and Elixit Code.
+PAGERDUTY — Core Platform for AI Ops— I was working on the monolith core platform, I was doing
+the Ruby on Rails monolith. Other teams . Handle all the incident management platform of Pager
+Duty. Creating microservices, handling contacts, creating other notifications. Mostly Ruby on Rails.
+POTLOC — full stack engineer — React and TypeScript. Ruby on Rails. The product was related to
+questioning for people from social media that would answer questions about brands. Fulter and do
+performance, and include the speed of the dashboard and the way in was consumigndata.
+AGENDA PRO (YC W21) authentication microservices. Onnthe company. Ruby on Rails, and react
+native for the mobile app. NodeJS for some microservices. I was an individual contributor for other
+parts. I was working with a NodeJS Lambda, anETL from the data lake. Pull information, for churns
+reports. The main platform was a monolith in Ruby on Rails. The React side was most for the frontend
+team and I was mostly on backend. Integrating with Tax services to calculate invoices and worked on
+the DevOps team. I was more of an architect.
+Before — Groupon.
+Job Hopping — my ex wife is a diplomat. I was also a diplomat so I had to move between Chile, MX
+and US.
+ENGLISH — 9/10
+SALARY — $7.2k/month
+WHy JOB HOPPING?
+Relocation:

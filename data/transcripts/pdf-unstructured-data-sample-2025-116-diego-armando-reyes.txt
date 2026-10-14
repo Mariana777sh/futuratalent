@@ -1,0 +1,24 @@
+DIEGO ARMANDO REYES — SOFTWARE ENGINEER / BACKEND PYTHON
+I have experience in backend with 10 years ago, working with Python.
+
+
+TechStack: Python, Django, Flask, DjangoREST, Postgres, MySQL, MongoDB, Redis, Lambdas,
+AWS.
+XML, Soap Library,
+BOLD — I connect external services to the devices, I developed a product to manage the devices, we
+have devices for payments POS. I build services and components for backend for POS devices. I built
+these from scratch. In Bold all components are microservices, so we need to build tools to integrate
+the components from other teams. I build the tool to connect with other data and other services form
+the company. I also worked on synchronizing data from other components like the payment, the
+merchants, bill reports.
+TPAGA — I worked on integrations with bank entities. I developed some APIs services, to connect,
+with the services for bank entities, to create accounts, queries about the balance of accounts, create
+users in the bank software and create services to the app in android and iOS. My main contribution
+was with Banco Caja Social, because I started from zero a project to create new accounts in that
+bank, create users, bank account, query balance, do transfers. Here I was mostly on the API and
+Integrations team.
+GREENSILL — startup for factoring — building the backend of a factoring system.
+NOKIA — Backend in Python for Inventory Management, ERP and CRM.
+English: 6/10 can communicate but not that good. He can say things but feels the friction. Sometimes
+he doesnt understand my questions.
+SALARY — 20M pesos >>> 25%

@@ -1,0 +1,21 @@
+PATRICIO ALEJANDRO TAPIA UGALDE — TOP FOR RIDEPANDA RUBY
+TEchstack: React, Ruby on Rails,
+React tickets pequeños, siemote he sido mas ligado al backend pero entiendo. Ahora mismo estoy
+aprendiendo mas de frontend. Mi idea es moverme a ser full stack. Le estoy metiendo duro al
+frontend.
+GLOBANT — I keep working in GLobant. Autodesk is a client of GLobant. I have been 4 years with
+the same client.
+AUTODESK — I have been 4 years working with them. I work on the BIM360 app — maintain the
+app, my main contribution is preparing this for selling it to the government of the US, we went through
+auditory, for working with US Government. I was in charge of building this, frontend in React and
+Backend in Ruby on Rails. I built a monitoring engine, and optimizing queries. Most is maintaining and
+optimizing, and security stuff for compliance. Ugh scalable plafrotm, making it highly scalable.
+AGENDAPRO (YC W21) — Backend — Startup Chilena de scheduling — main software for beauty
+salons — I built the suite of testing for quality of the product. It was growing very fast and I built good
+development practices.
+I was helping built the first iterations of the product, I built payment engines and integrations, I built the
+checkout with payU and the dashboard for clients of the schedules and payments, the control panel
+for clients. Then he moved to the testing suite.
+SALARY — $3000 dollars — I would go got $3k-$4k I wouldn’t go for less than $3k.
+RELOCATION —
+___

@@ -1,0 +1,35 @@
+JULIO GOLDBACH — AI FULL STACK ENGINEER
+LLM/AI Engineer Elixir Engineer / Inference? / backend Elixir / Full stack? Yes. Focused on backend.
+TechStack: Elixit, React, NestJS, Python, Flask, Django, FastAPI, PyTorch, PySpark, Spark,
+Tensorflow, HuggingFace, vLLm, SGLang, MCP.
+I have more experience on the agentic ai side. I have deployed vLLM and Slang. When they do
+internal stuff. But my main expertise is agents, fine tuning, promote, evals, using the APIs of base
+models. Using the LLMs, but not as much as deploying stuff and doing clusters. Short overview of my
+career, I have worked in a few companies.
+HAKKO — Senior AI Engineer — it is an Israeli software house, we do different projects, and I started
+doing AI stuff. We do it all. I do a lot of AI.
+I build RAG, chatbots, internal air, ai agents integrated with bigquery data, orchestration, fine tuning,
+distillation, cut cost. I do a lot of stuff. I deploy internal agents.
+We had one client, Aerospatial industry in Israel, 10000 of employees, we built internal RAG for the
+documents. Internal documents of the company. We also did another chatbot, a simplee chatbot,
+central bureau of statistics, we did an internal chatbot for them. I also did AI agents that send a
+newsletter.
+vLLM/SGLang, I didnt do much, I just deployed it, what is the hardware that we have, one RAG,
+virtual machine… reduce cost. How do I use cross GPUs, how much can I allocate, limit the inputs
+going to the LLM, capture the metrics, the LLM is outputting. Little inference experience.
+Cuda? Not, never. No experience.
+BANCO BS2 — Senior Software Engineer — acqired Weel — I was responsible for creating the
+whole accounting product system — Now every single thing we do, reflects in the accounts of the
+bank, they didnt have any engineers working on accounting. They gave that challenge to me. I was
+working from Brazil and I understood the market. I could speak Portuguese, Hebrew and English. I
+built huge project. Mission critical, in the backend using Elixir. I also did some React.
+WEEL — b2b fintech — a lending business — invoice discounts, tech factoring business with
+machine learning models — They got acquired by BS2. I worked across the whole code base. The
+whole financial backend was on me, all calculation logic, LTV, and so on, it was me because I have a
+background on economics. I did 90% backend. Tech: Elixir.
+Salary: $7k-8k/month expectation
+Relocation: open to it but needs to be a good salary.
+Algorithms — I can do lit code, I know data structures, binary search, etc.
+
+
+___

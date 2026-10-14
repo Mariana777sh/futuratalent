@@ -1,0 +1,30 @@
+VINICIUS MACIEL — FULL STACK AI 3 years ( not so much AI experience)
+TechStack: React, VueJS, NextJS, ViewJS NestJS, NodeJS, Postgres, MySQL, MongoDb
+Java, Python, ViewJS
+LangGraph and LangChain — not professionally but I did some projects myself — they are private but
+I can make it public.
+NodeJS — Nest JS is used on top of it.
+BLIP — Java, Springwood, Python, Flask, ViewJS, MongoDB — I mostly work with their social
+media service. It is not a scraper but we gather a lot of info from social media and we get data to the
+clients, though dashboards automatics, apis. Even here we have a complete product, they need
+something new, new data or UI, I am responsible to provide this to them. I want to do something
+related to other users. I usually solve these problems. Deployed engineer with client. Solutions
+Engineers. We build solutions for clients. I am on the Solutions Engineer squat. It becomes part of the
+product.
+Recently one thing I did, is they do classification for social media stuff, lets say you post something
+about CocaCola, our product captures the post and comment, it says if it is a good or bad comment,
+we automate classification, it will read the comment, connect with some AI to classify it. More of our AI
+connections is with APIs. We have our agents, the clients can feed them, they can give data, feed it
+and it is exclusively for the client. We have our internal AIs.
+An other project is the clients can respond in any social media, easier way to propose answers to the
+marketing social media operators, we released a bottom that we can generate responses and do the
+response based on the client, a good answer for that client. A good suggestion. We need a lot of data
+for the client. We ask the client some questions, if somebody says CocaCola is good, or too weird, is
+it a good thing. We get the clients preferences on their products to do the answers. The interference
+as I said.
+The AI is a different team but I do the connection.
+ECOMILHAS — I was a full stack, JavaScript, TypeScript, NestJS, Postgres, MongoDb, Redis.
+MIcroservices communications.
+TECHSAVVY — I integrated the authentication system. Authentication credit card transactions.
+PROJECTOS DRIVEN —
+SALARY — $1500 / 1.5k / + bonuses. $2.2k with bonuses >>> 30-40% increase.

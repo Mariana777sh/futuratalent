@@ -1,0 +1,26 @@
+CAIO DINIZ — FULL STACK AI ENGINEER
+Started as a Backend and now I am a full stack
+TechStack: React, ViewJS, NodeJS, Kotlin, Postgres, MongoDB, Azure, AWS.
+In Kotlin we connected with OpenAI api. In the prompt engineering we have it in MongoDB, OpenAI,
+we use the RAG to find the context, to use in the completion in OpenAI, we used RAG, write the
+prompt and get the info to the final client.
+Cloud Humans — AI to answer the clients of projets — AI for Customer Service — I optimized
+prompts and understand how the AI was thinking, we had a process to follow, to get the way the AI is
+thinking, I optimize the process, I create agents that makes some functions.
+I worked on the Core of the company, on this process I worked creating agents and organizing these
+agents to make Claudia, the general product, create and optimize the agents . We started with Text
+and then we implanted Voice and images and always answers in text.
+Alice — The part of AI is the last part of my career. We were starting to do the same thing, AI to
+intermediate the process of the final client with the Operations Team, what the clients need, how AI
+reads the message of the final client, and read some documents that we provide to AI and return a
+response and collect the data for the operations team. We used Kotlin and Postgres, and we
+integrated with OpenAI. I used the integrations, we tried to create the agents to guide the process.
+I worked on the team of member acquisition, here we have in the page, we need to guide them to
+become a member, develop our product and simulate our plans so the clients choose what the plan
+they will prefer and we worked on A/B tests to analyze the data. Where you have my resumes and
+conversion tests.
+We had a screen to show to the client the simulation of a plan, in this plan you have 50 hospitals, that
+is your benefits, the plan you pay is that, we change this UI for a video to show the plans to the clients
+in video, so we test if the video is better. Experimentation Projects for the Member Acquisition Team.
+A/B. Full Stack.
+SALARY — $14000 reais — $2000 dollars. —>>>>> $5k — my interest is working in English.

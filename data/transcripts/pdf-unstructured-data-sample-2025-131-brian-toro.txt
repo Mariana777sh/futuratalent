@@ -1,0 +1,21 @@
+BRIAN TORO — Backend Engineer - Full Stack
+TechStack: JavaScript, TypeScript, React, NestJS, NodeJS, Express, Go, MySQL, Postgres,
+MongoDB, DinamoDB, AWS.
+UNNAX — Banking as a service product — provider to other companies to help them being a bank,
+we make the connections and integrations. Instant transfers, direct debits, and banking apps.
+TREINTA -- Payment team - made an integration between the payment processor and us, and we
+made the payment processor at Trinta product. I worked also integrating payment platforms in all
+latam and usa. Scaling microservices.
+I built the POS for restaurants — I helped build this one from scratch. I worked in Treinta in a lot of
+different places. Most of the code at Treinta was written by me.
+When Trainta started they had a monolith and I made the code into microservices. In the backend part
+I even contributed to the accounting app.
+I didnt work too much on the accounting app. I mostly worked with the payments and transfers with
+the merchants.
+KUEPA EDUTECH — educational startup from Bogota — Learning Management System (LMS) for
+universities — I built the subscription engine for the platform. They have two parts. The educational
+part. The product that they sell to different universities.
+Spain in a digital nomad visa, I moved to Spain because I moved to study. I worked as contractor.
+SALARY — $60k/year >>> $70k year to change.
+Europe —
+ENGLISH — 8.5-9/10

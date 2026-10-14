@@ -1,0 +1,32 @@
+TOMAS SEXENIAN — WEB SCRAPING
+TechStack: Python, Selenium, Playwright, ZyteAPI, Scrapy. MongoDB. Postgres.
+Playwright for efficiency reason. Also mostly ZyteAPI. 2Captcha.
+Zyte — we do web scraping on demand. Even in the case for projects that are already on the way
+data structures change a lot, so non-sql is easier for us. We don’t only do web scraping, we also do
+data validations, data analysis, we do data validation with Pandas. I actually do it faster, we run
+things. Some things we do on Google Cloud. The data of servers stored in Postgres instances.
+I do Web Scraping - that is what the company does. Project for the client, for a certain amount of time.
+I also play a big part in data quality automation. My job basically is these kind of projects revolves
+around finding ways and creating processes that use data science, automate data QA as much as
+possible. We are building what we call Virtual Quality Assurance Engineering. This system is an AI
+version of a typical QA. Webscraping data, how it should be done. Pandas. Finding a report and post
+that report.
+My job is 50-50 between data quality and building — it is mostly e-commerce web scrapers —
+Walmart, Amazon, Target, IKEA. We do have some other projects that involve government websites,
+
+
+a website form the state of California that has information of renovation jobs that contractors do on
+homes and gated communities.
+Complex things he can bypass - Captchas, proxies, you don’t want to request much because you are
+gonna be blocked so I do rotating of IPs and user agents, we face Captcha issues, 2Captcha. I use
+AI. I use a lot Gemini and OpenAI APIs for performing web scraping. We have a solution called
+AutoExtract, that automates a lot of the web scraping code implementation, which uses ML to
+automate web scraping. Lets say you are scraping an ecommerce and you want to know the product
+name, so you put AutoExtract on natural language to extract the names from these products.
+AutoExtract — using LLMs for web scraping — I helped build it and I am using it.
+Zyte has two main business branches — web scraping software and web scraping services. I help
+build web scraping software, like AutoExtract and ZyteAPI.
+50+ Web Scrapers.
+GENEXUS — Backend Development, The Nexus — similar to WIzz, a low code platform.
+SALARY — $4k/month >>> $6k
+Contractor — 6 months and then focus on college.

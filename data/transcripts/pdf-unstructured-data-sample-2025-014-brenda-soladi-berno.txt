@@ -1,0 +1,32 @@
+BRENDA SOLADI BERNO — web scraper
+Techstack: scrapy, playwright, pyppeteer, beautifulsoup.
+Tensorflow, Pytorch, GItHub Actions,
+SQL, Postgres, MySQL, MongoDB, Jenkins, Docker, AWS
+Computer Science.
+
+
+Master in Computer Vision — I wrote papers in Computer vision.
+BitMaker -- Stella product, is a an architecture for running spiders inside there, we get clients that they
+need the spiders, we develop the spiders. When you run a spider in your local computer you run with
+a lot of problems, you only need a product from amazon, our job is to develop this code, then we can
+deliver to you the results of the scope, an architecture like Stella is an instance. We have in bitmaker
+cloud to run things and Stella is open for having it in your local servers. We have proxies companies
+that we use, we offer to you, you don’t need to use your time, we have those options.
+Scraping — products from shop sites amazon, aliexpress, shopee, then return all in the data base,
+update all these products every single time. Every page has different challenges. Bots, Captcha, the
+architecture of this project, we need to run this every hour, every two ours. The biggest challenge,
+Scrapy, some spiders with playwright, pyppeteer
+Insurance — we had clinical cases for people, we had an API project with Django and Python, we had
+clinical data for the people. Then we need to process into some calculations, the returned to the client
+a result to that calculation depending on what they feed the model. Server. Python packages.
+When I started inn BItmaker. Startup, they started to get data from some links, we returned the data
+from links. A product where they sold things in the deep web. They sent links where it has a list of
+products, we returned to the client products and more links. In was the same thing, the only challenge
+is that in the deep web you don’t have the link. Scrapy
+Huawei — more learning, culture, trip to china.
+Software Engineer at Virtual Labs — Django apps — there were like APIs request, we had end points,
+the client wanted to get this information. We need to return to the client data from animals. Digital
+marketing. We had universities, etc. My role was python developer.
+I like web scraping, I like to scrape websites. I know the use of the proxies, captcha solvers,
+playwright, the last step is the useless approach with playwright. I
+SALARY: $3k-4k

@@ -1,0 +1,18 @@
+MERCADO LIBRE — I am developing a payment processor to replace a third party payment
+processor. Microservices for money movement. Internal initiative developed on Golang.
+Also worked on another initiative in which I was in the quality of the data. Creating alerts to find out
+KIAVI — they provide loans to real estate investors, we were developing the web application on Ruby
+on Rails, on microservices and microfrontends. I was developing the sales funnels, when potential
+customers saw advertisements on google, they go to our website, fill a series of forms. How much
+money they want to request, depending on the data, we can return an answer for the loan or not, and
+how much they could get, also the microfrontends. Pre-lending Product.
+Originally this industry is very old school, people are requesting these forms on papers, converting it
+into a digital process, people who take the final decision.
+MICROSOFT — Identity organization, 1000 people, from different teams, 8 people working on specific
+microservices, secure tokens, once you enter your credentials, your email and password and we do
+all the verifications, we pull the data from the data base and check credentials, and provide the secure
+tokens. C#
+ENGLISH — great
+SALARY — $5-7k
+Relocation — not interested, I decided to live here. Only taking remote positions. Probably if is a
+hybrid in Mexico City.

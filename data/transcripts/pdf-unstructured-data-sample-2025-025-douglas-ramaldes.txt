@@ -1,0 +1,24 @@
+DOUGLAS RAMALDES - Software Engineering Role (Back end)
+Nubank — integrations with AI, OpenAI, Claude, you can make a transfer, you can pay a bill using
+your WhatsApp, we have internal chat in the app where you can chat with AI and send voice,
+message.
+Two weeks ago I LangSmith, tool developed by langchain, what is the price of LLMs and how many
+tokens I am using. Check hallucinations, develop some prompts
+OpenAI SDK, openrouter (.ai),
+Olivia AI — fintech I created connections with other banks, implement open bank. Open integrations
+with other banks. For example Olivia, you can log in and there is the two banks you can see all your
+movements and transactions aggregated. We implement scraping and reverse engineering, so we
+have to reverse engineering to access this bank. But now in Brazil is very common, all fintechs have
+access to open banking. Node, MOngoDB, Swift, Python.
+Passeo Directo — estudenta — the most famous app downloaded in Brazil for students, I worked on
+mobile, iOS, Andrid, full stack too.
+Social media for students, study network, meta for students, share materials of colleges, documents,
+share videos, my big delivery in this company, I changed the method of payment. I made this
+integrations, implement it in the company. I implemented payments, Stripelike Adyen payment.
+
+
+Extreme — full stack for government, very similar to, all the project is for the government, I built using
+WhatsApp. Tool for conversational chatbot, after this I migrated to another company, after I migrated
+Most complex APIs in TypeScript Node
+Amazing solution for startups, actions using LLMs
+Salary: 5k dollars now —

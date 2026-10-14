@@ -1,0 +1,35 @@
+XAVIER DE GARAY — PYTHON , Ruby , React — FULL STACK —
+TechStack: Python, Ruby on Rails, React, NodeJS, Postgres, MongoDb, AWS.
+A Senior engineer is not working every time on data bases
+GUSTO — Partnerships Team — MCP server of the company, an API for Agents, for other companies
+to make use of the Gusto Capacities from AI. I am also working on my team with the direct api
+access, to provide developer communuty to build their own solutions in our platform. Before that I was
+making connections with large partners, I was on the embedded team. Working with Chase bank, I
+was developing the API for larger banks to offer payroll services. Payroll embedding API. 80% back
+20% frontend.
+Ruby on Rails with React.
+I build the API for the agents — it is for controlling Gusto, it is a protocol. Instead of a json, you
+provide results in English in natural language to consume this info. I have worked with Pedantic AI
+and Llama Index.
+SOFIA — Founding Team — I was one of the first engineers, head of payments and invoices. I was
+working on the payments, insurance and invoices team. I was on engineering and product. Built the
+insurance backend Core.
+
+
+Django/ Python and React Native
+100% backend.
+VIA.work (Justworks) — it started as a recruiting platform. It was a startup for job experiences. Attract
+top talent who wanted jobs to live in other latitudes, for example in great companies around the world,
+places in Asia, Europe and so on. Getting out of the MBA to work in a different part of the world. Here
+I built their whole platform. I was the first employee and first engineer. I built the ATS - application
+tacking System - I built it from scratch, ours was very focused on recruiting international talent. Not
+remote, but focused on international matches.
+More front-end — 70% frontend React / 30% Laravel with PHP
+VANBAM — I was an entrepreneur, I had a transportation app like Uber for work, people who were
+going to work, use their routes to take people to nearby companies from their neighborhoods. It was a
+real time platform.
+Magento / PHP / and frontend in AngularJS
+Before that many platforms from zero, I worked on the largest mining company, did an mba.
+Personal project in Pedantic AI —
+SALARY — $10k/month // 120k/montly
+RELOCATION — it wouldn’t be my first option.

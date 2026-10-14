@@ -1,0 +1,13 @@
+MAURICIO OROPEZA GOMEZ — SENIOR SOFTWARE DEV (BACKEND strong) also full stack.
+TechStack: NestJS, NodeJS, Postgres, Redis, MongoDB, AWS, GCP.
+KAVAK — I am responsible for the post-sale process, process where we do guarantee and when car
+owners have a problem. For example we have an assistant to handle all the subscription lifecycle in
+the company where you can buy a car, we offer subscription coverage to protect the car, I am
+responsible for the experience and process of the lifecycle of the subscription of the coverage that we
+offer. I am responsible for all these backend features and the backoffice for the people at the company
+to allow them to sell coverage plans and tickets for guarantee process, we offer these features for the
+client and the Kavak application to handle the process.
+DACODES
+SALARY — $4k-5k -> wants $5.5-6k
+Relocation — YES, interested, but I don’t know if the company can offer a visa that includes my
+family. Wife and I have children. And I hope if I have the possibility I would need to relocate them.

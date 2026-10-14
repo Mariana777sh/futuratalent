@@ -1,0 +1,6 @@
+JUAN MANUEL RODRIGUEZ — SENIOR ENGINEER (BACKEND, SOME FULL STACK)
+
+
+I enjoy doing both.
+TechStack: Python, Ruby on Rails, Go, JavaScript, React, TypeScript, Postgres, MySQL, AWS.
+In MeLi we have an abstraction layer for non sql data bases.

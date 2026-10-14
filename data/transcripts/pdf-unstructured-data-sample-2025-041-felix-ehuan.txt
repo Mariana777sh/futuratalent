@@ -1,0 +1,17 @@
+FELIX EHUAN — SOFTWARE ENGINEER
+Techstack: NestJS ( a bit of NodeJS), but mostly C#.
+Ski dot Com — http://ski.com — It is a ski e-commerce company. Frontend maintainer. AWS. I am
+also a full stack. My current responsibility is having the frontend. Some backend: C#, .net, NextJS, a
+bit of NodeJS.
+Framwork — https://www.indexic.net SaaS for managing stuff for small business, they can have
+leads, amangement, accounting, online bookings, and this is managed by them. I started as a
+frontend developer and then a full stack with C#, Azure Cloud,
+Future Stay — UI developer, I was on the product team developer interfaces, mockups, animation,
+then I moved as a frontend developer. They have the UIs who deliver the mockup, then the frontend is
+glue that together. I was 3 months as a UI, then around a year as a frontend. I was working with the
+product team: Laravel and React.
+Started working on software in 2017 with Angular, then with React, I have a lot of expired with them.
+Then I swtiched to NEXTJS.
+Education — Physics Engineer —
+Salary: $4k / month but now he is earning $35 per hour for projects.
+For part time projects I would be flexible.

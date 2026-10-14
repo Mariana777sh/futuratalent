@@ -1,0 +1,26 @@
+ESTEBAN SALDARRIAGA — RUBY FULL STACK
+TechStack: Ruby, RUby on Rails, Postgres, MySQL, MongoDB, DinamoDB, Redis, React, TypeScript,
+NodeJS, Docker, AWS.
+ForUsAll — startup that has a Modern 401(k) plans platform — my main focus is we have legacy apps
+that are a mess. They are really bad written, they cannot scale, when I joined the company I got
+assigned. Doing a feature in this project which is spaghetti code will take one month. We decided that
+the best option was to create a new app, we are migrating all legacy code, into a new app in Ruby on
+Rails. Intregrations with the walltet and payroll, data ingestion, and authentication.
+Skydropx — Skydropx — Decentralized logistics and delivery platform. Currier services. I was in
+charge of doing some features. It wasn’t a thing specific but I was working on identifying and creating
+security flows for our systems. I was building the KYC service. I was working a lot with APIs and
+endpoints. In this kind of business we have a wizard that is a form where you create,,.. we have an
+app built on NestJS, I was creating the order Wizard, the form in which you create shipments.
+Shipments are the main part of the logistics business. Endpoints to calculate the way of the packages.
+Get to the places, cities, regions, all the connections of that. Frontend with NextJS and React. I also
+worked with Shopify connecting and integrating stores and receiveing payments.
+Ayenda — Rates Teams / Pricing Engine — in this business rates or prices are very important, the
+prices is very important and they are really dynamic, I was in charge of the algorithms of pricing how
+they work. Specifically about how the prices are calculated. We had a couple of challenges. It was
+huge, we had a lot of prices and a lot of rates were, we had 300 million records of prices. It was very
+dynamic, we created a lot of prices, that came with a lot of challenges as well as we had a lot of data.
+One of my resposabilities was also creating a learning culture, so I was running a reading club within
+me and my engineers, reading a couple of chapters of a book and one of my main responsibilities was
+developing the career of engineers.
+ENGLISH — we have meeting in English, people from the companies. 9/10
+SALARY: 6- $7k >>> negotiation.

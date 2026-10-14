@@ -1,0 +1,20 @@
+LUCIANA FERRERIA — AI/ML Engineer
+TechStack: Python, LangGraph, LangChain, AWS.
+Data Preprocessing, LLM applications, Transformers, NLP tools to process test, RAG,
+I try to get away from React, I try to be very minimalistic.
+when you have to pull a PDF and you have to do some type of processing they have to speak the
+same language, format, to normalize the usesage of PDFs for your applications.
+I was working on
+The person who is commissioning to me, tell me what to use, if the person wants Supabase, for
+example. I build MVPs and proves of concepts but I also have worked with AWS and so on. I am
+really versatile.
+VOZ AI — one of the most recent project I built is a Sales Intelligence, when you have a client in the
+pipeline, the key account manager, they can record the meeting, upload the recording and the app is
+transcribing the test, and we are processing this, they can add the website of the company and the
+LinkedIn, second round of processing of the LLM using some sales tools, so we have literally a
+roadmap, what are the blockers, who spoke the most, who spoke the list, all calling LLM APIs. —
+https://makeone.com.br/
+BLIP — UX Designer — Conversational AI — this was a job on the books, it is a different kind of jobs,
+I am an LLC, and I provide software services. For Blip, I had a work, signed. I was a UX Designer for
+Chatbots. They are mostly ruled based but is easy to attach to
+She is kind of confused with her career.

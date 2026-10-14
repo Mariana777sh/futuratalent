@@ -1,0 +1,18 @@
+JOHANN DAVID CALLE SANCHEZ — Frontend 5+ years
+TechStack: React, JavaScript, TypeScript, NextJS, Angular, React Native,
+UBITS - we built a tool to manage all the recruitment process for the organizations using a little bit of
+AI, we have implemented an app that can analyze the CV of the candidates and take decisions for
+
+
+you and help minimize the process of recruitment for a candidate. These platform is built with React
+and NExtJS, I am working with them most of this year. We can help the clients reduce the time to hire.
+RAPPI — Monitorei y el control de toda la operación — I was working on the app for monitoring and
+operations of the Ops Team, to monitor the operations, in the app we have a component that shows
+different metrics about the operations, orders, active orders, Curriers, Cancel Orders, Assign or
+unassigned orders, these metrics allowed ops teams to trigger some tools in the same app. We have
+a few Rappitenderos connected. In some places of the city, we had a full operation for example, 1000
+unassigned orders, but we have few curriers, so the ops team could trigger to turn off the operations
+or turn off the operations, reduce the polygon coverage, make different decisions.
+English —
+$10M pesos Colombian — I would like to have 12-15 million.
+Relocation — opened to it.

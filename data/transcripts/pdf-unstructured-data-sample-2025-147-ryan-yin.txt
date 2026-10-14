@@ -1,0 +1,17 @@
+RYAN YIN — REINFORMCEMENT LEARNING ENGINEER — Inference a bit\
+TechStack: Python, Go, C++, Golang, Java,
+SGLAng — I am heavy focus on changing SGLang Repo,
+Also worked with ByteDance framework
+Thsingua university
+I don’t think that I have more experience of using it, and integrating it, I am not that deep on inference
+itself. I would be interested.
+Cuda — I know how to use Cuda —
+Most of my work is implementing SGLANg into RL projects.
+About 70% of RL workflows.
+A lot of space to optimize. I am working on optimizing the speed. Very heavy long tail problems,
+related to me and my team, for dynamic sampling. More effectively. Also after training we need to
+update the ways from training to inference engine.
+SGLang project — I am interested in AI Infra, and I saw that the community is very active.
+Work Full time — I have time — from now until December — 10-20 hours / week
+Salary Expectation — $150-160k
+Is it a startup — depends on the situation

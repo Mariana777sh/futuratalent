@@ -1,0 +1,17 @@
+MICHAEL MARTIN BOLBOA
+TechStack: Python, SQL, AWS, S3,
+Orchestration I use AIrlfow, Apache airflow, Spark, PySpark, Scala, Kubernetes, Kafka,
+Databricks, certification with DataBricks, AWS RedShift,
+Globant — I am working here, — healthverity —
+POMELO — I have been most of the time crating data lake architecture artcheture,
+I have built the data engineering from scratch, set up the data bass, the architecture, define the tools,
+create the templates, the pipelines.
+The general problem is related with data, everything was set up and deployed, we have to thinking the
+future, if that is gonna become large, we need to support that and be scalable, Pomelo is a company
+that gives you credit cards, little by little we have more customers, more transactions to handle.
+Pomelo is a startup that gives credit cards for difference customers, you use the credit cards to make
+transactions, based on that you create like KPIs, metrics, machine learning algorithms, data lake, the
+data science team, have to create these models and metrics of KPIs, data sources. From the scratch.
+It was part of the contract to encrypt to check sensitive data, we played the data and do APIS.
+B89 —
+$5k >>>>>>$6k

@@ -1,0 +1,22 @@
+FELIPE SUOZA — BLIP - SOFTWARE ENGINEERS — BACKEND LEANING
+TechStack: .NET, JavaScript, TypeScript, Python, DataBricks, SQLServer, Postgres, MongoDB,
+Azure, AzurexCLoud, Kubernteres, Docker. + React. Semantic Kernel - to build agents with .NET.
+BLIP — I am still a software engineer, even if my current job is confusing even to me. I am software
+innovation, business innovation developer, it is a beautiful word to say that I am a Senior Software
+Engineer, but as I am working with innovative methods, to translate business to technology. I am in
+the team of Blip that is the Innovation Lab — We are working with agents, I started developing an API
+that is a platform to orchestrate multi-agents, I used .NET, Semantic Kernel it is like a LangChain,
+competitive langchain for .NET and C#. We don’t need LangChain in .NET.
+The concept of AI agents I the same, MCP, prompt engineers.
+
+
+Blip is a big company today that owns a platform to create chatbots, our platform is a no-code
+platform to create chatbots. My main role is to inspire and create ai agents inside the conversations.
+This platform brings a new possibility to bring AI agents in the conversation.
+Our Agents Platform in in Parallel with Blip — you can make a conversation with this platform that I
+built.
+Integrations with OpenAI inside Azure. I have tested Gemini and Claude.
+Before that, I held create payments inside conversations. I helped with payments integrations, for
+creating e-commerce inside cnversations. Conversational Commerce platform.
+SALARY — 12000 reais — $2200 >>> $4-$5k
+Relocation — São Paulo

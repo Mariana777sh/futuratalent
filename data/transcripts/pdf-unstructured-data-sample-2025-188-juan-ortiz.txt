@@ -1,0 +1,26 @@
+JUAN ORTIZ — SENIOR FRONTEND ENGINEER
+TechStack:
+D3690 — Frontend — Fintech company. They have two models, B@C B2B, in the last years, I built
+several application where we can see the prospects. We can also see the integrated communication
+tools.
+B2b offers a portal where real state can have all prospects. They can do a lot of things related to the
+real estate and manage their businesses there.
+B2C - they have a free portal where a user can search about house in sale and they can see their
+properties in the market, compare two properties, and they can get a loan.
+
+
+I participated in the B2B, so a real estate company can build dynamically their websites, with widgets,
+technically you are browser editor where the user can configure their websites. The final user, the
+client that is looking at the website is processing a json
+KAVAK (Unicorn in Latam / 30th employee)— A platform to sell used cars in Mexico, Brazil and
+Turkey. I was part of the tech foundations team. I entered in a moment when we didnt have any
+application. I entered pre-product, when the company had 30 employees.
+I would say in the first years was the delivery fast, have a balance between, I participated in the main
+website of the company, they also had internal applications but my main focus consumer facing app
+for Mexico. I led the development team for the experience, track current state of a client, see what
+steps they were taking, have a conversation if he had any issues. Also I took architectural decisions
+on the whole app tech stack. I led the microfrontend strategy, I established a development guide for
+performance metrics, monitory part of the app, alerts and errors.
+SALARY — $4000 also with a bonus which is based on performance, for example this year the bonus
+is about 5.6 months of salary. So it is like 5-6k. So I earn 5640 dollars.
+Relocation — Not right now.

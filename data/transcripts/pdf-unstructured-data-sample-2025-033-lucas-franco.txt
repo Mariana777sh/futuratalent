@@ -1,0 +1,31 @@
+LUCAS FRANCO — ZYTE WEB SCRAPING
+ZYTE — main provider of scraping tools and web scraping software. I am one of the developers in
+their super team, I am one of those who fix scrapers when they brake. Second I am responsible to
+handle processes for clients. A process becomes a routine, and becomes a data operations team. I
+negotiate with the set ups team I move to the routine team.
+If the crawler brakes I have to understand, debug, I have to analyze and do code reviews for other
+developers. My projects are more internal. We have different tools, my crawlers are doing integration
+for our internal tools. It is the same but not accesing outside website but internal data. Our platforms
+to monitor our customers, I have some develop some crawlers for our scraping platform. Scraping
+Cloud Platform.
+I automate the hand over process, between the original team and the ones that inherit it when it
+becomes a routine. The handover process is a quality check, I need the project to become a routine, if
+the process has some problems and errors I need to check it. Check patterns. Checks configuration.
+One of the steps is the QA, I do some documentation. Have you done web scrapers from scratch —
+part of the hiring process, I did the internal process I access internal systems. The steps are the
+same.
+How many scrapers — test and fix, more than 100. Creating from scratch 10-15.
+Personal project of stocks investment platform.
+TOTVS — the biggest latam company in software development, ERP, their biggest competitor is SAP.
+I worked as a data analyst and Senior Data Engineer. Responsible for Data Projects. I was
+responsible for the reports. Those reports were delivered for the C Level. I was responsible for the
+quality metrics for two big areas, software development and the support team.
+Python, to process the data into the pipeline. It has many private tools, AI environment, and similar to
+PowerBI. It was very technical, when I started as a data analyst I was the main developer in this
+position. Then I became the data coordinator because my role in the company. When thinks I go
+hands on.
+Technical in my academic formation — USP Master— Information Systems, it has kind of business
+disciplines. I know the technical part and the business part. Algorithms. Strong. Coding assessment,
+they are not close to the professional routine but I’ve done.
+Salary: $4k -and I want 30%+
+I would need to leave — just part time 4 hours woudlent leave company.

@@ -1,0 +1,21 @@
+FELIX RIBEIRO —
+TechStack: Golang, C#, JavaScript,NodeJS, TypeScript, Python, Pandas, Django, SQL, Postgres, —
+Backend
+15 years being a programmer, Golang,
+NUBANK — Cloud Infrastructure Provisining — I was a tech manager in the team responsible for
+cloud provisioning, tools, process, all the tools needed to put resources in the Cloud. Our engineering
+team uses our tools to put their resources in the Cloud. Cloud infrastructure. Techstack: Golang and
+Clojure. Internal system written in Clojure.
+OLX -- I worked here for 5 years, in different teams. I worked on 5 teams. The most important project
+was a system responsible for the content knowledge of how the meta data to other teams. Define the
+categories, the products, structure of the listing, re-use this metadata in a specific context.
+Team responsible for the technology of the marketing, acquisition and growth in terms of technology.
+Python with ETLs, to run campaigns with 1 million users. Data base for marketing analysis and
+segmentation, providing tools for this data, and a tool to massively email the clients.
+The main tech: Golang, Postgres.
+VTEX — C#, for some business, products there, most important project was in Golang, and Nginx
+(used to make routing). Product responsible for all the requests, handle it and send to the correct
+micro service. I built the micro service orchestrator at Vtex. Docker was entering on the industry, I was
+one of the responsible people to implement Docker in VTEX.
+Salary — $5k-$6k.
+Ask for CV and questions for role

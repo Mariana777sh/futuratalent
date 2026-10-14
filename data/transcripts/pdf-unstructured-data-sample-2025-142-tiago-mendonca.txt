@@ -1,0 +1,21 @@
+TIAGO MENDONCA — Software Engineer — FULL STACK (backend focused but strong on frontend)
+TechStack: React, Node, Go, Python, Kubernetes, Oracle, Lambdas, AWS, GCP
+NEOSPACE AI ($18M)— started as a frontend developer then I am working now with containers and
+AI Training management. We have a cluster where we train our models and we make inferences. We
+are training LLMs for the banking industry. We currently have 4 kind of products, a CRM, the credit
+score product to help decide if giving money to someone, Conversational App inside your banking
+app, Voice AI. I work at the Core of all of them. I provide internal tools and safe environments where
+they can train the models directly. They don’t have access to the machines. I built the DevSpace
+product, a container for various machines where other devs train and manage the resources like the
+GPUs. I provide tools for people to work with Cuda. We didnt want to give access to the user straight
+to the machine. We started creating containers for these users, we started making the experience of
+training inside these containers better. Because of the product my colleagues are able to train faster.
+Do distributing training.
+I do work a lot with vLLM — because I do have the DevSpace and provide server.
+PORTAO 3 (YC S21) — full stack — I was a full stack developer, not so focused on backend. Three
+jobs. I was the owner of the main product — the first product, the MVP and scale it, it was about
+company expenses and travels. Book hotel and book fights, and get some money in the credit card.
+Then I was working on the credit card product for digital marketing, here only backend.
+SALARY — $14000 >>> 19000 a year. >>> $65k
+Sometimes very slow to talk
+English —

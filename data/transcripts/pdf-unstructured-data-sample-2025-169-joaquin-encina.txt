@@ -1,0 +1,36 @@
+JOAQUIN ENCINA — AI ENGINEER — BACKEND / FULL STACK (70%Backend /30%front)
+TechStack: React, JavaScript, TypeScript, Python, Django, FastAPI, Postgres, MySQL, DinamoDB,
+Lambdas, AWS. LangChain, LangGraph. OpenAI Agents SDK.
+TREBLE — I am building features that use an SDK of AI. I am in the Core Product, which has
+everything. I began solving a node of ai that had hallucination. I have talked with many users. The
+biggest pain was allucination. Play with hallucinations without spending too much money. I made an
+agent of lead qualification. I am building an agentic framework or orhcestator product that uses tools
+to integrate with WhatsApp. I am building this product on React and Lambda and Python.
+FINTUAL — I was on the Operations Team, where I was mostly in Backend — I was mostly on
+automations, the cashflow close of everyday. At least two hours. I was in charge of automating it and
+we reduced to 5 minutes. We were a wealth management platform, there is a bunch of legal and
+
+
+compliance steps, so we need to follow some steps by legal reasons,to operate, we had many steps
+with bank interactions that don’t have APIs, so we had to take screens and share data very manually.
+This was a feature to close everyday what people invested. Our main output was reducing the time
+form 2 hours to 5 minutes. Automating, we also minimize errors, as it was at the end of the day people
+could make many mistakes. Stack: Ruby on Rails, and front ViewJS. Mostly backend.
+REX — it was my fist job in tech. Started as a junior. I became a senior developer after 6 months. I
+was offered the Tech Lead position before a year. I was considering that tech lead was more technical
+but it was very managerial but I wanted something more technical. I left to Fintual.
+I built an automation module that allowed clients automate flows, I had a platform of payroll and HR.
+Very complex and a lot of modules. Automate flows and reports. It was a complex feature. I also built
+a bunch of other features.
+The second time, they called me because they got an offer of Adduce, Rex was charging for payroll,
+because Addeco was very big with this they could get to breakeven. They could get an integrations
+with Dynamix, and other custom things they needed and they didnt have the capacity for making it.
+And we integrated ourselves with Addeco. They sold the company after Breakeven. A Norway
+company bought it.
+Mostly a payroll platform. But also HR in general.
+SALARY — $90k — $7k/month >> I want more than $100k
+Relocation —
+Industry — I want to keep working on AI,
+Onsite:
+Relocation — maybe cannot do relocation —
+Remoto — preference remote

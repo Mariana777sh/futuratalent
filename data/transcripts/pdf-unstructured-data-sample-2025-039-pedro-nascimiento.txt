@@ -1,0 +1,42 @@
+PEDRO NASCIMIENTO — NUBANK —
+Techstack: React ( not much recently), I am ok with TypeScript.NodeJS, Python not much,
+NUBANK — I have been on the same team. Open Finance team — API Standard that allow banks to
+share customer information with others, it is very common to have a bank account in many banks, and
+anybody can offer you better products. The team at Nubank was just starting. I was the 4th to 5th. I
+focused more on the initiation. It allows you to initiate payments. Initiate a payments using balance in
+another bank account. From a single app manage the balance of all your banks.
+Regulatory — provide resources for other banks to access. In the past we had up to two months ago,
+I was working on the product side of things. Single one click payments. Customer gave us permission
+to access other banks. I was building an open banking wallet where you could manage all your money
+everywhere and in every bank.
+Provider side, things that we are mandated to do. Consumer side which is the inetersing part, bringing
+data from other places to NUbank. We launched in march, in 4 months we had more than 1 million
+people interacting with it and 200 million dollars in deposit. I started working on this on December or
+November.
+Techstack: very niche, our language Clojure, it was a language, it wasn’t created at Nubank, it a
+fictional language. Database: Datomic and DynamoDB. Kafka, AWS. The app code is mostly on
+Clojure. Gets complied to native flutter code that works in the app. I am working 70% backend 30%
+frontend.
+BIT CAPITAL — I joined very early, it was a fintech, digital bank account, the Pix. The payment
+system. Before that there was a legacy system that took like two days to settle payments, we had two
+other payments in Brazil that was called Boleto, we integrated with account providers, tech providers
+and we were on the initial implementation of Pix, we were among the first institutions to implement
+Pix. I became one of the senior people in the company. It was a Software as a service where you
+could build a digital bank on top of it. We offered Banking APIs for companies that wanted to
+implement banking products.
+React/ Typescript. Postgres. Redis. It was on top of Blockchain, Stellar blockchain. NodeJS.
+Venture-backed — we had a seed, it never had a series A. It raised something on the order of 2
+millions reais.
+ESTUDIAT COM VOCE — EdTech — The company produces educational university videos.
+Providing the video, controlling access and subscription. I became the only developer when tech lead
+left. Ruby on Rails and AWS, Postgres, Redis. React/TypeScript.
+Tech team was a small part of the company because there was a lot of content production — the thing
+that differentiated was the quality of the content from classes from some specie universities. It was
+similar to Coursera. Khan Academy was a better comparison. Developed everything from scratch?
+There was a well stablished code base. I joined when the company ws 2 years old, we had to develop
+some projects from end to end, and existing code base. We had a job board that we tried early on. It
+was focus on university students.
+Airbus - not related to software
+Aeronautical Engineer — Assembly integration facility in Germany.
+NEXT: React +
+Salary: $120k / year —I want $140k

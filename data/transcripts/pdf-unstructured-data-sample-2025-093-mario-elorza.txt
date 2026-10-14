@@ -1,0 +1,26 @@
+MARIO ELORZA — iOS AI Engineer
+TechStack: Swift for iOS. SwiftUI, SwiftUI, SwiftTest, StoreKit, HealthKit, iOS Foundational Models.
+Generalist full stack engineer. React, Angular. NodeJS. I moved to the mobile field and I started
+working with React Native. Then Swift for iOS. SwiftUI, SwiftUI, SwiftTest, StoreKit,
+Foundational models inside your application —
+Quibika -- I am using the apple intelligence LLMs and they work locally in the device. I am working for
+a startup from the US. IQ Motion — not yet in production. Lavarage motion technology to understand
+how you are playing tennis, sensors, motion processor that translates that data into information, to
+give insights and recommendations on your tennis playing.
+My suggestion is not using it from the app, having a backend. The whole time the same company.
+Some initiatives inside the company, I did research on foundational models.
+SUMUP — global payments engine and POS — we were building a digital account for merchants in
+Chile, all the money and transactions go into the digital. iOS. I worked with the team in Bulgaria, I
+participated in a Hackathon and won the price, for the best project, for the merchants.
+I was part of the global team, we were working on the digital account from the baking team. I built the
+Transfers product to send money to other people and the digital debit card.
+Betterfly - unicorn startup from Chile — it is an insure tech company, more focused on the health side,
+based on your good habits you earn some coins that you can use it to give away. The business side, if
+you consider what is an insure tech, when a person has better habits the risk is lower, with that the
+company can increase the policy for more coverage. We were a small team of 2 iOS engineers, we
+built the whole app the two of us.
+We had a design team and we followed the guidelines that they gave us, it has Home Screen and a
+tab bar, very user friendly, we focused a lot on transitions to make It look more soft, we discussed a lot
+of usability things with the design team.
+Next - I can understand other things as well.
+SALARY — $5.3k >> %20% increase or so.

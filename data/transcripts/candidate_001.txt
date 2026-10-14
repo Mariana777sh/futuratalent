@@ -1,0 +1,32 @@
+Arnold
+Looking for something where I can first try while keeping my current job.
+Let's try 3 months and see how it goes.
+More than 7 years of scraping experience.
+Scraped all Colombian government websites.
+Tangelo:
+5 years.
+Squad lead for the last 3 years.
+Managing a team of 10 developers.
+Architecture.
+Scraping.
+Police department.
+Contraloria.
+Now doing payment integrations.
+All websites have tokens and JSON.
+Mexfix:
+Invoice-financing company.
+Built investor payment automations.
+PayU had no API available.
+Built with:
+- Selenium
+- BeautifulSoup
+Bypassed:
+- Google Captchas
+- Government Captchas
+20–25 hours per week.
+Current salary:
+$4,000
+Expected:
+$3,000-$4,000
+Call Edison
+Review Zyte

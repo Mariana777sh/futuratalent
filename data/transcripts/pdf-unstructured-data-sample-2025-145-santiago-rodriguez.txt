@@ -1,0 +1,28 @@
+SANTIAGO RODRIGUEZ — 6+ years Software Engineer — AI Full Stack LangGraph
+TechStack: React, NextJS, TypeScript, Rybu on Rails, Java, Node, Python, Flask, LangGraph.
+LangGraph ( 8 meses)
+EXANTE — Convert customer contracts into cash faster with ai driven automation — AI for invoicing
+(cobranza and invoicing) account receivable and collections — automating the CFO office — NextJS.
+I am more focused now on the backend structuring agents. Backend in Python, it is my first time
+building on Python. I have worked a lot of microservices. I am working with LangGraph, it has a
+learning curve, it was difficult in the beginning, now we are doing Evalvs and the UI, it has been
+working well recently.
+We build on atomic design with the frontend, guidelines. Then I jumped into backend for agents. I
+have been 3-4 months only receiving the frontend but mostly working on backend.
+Front of how to put the agent.
+AI Agents for Finance
+SKILLSHARE — full stack —monolith on PHP also some part go frontend, frontend on NextJS — I
+was on the Teachers Team — building teacher tools — the last project, how to launch a class module,
+index the classes in a new way, new tabs, new ways of submitting content, the creating a class flow.
+Making a search module for 1:1 sessions, for this we used Argolia for searches. GraphQL.
+BUNNY STUDIO — Full Stack — I was learing, I was making the search engine, I helped built the
+new website. We were migrating from React to Next, and I made the search engine frontend in React
+and Next.
+SALARY — $120k
+
+
+What I want — The team where I am lacks seniority, I want to work on an AI team, teams that are
+implementing AI
+Why healthcare — It is one of the most complex systems and most bureaucratic, and AI can get data
+without structure and structure, I like the impact. The problem of healthcare is that is very corrupt and
+very slow. I like to break things.

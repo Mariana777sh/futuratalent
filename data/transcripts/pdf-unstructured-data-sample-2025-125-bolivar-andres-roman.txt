@@ -1,0 +1,20 @@
+BOLIVAR ANDRES ROMAN — Backend Engineer
+TechStack: Go, Golang, Python, NodeJS, Docker, Kubernetes, AWS.
+I have used React very few. I Kushki I used React.
+DEUNA — building different integration with current product. Integrating new payment processors like
+Stripe, depending on what the customer needs and depending what payments they need to process. I
+have made integrations for clients in the food and airline industry. I know how the conciliation of card
+transaction process is made and all the workflows to implement it from scratch.
+Deuna is using AI to integrate new payment processors and workflows. The workload for developers.
+Implement AI in your current workflow to deliver integrations faster. LLM use all the data that we have
+to provide feedback and information, to increase sales, reduce risk of fraud operations and etc.
+
+
+KUSHKI — I worked with api architecture and design, I worked on apis, POS to read physical cards
+and read all the messages to process transactions with visa and Mastercard, when you have to build
+all the messages. Sent by a customer or card holder. I worked using Amazon Glue for making reports
+and loading data. Products here were the payment processor, payment integrations and POS.
+I provide some support to the AI specific team. I am also studying AI stuff. Specially making agents
+and implementing LLMs to build a bot to provide insights and information for the data that we have. I
+am mainly focused on main LLMs at first.
+SALARY: $3k/month >>> Looking for $ 3.5-$4k

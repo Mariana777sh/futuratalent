@@ -1,0 +1,23 @@
+MICHAEL DAUNER — Software Engineer — open to anything.
+If it is react I would do a Frontend in React.
+TechStack: TypeScript, React, NodeJS,Express, Postgres AWS.
+DEEL — I have worked with 50 microservices, each micro service can be a little bit different. Some
+teams use Express and some NodeJS, RestAPIs. I mostly work on Express. We have a client base
+app based on React and the internal one. Postgres.
+I work on production issues for the clients, tomorrow is Friday and people need to get the payroll
+done. I need to work on it as fast as possible. Debuggings. I am working on the USA Payroll team,
+mostly on Debugging right now. USA has 50 states and each states has different tax laws which make
+it difficult to calculate. We have an engine to calculate the taxes and benefits.
+I also worked on the customer experience team, building new payroll features, client onboarding, full
+stack. When we have a new client we need to onboard employees, I built onboarding steps to sign all
+the documents in one. I implemented it so they can sign it just once.
+I also built a supportive time tracker, when you have hourly employees. Also a vacation module.
+Calculations for hours for the payroll.
+ADMIOS — it was basically on TypeScript, — I was working on three or four different projects. The
+biggest project about food trucks management, a big companies in San Francisco, they enter the
+menu and clients can order through an app. Node in the backend and two React Native apps, one for
+clients and one for sellers. 4 teams and 5 developers.
+SALARY — $6k / month — I want something around that, the thing is I love working at Dell but I have
+been here for 3 years, so for the right thing I would be exciting to change.
+ENGLISH — great!’
+Relocation — NO

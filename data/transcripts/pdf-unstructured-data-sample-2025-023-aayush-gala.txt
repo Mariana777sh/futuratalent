@@ -1,0 +1,31 @@
+AAYUSH GALA — PYTHON Engineer —
+Techstack: Python, Django, FastAPI, PySpark, MySQL, SQL, Postgres, Mongo, Langchain, AWS.
+Data when we get it from Rappi, SKU, it is not accurate, we have access, gemini access, they have
+predefined gems, you are trained to be the person who handle the supply chain. We have trained
+Gemini, Gemini Gems. You are a supply chain manager, you manage the supply of products, we call
+an API to know how many products, everyone data is inaccurate. Get correct numbers. You need to
+know the expiring data of this product. How does Gemini — shelf date, how many days you can use it.
+I am calling the API.
+
+
+I am using Copilot. Another thing which I haven’t done is extracting data from video. I am working on
+an MCP, upload a video, that particular video has a person scrolling from some data in a website and
+extracts data from that. I wanted to explore how MCP works. There is not need but I wanted to
+understand how works. Calling Gemini, to help with data, integrate that with Claude, and in the
+backend it calls Gemini API to get that data.
+Fountain9 (YC W21) — it helps 4 companies manage inventory data. Cosmetic company.
+Mainly focused on inventory management, in big level. Rappi has Rappi Tubo so we managed Rappi
+Tubo inventory. I was building the whole processing for them for iNventory Management. If Rappi was
+gonna sell 10 million units, there is always . Inventory modules.
+8th employee. Inventory Management — just having focus doesn’t help, what Rappi needs if you are
+gonna sell something you need to plan how many units to buy to be able to supply demand. Always
+there is errors or surprises. You can’t miss out stock for coke, because when you order something you
+also ask for something else. If there is out of stock you will miss a whole order. Optimizing how many
+things you have. There is also wait times for orders, because suppliers also delay depending on how
+many units. So you need to weight all of that. They have a warehouse.
+Techstack: Python, Django, SQL, Postgres, Mongo, pg_vector.
+We have been exploring LangChain — Postgres, I love it a lot. PG
+Capgemini — Python, PySpark, biodata, ETL process.
+Built a tool based on Python, we were using Django. We were doing all transformation of data. Data
+migration, Johnson and Johnson, they wanted to migrate from Postgres to Snowflake. They wanted to
+solve their issue of scale and build reporting on top of that data. I helped built a tool for that migration.

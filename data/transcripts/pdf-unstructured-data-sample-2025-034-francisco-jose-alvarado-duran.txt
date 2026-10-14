@@ -1,0 +1,25 @@
+FRANCISCO JOSE ALVARADO DURAN — FULL STACK — venezuela
+Galgo — Galgo.com is a finance tech company, and I deal with different products. I built inventory
+system, I built a few apps for operations, right now I am building an AI Agent to automate documents
+verifications - here we are using LangChain, migrating to Azure, using the OpeanAI APIs. Langchain
+is that one year ago it was a better tool to make AI agents and make workflows using the tools and
+
+
+APIs. Now we are using Azure because Galgo signed a contract with Azute to build on this platform. I
+am a 30% frontend and 70% backend. I prefer backend.
+I started building Ruby on Rails, and two years ago we are using NodeJS, because Galgo grew and
+expanded to Colombia and Mexico and they think is a good tool to build new systems.
+We started building the credit simulator with NodeJS/ NestJS. Migrated from one language to another.
+We migrated. Now we are building AI agents in NodeJS.
+Inventory and Operations Platform — Inventory was built on a monolith architecture app in Ruby on
+Rails, we are using, we built a credit simulator, that allows to calculate all of credits based on the
+months taxes background. I
+Merak — I built a few applications in different sectors like healthcare, building real time chats, using …
+I built a few web apps.
+Techstack: NodeJS, React, Ruby on Rails.
+Banda Ancha Telecom — I built automations for telecom, for telecom companies, equipment. I help
+configure the network.
+TEchstack: Python and Django.
+English: 6/10 — not too good to present
+Salary: $3.5k -> $5k
+this role is ok, but not too senior

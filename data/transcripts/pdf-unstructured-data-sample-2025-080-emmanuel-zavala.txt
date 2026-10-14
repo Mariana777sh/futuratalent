@@ -1,0 +1,29 @@
+EMMANUEL ZAVALA — Data Engineer CLARA — 10+ years of experience
+TechStack:
+I started as an ETL Developer.
+CLARA — Data Engineer — We have ben dealing with a lot of different technologies, started with
+AWS, S3, Lambdas, Databricks, Airflow, Terraform, Kafka, S3, almost everything in data bricks.
+Snowflake alternative — I think we can have everything… big data tools, I think DataBricks has
+almost everything.
+I am the manager of data engineering — I am responsible for all finance and risk, for those teams we
+do solutions related to data,, ingestion, transformation of data, making data available on the meta
+base. I have now two people on my team, I decide the solutions, provide management, two teams,
+provide with all the technical solutions that this team needs. All the necessary data, people need,
+generate all the data.
+
+
+For Mexico my resposability is getting all financial info of the clients of their finance, so they can
+create insights and risk models, so we receive info, transform it and use it, if we can provide some
+products or not.
+I have automatized getting the financial data, in Mexico there is a government institution where you
+have to pay taxes and I automatize getting that data and make it available for the dashboard and the
+data for data science models.
+We are making AI tools to automate, contact users, review results, in order tohave data available for
+everyone. We try to make it easier.
+CITIBANAMEX — Owner of the Big Data Platform, whole platform with Google Health. 16 people at
+the end. All of them from consultant companies, I was the responsible to the platform. I needed to
+learn more technical stuff. TechStack: Spark, Python, SQL, Claudera,
+Datio — I started to learn a lot of big data, one step order, I went to Citibanamex, I was the owner of
+the
+Salary — $5.5k — >>>>>
+Expecation $7k

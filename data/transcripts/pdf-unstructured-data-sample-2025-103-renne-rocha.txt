@@ -1,0 +1,34 @@
+RENNE ROCHA — WEB SCRAPER — Backend Engineer // Fullstack (React) basic react
+knowledge
+TechSTack: Python, Django,
+XOMETRY — Backend developer. I have no web scraping task. They don’t do web scraping. I do
+some consultancy.
+Marketplace for manufacturing. I work on the pricing team. You send your part and you get a quote,
+usually an automatic quote, I work with the team that gets information. I work there and I maintain the
+service that does the process for the price for the customers. Pricing team — 5 engineers — pricing
+engine. Mainly Python, I am more of a python developer. I work on implementing, maintaining,
+improving.
+Internally we get info from other microservices. We have a service that analyzes the parts, open the
+CAD files, we get info, and present a price, we have a lot of logic to calculate prices, and validation,
+pricing is responsible to return. We have a lot of data science model, and most of the time we create a
+price that has a margin for us and to pay to the company.
+SHIPPO — I was working at the integration team. To integrate with the carriers, you can send the
+packages to other places, Shippo finds the best courier to send it. Integrations with companies like
+DHL, etc. APIs to get information from this. I would send from this code to the next code. Get
+information for all of them and provide a price for you. Working on this integration team. We also do
+some consolidation work.
+CAREERIST — I was doing some training, and python teacher
+SIX FEET UP — Consulting and different projects on web development with Django.
+ZYTE — I spent a lot of time. Joined as a web scraping engineer. I was working with professional
+services area. If you need data from any I would create spider to get the data, the format and
+processor. I was working on e-commerce scrapers, Amazon, Walmart, in the US and Europe and
+even in South America. 100+ scrapers. How complex were they? Niche e-commerces. Food
+
+
+companies, pet companies. Entertainment like IMDB for movies or shows. Rotten tomatoes. Worked
+with bets. I was keeping a team, it was a big company and they wanted to scrape data from
+entertainment, what people are saying about shows. Series, Movies. It was a major streaming
+company. And they got data from any kind of website where you could put reviews about a show.
+Personal Project. I maintain a project called Querido Diario, we scrape public data from Brazilian
+cities.
+SALARY: $6.5 anything above that.

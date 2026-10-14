@@ -1,0 +1,30 @@
+TOMAS SARMIENTO — SOFTWARE ENGINEER — GOLANG
+TechStack: GO, Golang, JavaScript, TypeScript, React, NextJS, VueJS, NodeJS, NestJS, Express,
+Hono, PostgresQL, MySQL, SQLite, MongoDb, DynamoDB, Redis, Elastic Search, AWS.
+LangChain, I know how to use it but not in production. I have learned about RAG.
+HAPI APP (YC W21) — hapi.trade — it has almost a million users, trading, I am the leader of the
+trading module —it is similar to fintual, we are more of a trading platform. This is more for traders, it is
+more like Robinhood, do trading techniques. The founders are form Peru. This is a YC startup as well.
+Mostly backend. My main role has been to scale the trading module, my role mainly has been to scale
+it, make it reliable for concurrent users. My main role is to have consistency for the financial industry.
+Distributed Lock to avoid race conditions. My role has been to make it very consistently. I also have
+built microservices from scratch to monitor the prices of stocks. Built the 24/7.. The stock STOP;
+LIMIT orders. Monitor prices every second, I built a microservice from scratch, Monitor +10k assets
+every second (microservice from scratch). Monitor +10k assets every second (microservice from
+scratch). GTC orders (90 days in the market). After hour orders (24/7). Mentor 3 engineers, lead.
+Interview +40 engineers
+GTC orders (90 days in the market)
+LIZZA (YC W22) — creator platform to connect brands with influencers. I had to build the MVP mainly
+from scratch, in the frontend we had React, in the backend Golang, we were building hexagonal infra,
+I built the whole backend myself. I worked with the tech lead on the frontend. We had a chat for
+influencers to communicate with the brands, we had notifications which I built from scratch,
+companies publish their campaigns in which they need influencers, influencers apply to that campaign
+and they choose which ones. It was a very social app. That is basically it, it did not really reach a lot of
+request per second, we would make It very reliable and consistency. I built it from zero to one.
+Personal Project — LangChain — thaffy.pro — financial tracker for WhatsApp for people to track their
+expenses. Has some users but not yet many users.
+ENGLISH:
+SALARY — $5.5k onwards. Ideally I want $6 - 6.5k.
+RELOCATION — open to relocate? Depends. I am in the south of Chile.
+USA roles — yes — I would move to the USA.
+I would say I am advanced in NodeJS>

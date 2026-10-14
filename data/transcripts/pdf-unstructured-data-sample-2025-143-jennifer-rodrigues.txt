@@ -1,0 +1,21 @@
+JENNIFER RODRIGUES — BACKEND AI CHATBOTS
+TechStack: NestJS, Node, JavaScript, TypeScript, Postgres, MySQL, MOngoDB, AWS
+Frontend? Not really.
+BLIP — Mid level chatbot developer — I do use their own platform to do the development and
+chatbots, you can use their own platform but also Facebook and instagram, JS .net and C# APIs.
+Their chatbots use AI but I don’t work much on implementing the AI, just consuming. I am working for
+a couple of clients, Futura Inglesa — English classes and students can ask information about it. They
+can do an online level to see their current English level. They can see they are beginner and go to
+beginner, if they are not beginner they consume the client API, chat and know their level of English.
+Another client is called Recovery, they do settlements of debts for credit cards, they buy that debt and
+go after the person to pay the debt, they offer discounts.
+DASA — NestJS, NOde, JavaScript, TypeScript — they own a lot of hospitals and labs, they have a
+website where doctors and users can do for online consultations — doctors can do online
+consultations, do around two years.
+I have been taking some certifications, AWS, Microsoft AI 100, and I am taking the AWS Certification,
+using AI tools in the Cloud.
+LangChain and LangGraph
+
+
+SALARY — $6000 Brazilian reais — $1.5k
+Relocation — Open to move to São Paulo — she considers it but good increase.

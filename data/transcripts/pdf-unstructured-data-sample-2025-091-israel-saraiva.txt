@@ -1,0 +1,26 @@
+ISRAEL SARAIVA — SOFTWARE ENGINEER — FULL STACK — front-end
+TechStack: Javascript.
+INFOSYS — Belgium Telco company that works on the mobile services — I started working for them
+on frontend with Angular, after a couple of months they wanteed someone with backend experience,
+Backend developer. Technologies for the frontend was Angular, now it is Springwood Java, NodeJS,
+GrapghQL… Integration with government because there are several ways to log in, user name, also
+there is another way to log in, which is a government application, Belgium is a different name, gov
+application, certification, gov ID, all information from the government, just for the companies to have
+more security when logging in apps.
+Today I am involed of the registration of the user - signup, onboarding —
+DUSTIN — e-comerce app, I was working on NextJS frontend, that is why I left because I was not
+being challenged there. It is a company form Switzerland.
+SHELL ENERGY — I built a backoffice app from scratch to manage consumption of energy of B2B
+companies. I sed Kubernetes. We managed all Kubernetes. Golang, NestJS,
+TOPTAL — https://ultraspeaking.com — Ultraspeaking — I built re-built their application from scratch
+and I was the main one building the frontend app. Only version only user React, and we built together
+a new app using RemixJS, they wanted to have freedom on the real time applications. They wanted to
+have the possibility to work with real time data. Tech: React, Node, Express.
+QUICARGO — it is a logistics startup in Europe. Matches who wants to deliver with transporters.
+Improvements on their web application. Angular. Refactor the application to use the new angular
+version.
+RAPPI — I built from scratch their backoffice app, to manage deliveries. Mostly frontend. Tech stack:
+React, Google Maps API.
+Location: Netherlands
+Salary: $100k euros —>> $
+Ask for CV

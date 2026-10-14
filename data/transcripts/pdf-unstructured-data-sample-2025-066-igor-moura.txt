@@ -1,0 +1,31 @@
+IGOR MOURA — DATA ENGINEER
+TechStack:
+FACTORED — I am currently in a company, a Client that does search on images and videos —
+Coactive.ai - Multimodal AI Platform — they have basically have retaild, ads, media, they have a lot of
+images and videos and they need to build semantic search on that. Find the best images that can
+explain a prompt. Pictures that match a query. Moments in a video that matches something
+specifically that you want. Customer needs to send images and videos, I removed everything from
+data bricks and built from scratch, did machine learning, we run a machine learning inference on that.
+We work mostly with vision models.
+OFFERFIT— Data pipelines, get this data into RL pipelines. Custom SMS message, get this item, get
+at this count, discount for personalization. Nice company, lots of technologies, however the workload
+was insane, I got burnout, so I took a break to relax.
+RIGHT BALANCE — Client — Luxury Presence.— Automated Websites Creations for Luxury
+Realtors. — outsourcing company where I worked on a rental house project, you have to register
+when you are gonna rent or sell a house. The platform was a website for luxury realtors, I had to build
+a nice data lake, then use it for analysis and build a website of the real person and connect their data.
+I was a contractor there — the client at the end couldn’t get VC funding and they closed.
+GAZAHEALTH — building everything from scratch, the data lake itself, ingestion, pipelines, It was a
+pressed startup. Sadly VC funding was hard, I automated everything but didn’t see an actual … I even
+had to close the AWS account.
+IFOOD — delivery startup — wired on the data team, serving over 500 data analyst, Kafka, api, where
+are our sources from, where do you want the file to be stored, automate the pipeline, build ingestion.
+A self serving platform for data ingestion, I want data from this source, I want to do this kind of
+transformation, and I want this table. Selects and joins for different tables, structure from source. Lots
+of underfeed to automatically scale, airflow, pipeline, lots of actions, automatically… Databricks for
+these requests. Docker and Python scripts. A Dara lake of 60perabytes.
+I started as an embedded system development, I like embedded stuff, I jumped into data. I just
+finished a master in Machine Learning, I have been doing data ingestions, information to them, so
+they can make decisions.
+$80k year
+Inference project ——

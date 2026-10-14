@@ -1,0 +1,8 @@
+DANIEL FERNANDO MENDOZA —
+TechStack: Go, Python, Django, Flask, Sanic, Rust. MySQL, Postgres, MongoDB, DynamoDB, Redis,
+Elastic Search, Apache Solr, AWS, GCP.
+MEDIALAB — it has three to five projects — https://worldstarhiphop.com/videos/ — I work on this
+one, I am in charge of the infrastructure, adding features, and taking care of microservices. I support
+the legacy infra. Encoding that is the part uploading the videos that are being added there. Search as
+you type features. It has 10 users per second which is not too much but there is a couple of
+challenged for encoding of the videos.

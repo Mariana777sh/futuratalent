@@ -1,0 +1,33 @@
+GUGA GONGADZE — SOFTWARE ENGINEER — GEORGIA
+TechStack: JavaScript Ecosystem, React, NodeJS, TypeScript
+Rust, Python, AI Engineering,
+Personal Project — Orchestrate and Consolidate Information AI Tool and Agentic, can act on info —if
+you are a big company documents and information are spreadout, how to interconnect everything
+connected with ai interface chat, MCP servers, clients that connect with these data bases. Azure
+stack.
+Move Work Forward — ecosystem based on Atlassian — connect to Microsoft teams and Jira —
+When you have to go into it it is a very interesting challenge because you don’t have control in
+Microsoft and Atlassian but you have something in the middle to connect them. NodeJS, TypeScript. It
+has like 10 products
+SHUTTLE — Platform for Deploying Rust Applications — have a web engineer and you have a team,
+backend services in Rust, by using Rust as a language. Your target audience is an engineer itself and
+you have different products for them. I was doing React with TypeScript. Backend? I was doing
+backend on Rust.
+UiFLOW — acquired by WorkDay — It is an internal tool at workday — website builder that can
+program logic itself. Visual program language, drag edges between the notes. My main resposability
+was using the language and creating different components like loop, or logic componets, ui
+components, whatever is needed to build a website. This was targeted for enterprise customers. This
+whole thing would generate javascript as an output, docker and deploy it anywhere. When you have
+this docker downloaded, automatically deploy in your Kubernetes services. React, Nodejs, docker,
+Kubernetes, AWS, Azure.
+TopTal — Claap — A loom alternative — https://www.claap.io — frontend and backend engineering,
+help develop a chrome extension for them. It basically worked like Loom. To share the screen,
+annotate it, save the video and send it to your co-worker. I was a member of a team od 3-4 engineers,
+I built the main UI and video processing in the backend with NodeJS, AWS.
+
+
+Hexagon — https://hexagon.com — measure sizes of tools — I was hired as a consultant to migrate
+Angular to React. Also training.
+Kubernetes ?? Yes
+Salary: $7-8k
+3-4 hours overlap.

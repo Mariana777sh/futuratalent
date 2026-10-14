@@ -1,0 +1,23 @@
+TOMAS PEROTTI — Lead iOS Engineer
+TechStack: iOS, Swift, SwiftUI, UIKit, ObjectiveC.
+COMPASS — housing marketplace, crm app for buying and selling properties. — I helped built CRM,
+email engine to communicate with clients, user activities, notes, I was building mentions flow, to tag
+clients. I am building an imbox inside the app. Contact activity fee, it is the product of the activities
+associated with a contact, if you have done a call, a house tour, or anything related to a contact. I am
+in the Inbox which is like making a WhatsApp inside the app. I am leading one iOS developer.
+POMELO — SDK company to help fintech launch financial products — this was my most challging
+experience, founding engineer and tech lead, CI/CD. Developing the iOS architecture from scratch,
+networking, analytics, server driven UI where you can renderize from the backend. I built the product
+from scratch as a founding engineer. Netowrking / analytics, SDK. KYC —Onboarding for clients. Visa
+and Master Credit card SDK, the flow of getting a card, activating it, using it. Apple Pay and Google
+Pay integrations. Building all the SDKs to provide
+KAVAK — it was short, I was on the Core project, re-defining the architecture, user server UI, flow of
+customer journey, from start to end, from the stage where you are, if you have to sign a contract,
+scheduling product to see a car.
+NARANJA — fintech debit and credit card — I joined the early team, I was the 3rd iOS Engineer.
+Redefining architecture. Clean architecture. I was on Visa pre-paid card. I built the mobile point of sale
+POS with a device to connect to cellphone for merchants. It was an SDK with Blootooth, to charge
+with the NaranjaX app. I also contributed to other modules such as the design system of UI.
+SALARY — $7k/month >>
+I am trying to understand the scope of a project.
+ENGLISH —

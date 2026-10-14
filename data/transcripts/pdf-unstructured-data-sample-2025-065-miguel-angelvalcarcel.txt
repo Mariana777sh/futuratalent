@@ -1,0 +1,13 @@
+MIGUEL ANGELVALCARCEL — iOS DEV RAPPI — +7
+TechStack: Swift, SwiftUI, UiKit, CocoaPods, SPM, Flutter, CI/CD, Jenkins, BigRise.
+RAPPI —
+Rappi Loans — loans for users, opening to merchants, Rappi knows how much a merchant is selling.
+iOS I was part of the Rappi Card product, request, delivery and activation of the Rappi card, from
+when it was an idea to production.
+LEAL — Tech Lead — Android and iOS — I built the rewards platform from scratch,
+GLOBANT — LULO BANK — I worked on Lulo Bank — I was the first iOS of LuloBank, I was the
+founding engineer. I built the whole thing, when I entered we were 5 people until thousands of people.
+Loggings, Loggings, debit card product, onboarding, UI, security, architecture.
+MsC Southern Estate University
+SALARY — $7.5k
+I am leading a couple of teams, I have done management,

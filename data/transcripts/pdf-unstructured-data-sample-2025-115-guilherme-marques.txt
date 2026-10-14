@@ -1,0 +1,31 @@
+GUILHERME MARQUES — BELVO — BACKEND ENGINEER AND AI ENGINEER
+TechStack: Python, Django, DjangoREST, FastAPI, Docker, Docker Compose, Postgres, Terraform,
+DInamoDB, ECS, Lambdas, AWS.
+AI Engineering - Postgres with embedding support — pgvector, Google SDK, Dspy.
+Dspy — it is like LangChain in some sense. You try to abstract some of the management that you do
+with prompts, the whole idea is to program more than prompting. Program not prompting. It is more
+attractive because it is easier to manage, trying to optimize the words and strings in the texts.
+MLFlow — software to manage LLM usage, also used for machine learning engineering, but also for
+AI engineering, to see traces, do experiments, evaluate how your pipeline is doing.
+BELVO — My main role is I am a backend, I basically take cate of our public API. Whatever you do
+with API integration, you are interacting with me. I deal with all the components in the system
+architecture such as the cache, our database, our database is huge, I am one of the people that do AI
+Engineering in the company.
+We are planning to release an agent soon, a customer facing agent, I am using FastAPI, MLFlow,
+using Dspy. Everybody is learning how to do agents effectively, atomic agents that do very specific
+things, and then you can do a workflow that do more complicated things. I am building an agent,
+which is our first customer facing, we intend to help customers reduce their time to go live, integrate
+as soon as possible with the agent. Right now we have a chatbot that has access to our product
+information, our documentation, the bot is gonna understand what you intend, how knowledgeable
+you are of Belvo, how we can help you to integrate as fast as possible. The time to go live, as soon as
+someone do a contract with us we want todo deployment faster.
+INSTANTEASER — I was the 4th employee and first technical hire, I was that kind of first tech
+person, I did software engineering, did ML, Data Science, deployed a model. They have come up with
+an optimized pipeline to do motion design videos. You ask what you want, send to motion designer,
+get a video, you can ask for feedback, and get your final video. Building motion design videos and I
+built the software to make this true.
+Techstack: Flask, Postgres, AWS, Jinja (html with Python), JavaScript.
+SALARY — $5.5k >>> I would change for $9k.
+Relocation — SF — yes —would take a month.
+Move - I enjoy working at Belvo, something I value even further, in Belvo we have a strong sense of
+helping each other, not so competitive but collaborative. But I am open to changes. I

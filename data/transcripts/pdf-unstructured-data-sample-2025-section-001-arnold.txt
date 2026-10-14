@@ -1,0 +1,13 @@
+Arnold —inglés: estoy buscando algo en los que primero pueda probar estando en mi empleo,
+probemos 3 meses y miremos como nos va. Tengo mas de 7 anos de experiencia en scrapping,
+todas las paginas del gobierno colombiano las he scrapeado.
+Tangelo — 5 years of experience, squad lead in the last 3 years. I manage a team of 10 developers,
+work on squad lead, execution. Architecture. Scraping. Police department squad, Contraloria. Now I
+am doing payments and integrations with payments providers. All websites have a token, json.
+Mexfix — i did crapping for sending money to investors. Mexfix is an invoice financing company.
+PayU, didnt have an api for us to send the money, so all of these we did it through scraping. I built
+with Selenium and beautiful soup. I also bypass captcha from the police department and more
+complex by google.
+Tangelo 20-25 horas — I am squad lead, I have management work and development work.
+Bold — I was iterating a project on payments in architecture.
+$3k-$4k — hoy gana $4k

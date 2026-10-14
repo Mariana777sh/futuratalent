@@ -1,0 +1,45 @@
+LUIZ FERNANDO — FULL STACK REACT NODE
+TechStack
+I have 5 years of experience, b2b and b2c projects.
+Lexter AI (YC — we build products for the legal market. Document pipeline for lawyers. AI to help
+legal teams and lawyers. 60% frontend / 40% backend
+We are building a WhatsApp agent to connect people to our clients — we acquire leads from different
+markets, we have some Ads running, we tag and improve their quality and we sell them to our clients.
+AI first company. All of our products are AI first. At the beginning, before LLMs were common, our
+generative models, we were building our own models. Before everyone becomes an AI first company.
+Frontend: we have a platform on React, it is AI-powered CRM for lawyers. We increase their
+productivity.
+Backend: NodeJS, Serverless technologies AWS, MongoDB, Postgres,
+AI Code: I have sometimes, make prompt improvements, prompt engineering, nowadays I don’t use a
+lot of tools. I also find models and improve outcomes. We have langchain infra but we have data
+engineers that work on it, I don’t work on it.
+They told him that in the first day I have to be 100% productive, I got to get more context before I
+joined the company, I tried to talk with colleagues before starting, trying to access people. Access
+questions, get ownership, understand what the client needs.
+Hardest technical problem in this company —my first product was a document processing pipeline,
+after almost two years the company decided to pivot, I had to basically do a data pipeline, we didn’t
+want to basically remove the project completely so we can keep the clients, I had to build a data
+pipeline, get data from different data bases, do what a data engineer does, I had to learn strategies to
+get data from data bases and make it available for users, do it in real time and keep it reliable. I had to
+build a reliable dashboard. I learned how to extract data, I had to learn about infra.
+Working with different types of codebase — I like to work end to end, because I want to know what I
+am doing, I like to understand the first principles of everything, and understand the company
+strategies and make decisions based on that and a way to achieve that is knowing more of the
+company and knowing more of the code base, to being able to contribute more. The more
+technologies that you know the more power and responsibility you have.
+Cadmus — I was in a project for General Motors, we had a document processing pipeline, I led the
+frontend team and also worked on the backend side. I implemented a lot of features to process
+document. Extract info from documents. Only JavaScript, React, NodeJS, TypeScript, Azure.
+TOVS —frontend — They basically make software B2B — they sell software to companies, markets,
+systems, pharmacies. ERP, RH. I worked on their new CRM. This was a big company. I learned about
+the processes in bigger companies, how to deal with people I could be organized, understand where
+we need process.
+Arvore — B2C product for children that want to read books, a mobile and web app to read books.
+Sold the product to schools and parents. It was my internship. It was my first experience, understand
+the whole system. We were using React and React Native.
+Why would you leave Lexter to another company? I love Lexter, but what only makes me look for
+something else, is the possibility to work for something international, something that will target more
+people and a multicultural team. I want to join a product that can become massive, that many people
+can use, where we can have a bigger scope and more clients, more infrastructure problems, work
+with complex problems. Most of the challenges come with volume and when you scale something.
+Salary: $3500 now -> wants: $7k

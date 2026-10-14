@@ -1,0 +1,37 @@
+MERCADO LIBRE — I am on the search engine — building features, improvement, times of
+response. I was developing a program with AI that identifies the images and products, and identify
+that the person who who they say they are. Also working on how to identify the character. Help
+identify which images of products are the same of the name of the product because many times
+sellers make mistakes when they upload products.
+Performance — what process can run in parallel,
+Working in Frontend —list of main brand and the list of brands of one company. Toys and Babies,
+Cosmetics, Home and Industry, Construction Materials — I work building modifications, interventions,
+features to choose the kind fo product, color and so on that you want to choose. I built functionalities
+that shoot this logic where merchants can add modifications to products.
+MUNDI — fintech for exporting companies / factoring — client acquisition and invoice advance —
+Since a sales person talks in the phone, the survey for client acquisition, they need to send the
+documentation of their company, financially, for logging themselves in the tax system and financial
+data to score them and underwrite them. KYC/KYB Team. I was working making the surveys of KYC.
+Microservices.
+TypeScript, NodeJSMolecular, React, NextJS. — full stack.
+Mundi.io — I was working on their website, I was the leader of a team. I stopped having the
+acquisition team and started working on the transportation insurance - cargo insurance product and I
+built this flow.
+I built an integrations with Berkeley insurance company and other insurance companies.
+RAPPI — Stock Warehouse Inventory Platform —our mission was putting info of stocks in the data
+base of Rappi to show the stock. I proposed an idea, make a process that detects which products are
+not in the data base and make an alert for a person to put them on the data base. There were
+products that we didnt have in the data base. So what we did was making an automatic system to
+detect new products for inventory managers to add them on the data base.
+Carlos Cristensen was the VP of technology and he left Mundi and then he recruited me for Mundi.
+Stack: Golang,
+Before that I was working on software factories.
+
+
+SALARY — $4.5 million pesos — $3.3k - 4k >>> $5k dollars because right now the issue is because
+at the end of the month I have two children, school and rent, too many expenses, so I don’t have
+earnings so I can save.
+I am expecting more and less
+Relocation —
+English — 9/10 — I practice it only reading it. Not yet many technical interviews in English. When I
+got fired from Mundi I started doing interviews. I think that I will be good to work in English everydayt.

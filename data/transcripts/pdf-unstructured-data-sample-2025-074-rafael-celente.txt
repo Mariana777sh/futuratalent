@@ -1,0 +1,22 @@
+RAFAEL CELENTE — NUBANK
+I have been working on AI for about 5 years now. I have been working on different verticals,
+NUBANK — Research Engineering — frontier side, AI Core — we basically try to do the same
+approach with what AI models, do instead of language, we are doing a Large Transaction Model.
+Transaction Sequences. We have % points to all of our credit models, we have improved % points,
+that means a lot of revenue, both on the research side. Research Scientist, I was doing it for
+transactions, total amount of compute to see if there is any power laws, total amount of resources that
+you get from a credit risk model, if you want to scale this model to the same size as language models.
+I focus on science and engineering, how we can optimize as OpenAI does for these transaction
+models, so I work on training optimization, working on profilers, optimize training performance… on
+the inference side, since we have a bunch of tools, trying to optimize models, using tools like vLLM,
+SGLang, to Optimize these workflows, for AI Core,Research papers to publish.
+We haven’t pusbliehd but we are cooking up 3-4 paper right now.
+My experience has been on training optimization side .. the inference optimization side is related, but
+still is the same underlying skills. I would like to be more hans on, that is something I
+CUDA/ Triton — my expertise here — In the Cuda side of things, one of the steps that we do for
+performance is to include certain operations in our training pipeline, when I saw our models is
+underperforming, usually takes about 4 weeks to train in the data sets that we were using and after
+implement CUDA, we did it in 10x less time. In about a day.
+Optimization in CUDA.. Even if I don’t have production experience..
+Salary: $40000 reais per month— $8k
+Don’t mind moving to usa

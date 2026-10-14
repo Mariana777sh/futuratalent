@@ -1,0 +1,18 @@
+ABKISHEK PANDIT — INFERENCE ENGINEER
+TechStack: Python, GraphRAG, LightRAG, Pydantic AI, Autogen, Langgraph. Agno AI, Vector
+Retrieval, Colbert, Rerankers, HYDE RAG
+Agents, RAG, LangGraph, KnowledgeGrapghs
+No inference optimization — public apis
+Stealth Startup — GenAI developer — developing solutions and leading teams.
+I worked on 4 different projects
+INFERENCE ANALYTICS — beginning of 2024 I was still coding by my self.
+Tools: knowledge graphs, Ai agents. Langgragph, agno, open agents.
+Pharmaceutical — use case, find drugs, for that they would give a query. Find all the drugs in this
+category. Litigations against the company. Sometimes you could acquire, take a look at the
+molecules, help them decide whether or not portencially acquire a new drug.
+Motorola solutions — They had 30-40k — we built a solution that goes to those contracts, certain
+value, certain requirement and find all the contacts. Details, take the playbook. Motorola playbook. For
+a given use case.
+UCHICAGO —I moved to move on a project. Initially developing to myself. Internal policy documents.
+Testing. Other part of the solutions was a revenue cycle agent. What a normal person would do. A
+pillar to be sent to this. A user approves the document. Valid or not. Used around 1000 users.

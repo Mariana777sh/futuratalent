@@ -1,0 +1,27 @@
+HENRIQUE PINHEIRO
+I live in Indianapolis — because of Purdue university
+We started just with a platform for food operations of a farm, because they have a lot of machines
+involved like tractors and so on.
+What is the best combination? Maximize the efficient of the whole process
+Five years ago we started to work on the robotics, AI to recognize weeds, why are things happening.
+Most difficult and most need technology, challenge to get it to work in production environment.
+I started to develop hardware — cameras, tablets, onboarding computer, weather stations, mosture
+sensors, soil sensors,
+Robotics — when I arrived in the. USA I realized that farmers are very different for how they work in
+Brazil. We were just playing and we saw the opportunity. We first doing scouting and getting healthy
+info from the plants, we moved to recognize and spread weeds, our robot is full solar. Mostly cleaned
+and sustainable possible.
+We do regonitin and spread the weeds. We just take the weeds, of the plants that make interference
+with the plants. Thermal cameras, some other sensors through cameras that work with some analysis.
+Missing water, or missing something, weather, pass information.
+It is o production, we have 200 units in the field. 70 in USA, 80 in Brazil, the rest in Canada and
+Colombia. I am working on other version. One scouting version.
+Manufacturing — how the company works, I am the one who does the development with the team. I
+always do the first production, after that I deliver the whole process to other team that handles it. I am
+able to g back to the development. I always do the first production.
+In the robot there is a lot of different areas, I can code but I am not the best coder in the world. I know
+C++, C, Python. I can do it myself but can take longer, I understand a lot of hardware, electronics, I
+can do it myself but will take longer than other people, data and stuff like that. The part that I am more
+weak is on the technical side, but I know. I know hydraulics. I can build a whole prototype just by
+myself. I am the middle of everyone to make everyone works. I do by myself.
+Green card — citizen —

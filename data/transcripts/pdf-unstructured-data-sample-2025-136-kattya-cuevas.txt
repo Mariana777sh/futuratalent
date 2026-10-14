@@ -1,0 +1,30 @@
+KATTYA CUEVAS — FULL STACK RUBY
+TechStack: Full Stack (Backend Leaning) — Ruby on Rails — Python and Frontend with React.
+Postgres, MySQL, SQL server, JavaScript. Geroku. Docker, Kubernetes, AWS (knowledge but not
+expert). React Native.
+BUK — apart from bug fixing, I was in a migration project, they had a news portal, they migrated from
+a past one to improve the interaction they had, I was looking at the old data. I had to migrate data. I
+worked on the React Native app — push notifications, log in, authentication. Small fixes.
+But stack is Ruby on Rails and JavaScript and React on the frontend. Web app.
+SHOPIFY — I was working on two projects, migration of data, they gave me a user data, I was in the
+installments team — adaptation the data base to do charting, model data in modules and tables. The
+charting is what they wanted to implement, they do that for having a form of organizing data and data
+search faster form clients. The installments team and payments team, needed to adapt, they realized
+that table wouldn’t work and that table was shared with other tables, but deleting a table with millions
+of records takes time, and when deleting it it generated performance issues in the data base. We had
+to fix it. The library that we were using was made by Shopify and there were mistakes. At the end we
+solved it. At the technical level we needed that the search of information for different features would
+need to be faster, for that you need to organize better information. Organizing better the info from
+clients. It helped all the app, including payments as for the different calculations, for different features
+they could perform better and scale better with the info, how you save info can free space and get
+money back.
+
+
+CLOUDFORECAST — I was hired to remake the app, the frontend. The founders and me, the first
+task was to redesign the app. I had to talk with clients, I built the redesign. All the features were new.
+We didnt have the suite
+ABLE —
+PLATZI —
+Salary — $4k but / Shopify $6.5k / 4-5k
+Relocation — Remote. I prefer it. But open to relocate.
+Pitch or feedback — she doesnt know how to sell herself well in terms of product.

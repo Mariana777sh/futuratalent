@@ -1,0 +1,26 @@
+JOSUE FERNADO CITALAN —
+Data Builders —
+Scraping data form HOmedepot,Costco, companies that sell Wines.
+Data Scraping ROle in the first months and now I am working to build a SaaS platform to manage
+scraping and model data. I am doing full stack: Django,
+Infrastructure — AWS, Kubernetes, Docker,
+Electric Power Markets — RPA Developer — Energy trading startup, build forecast of energy in
+Guatemala. My position here was automating that data. The company managed a software from
+Brazil. I need to learn all documentation from this software and insert data through API. I need to start
+talking with that guy from Brazil.
+RPA, I was automating a website in Guatemala, the private organization in Guatemala that publishes
+information about the energy, from all the companies that I need to buy energy from and sell to energy
+to, I need only 30 minutes to populate the energy in that website. I leave around 5-10 notes in parallel
+to get data form that website. When you finish the website, I get data from that page. I discovered that
+trick in the website, what we need to implement to populate data in 30 minutes. I just have a time
+window to scrap data from the website. Only 30 minutes. IN this company just one web scraper.
+&Cafe SA — Coffee shop, it is like Starbucks from Guatemala — that company has grown a lot with
+the years, around 50 branches. Here I implemented Scrapers to maintain data from some banks.
+UIPath.
+In the beginning was automation, then I was scraping another page, about the coffee, because that
+company didn’t only produce coffee but also sales to other places. Scraping commodity prices, the
+kind of coffee that other companies were selling. It is a little like 5-6 websites. I need to use a Proxy
+because some companies block you. Libraries: Selenium, I implemented a built web pages with React
+and Flask.
+My biggest role was managing databases like Postgres, MySQL, SQL server.
+Salary: $3k minimum expectation — 3-5k

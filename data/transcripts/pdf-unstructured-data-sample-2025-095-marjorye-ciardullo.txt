@@ -1,0 +1,30 @@
+MARJORYE CIARDULLO — WEB SCRAPER — TOP CANDIDATE FOR DIPLOAI
+TechStack: Python, Django, FastAPI, Scrapy, BeautifulSoup, Selenium, Postgres, GCP, Kafka
+JUSTBRASIL — mainly Python, Scrapy, BeautifulSoup, Selenium, we deal with Brazilian court
+websites so we have lots of problems resolving Captchas, we need to interact dynamically with the
+websites. Mostly Pytho, Postgres, Redis, Metabase,
+I have two jobs here - I act mainly in crating web crawlers to collect data from Brazilian courts, over
+300 web crawlers, we need to give lots of maintenance. I also design APIs. This web crawlers need to
+connect with other microservices for sentiment analysis, and other services built in house, to extract
+those sentiments from law suits, I do some dat analysis when I need to do it for the product team.
+Sometimes we need to log in to get credential from the law suits, get documents, and so on. Resolve
+captcha, we have another service and tools that use AI, for data analysis and insights of the court
+cases.
+We have these two services that I use a lot - resolve captcha, in many ways, because there is many
+kinds of captchas. All is communicating by apis
+BIRDIE - Customer Experience startup — Feedback analytics for Product Teams — I did almost the
+same thing, I built a crawling architecture using Python, Flask, FastAPI. I collected e-commerce
+comments - we collected comments from different products. It will give me comments from your
+product. We had three steps. The first step is accessing the website and getting all info relating to the
+product, access all those products that we need to collect, always based on categories, notebooks,
+smartphones, dishwashers, we had categories based on what the client would need, then all that info
+about the product we start to assess those comments, to see if positive or negative.
+Scrape e-commerce websites — I collected over 100 web crawlers, every crawler has over 100
+websites targeted. I collected data from all around the world. So it is close to a 1000 crawlers.
+NEXT STEP IN CAREER — here in Brazil we have some changes going on, I won’t be able to work
+on web crawlers, mostly with data bases and data analysis, because they want to put AI to collect
+those datasets that we need to collect. That is why some employees are going to other teams. I really
+want to work with data extraction. Risk - not yet a risk, I have a lot of context about the tools that they
+want to replace. I need to pass this knowledge to another people. JustBrasil isn’t doing lay offs lately/.
+SALARY — $3k-$5k
+Short term projects — it depends I would need to see more about the project. If it was interesting.

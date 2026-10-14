@@ -1,0 +1,56 @@
+DAVID PERALTA MIRANDA — SOFTWARE DEVELOPER NUBANK
+Pachuga Hidalgo —
+Nubank — Currently we have 100 million users worldwide — I am building the User interface fort the
+new countries application — I make the new templates for new apps., in the new coutnry. I make the
+templates and other teams are gonna adapt the templates to new countries.
+We try to make the templates as easier as we can. Set up in a way that can be easily adapted.
+We create the user interface template so they extend the class of the screen and they add all
+validation and configure and set up. They can configure the id validation, location, regulation,
+Techstack: Clojure, bdc framework, it provides all the libraries, the components for the app are made
+in flutter. Frontend mobile framework.
+Here no react or node, the bdc framework makes the code being in frontend components.
+Mexico Inmobiliaria — Digital Real Estate company in Mexico, listing — they train the real estate
+brokers to sell to buyers. The idea was training the brokers to attract more brokers to the company.
+The platform has the advertising, and educational portal. That is basically the income.
+I was involved in everything. The company was s startup. 12 people on technology, 8 developers. 2
+managers, 2 QA and business analyst for technology team. I was the backend lead.
+Teachstack: Javascript, React, Python, Django rest, MySQL Postgres, Dinamo, Redis, AWS. S2 for
+Containers.
+50% frontend and 50% backend.
+For the lambdas in NodeJS, all the configuration libraries, was in Node.
+HULU — User Interface Management — we created a backoffice tool, if they have an event like San
+Valendin day, they create a collection, special episodes, all that confuciration and setting can be used
+by the client.
+Setting Module — different because this setting was only for content, organized by collection,
+nagigation, special season, when you open Netflix, in the right side of your devices you have movies,
+sports and general. All of that collection is settable, you could select all special seasons content in a
+single tab in your device.
+How was it possible - you could select, by country, by creator, by genre, once you selected the
+content we delivered through an API. Icons on listing or Icons.Product was a Customization /
+Personalization Engine.
+Was it successful? Yes, we had a great feedback from the users. Was ti working by Disney. Yes it was
+used by them.
+Techstack: React, Python Django, Flask. Node. But here most of the infra
+70% frontend and 30% backend
+GLOBANT — eBAy and HULU — with eBay I worked on a platform, it is a marketplace, the people
+near you can interact with you. They closed the project after that because it doesn’t work. They offer
+the same product, better and cheaper. eBay was trying to charge a fee for sign up. Marketplace. The
+product we were trying is we were trying to charge a fee just to sign up. The product was awesome,
+the location, the listings, I was working with the user interface with Angular, we delivered the product
+and it was working
+AI SEA — JavaScript, jQuery, I liked it too much. We had a lot of naming for the . It can be the system
+for scores and tracking go grades.. I was working with admin of college.
+IIMAS — I started with a webmaster position, I have experience working with servers and configuring
+them.
+FEEDBACK FOR HIM
+
+
+Recommend first principle thinking
+Don’t explain too much — no body cares if the product didn’t work, you can comment it but it is not the
+most important. Focus on what you built and how. (eBay)
+NEXT: If I only focus on Closure my only place would be in NUbank. I want to specialize more in
+NUbank and Python. I am looking for opportunities outside of Nubank. I am better as a frontend but I
+like the backend the Python, PHP and NodeJS, I have used Express and NestJS.
+Salary: $4.5k / monthly + benefits like healthcare, bills, some other expenses, one month of yearly
+bonus.
+$5k+ 6k+

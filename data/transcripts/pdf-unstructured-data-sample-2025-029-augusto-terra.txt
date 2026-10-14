@@ -1,0 +1,37 @@
+AUGUSTO TERRA —
+Techstack: full stack with a frontend speciality.
+iFood: I work on the platform where the restaurants can access there. It is also a web application and
+I work mainly on two features, the orders that they have there, they can check how much they earn it
+for this project, and I also work on the financial features of their web application. Imagine If the
+restaurant needs to see where he will see the money from the sale. Other transfer, how much he will
+pay for fees. When I first entered iFood I was only frontend developer.
+We have different kind of architecture, so we have a microfrontend. I work on this microfrontend
+project which is the one written on React. I work on these two different microfrontends. Both of them
+in React. One is responsible for providing and showing the user information about the orders that they
+have and the other one is responsible to showing the user the financial information. For restaurant
+owners.
+Backend stuff — it is a micro service written in Kotlin with Springwood. Postgres, DinamoDB and
+regarding Claude we are using AWS. All of our microservices we are using also Kubernetes. NodeJS
+-- at ifood , we have these microfrontends, only communicates with one server bff this bff is written in
+NodeJS with Express, call all internal microservices that we have at the company. (Bff — backend for
+frontend)
+React, Redux,
+After AUQIO I entered iFood as a Frontend Development role.
+Audo (part-time)— part time job. Two years doing a part time job when I was working at iFood. At
+Audo I was doing backend development. EdTech company with a web app where the users can find
+jobs, we have features, we have a job search feature, resume building, I work mainly as a backend
+NodeJS, TypeScript, MongoDB, Express, GCP. Product — I was building as one of the first engineer, I
+worked on the backend part of all services like the interview prep, integrating, speech to tech features
+to compare the user record there, the mock interview was good or not, we integrated with OpenAI
+APIs to see how they do the interviews, resume builder feature, we have a GenAI to create a resume
+builder.
+AUQIO — At Acqio I was working as a frontend engineer, built a project from scratch, a fintech where
+the merchant could see their sales. The company makes the payments itself, but I was responsible to
+do the website.
+Web application — dashboard where the merchants can see all the sales, all the features. TypeScript.
+Conext API. All the environment tools.
+NUTCACHE — frontend development, javascript, html, css. Started learning in React. Work
+management tool software. I just stayed there for a few months, maybe 3 or 4. I worked there as a
+front end developer. The project was to convert a legacy to .net, a new version in React. It was pretty
+much my work.
+Salary: $4k/ month

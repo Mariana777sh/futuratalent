@@ -1,0 +1,19 @@
+MICHEL RIBEIRO — BACKEND —
+TechStack: TypeScript, NodeJS, GO, Python, MongoDB, PostgreSQL, Kafka, MongoDB, DinamoDB,
+Redis, Clean architecture, unit tests, CI/CD, Docker, Kubernetes, AWS
+FRUBANA — I have worked 2 years in Frubana, building a team, for buy now pay later product, a
+business unit called FruPay that offer credits for the customers.
+Tech Lead of FruPay — We built the entire ecosystem from scratch, Lambda function, Postgres,
+Dinamo, all of our services are built with NodeJS and TypeScript, event driven arquitecture approach
+to integrate our services. 20000 clients that use our product everyday. It is in the Checkout Process.
+We have a payment method called FruPay. NodeJS is the mode mostly on TypeScript. Some services
+on Python and go. But mainly node.
+ZAK — Restautant Management for Restaurant — POS for restaurants — the system and app that
+work on the device. We built from scratch, we used NodeJS, for delivery integrations we used Python,
+and we also have an ecosystem for payment process which we built using GO. Event driven
+architecture approach using Kafka with our event broker.
+CUBOS TECH — some projects with a company — POS for bars and parties — https://en.zig.fun — I
+helped develop this. I bult the backoffice service. For managing financial bills. I built the entire
+business logic and services for the back office on TypeScript/NodeJS.
+SALARY — $6k - $8k/month
+Relocation — no relocation .

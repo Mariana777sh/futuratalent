@@ -1,0 +1,43 @@
+ANDRE GONCALVES ARAUJO — CLARA __ DATA ENGINER
+Technologies: Python, Spark, DataBricks, Snowflake, Kafka, Java, AWS. Azure.
+Professional experience, Ihave experience building ETL pipelines, processing different kinds of data,
+data lake EC3. When I was working at Ze Delivery I was using Snowflake.
+Data Engineer 4+ years now,
+CLARA — Fintech from Mexico with office in Brazil.
+I was working on the risking of the company, making sure to create the ETL pipelines. The process is
+running on DataBricks workflow. Initially on credit risk.
+Credit risk - as a data engineer I was more focused, on lets say you wanna build a new data science
+risking model for predicting risk on loans, but some that data is not available in the data bases.
+Depending on the company in Brazil you get that data form credit bureaus. Make it enable into our
+data vases, so our data scientist can predict, if it is secure to provide credit to one client.
+Feedback to him: “Mention credit bureaus,… instead of Cerrazano”
+Enabling data fro other credit bureau..
+More recently I have been working with the data platform team at Clara, making the first something
+more internal.. making sure that we data engineers, can make things faster in a more secure way.
+
+
+Monitoring for our pipelines, I made a solution for when you write a new Pull Request (PR) on GItHub
+we run some data quality test, so it can be faster to implement. You create a new PR.
+JUNGLE SCOUT —sell on amazon. The problem has UI, show clients how their business is doing,
+also having some AI and machine learning algorithms, I was allocated to team to take care of the
+pipelines that enable the data for some of those products, keywords search volume pipeline.. I
+needed to build a pipeline to get the data.. it was more related to the business itself, take the best
+keyword for a product to maximize themselves and the products on amazon. We were using
+DinamoDB, I needed to work on an ETL pipeline, output of data scientist work, get Tinto Dinamo DB..
+On the UI, the client would see how much the clients would use certain keywords to try to find an
+specific product, the client would use this to decide which keyword they would use to maximize the
+product the client is selling. My role was basically making sure that the data for this gets into Dinamo
+DB and in Dinamo DB is the data that goes to this UI product.
+ZE DELIVERY — AMBEV business - I was not only working with delivery data but also with data from
+other logistical or brewery business. Airflow, building ETL pipelines, Snowflake to enable more and
+more data, others data, data from Facebooks Ads, Google Ads, data that we needed to enable the
+data analyst with new data that we were enabling to make better business decisions, business itselff
+to grow and more efective. Enabling data on snowflake.
+VTEX — I started working here as a software engineer, when I transitioned to data engineer, we were
+starting to build a new data infrastructure to the company. Migrating to new data infra. Creating a
+framework and providing code and providing the code for that. For that I used Kafka, producers and
+consumers, also another thing was that we wanted to monitor data qualities. I also used Graphing to
+make dashboards. Here was the main project.
+SALARY: $12800 reais + benefits
+Expected:
+____

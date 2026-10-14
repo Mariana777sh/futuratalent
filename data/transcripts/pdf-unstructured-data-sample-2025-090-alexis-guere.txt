@@ -1,0 +1,25 @@
+ALEXIS GUERE — FULL STACK/ Backend //
+React / NestJS. TypeScript. Preferncia a backend.
+Techstack: JavaScript, React, NestJS, Node, JavaScript, data base, Casandra, MySQL, Postgres,
+Oracle, DinamoDB, MongoDB, AWS.
+RESERVI — the current place where I work its a reservation platform. It is a new product that is not
+launched. I am currently working as a Tech lead, mostly backend but I take resposability for the whole
+project. Frontend is on React also, I am not dive in the code of this project but I have regular code
+reviews. Sneaked in the code, internal standard.
+BAIRES DEV — Notomnia -- Internet provider telco—The last previous, reserve, working as a .. I
+created the mobile api side, we had 7 microservices, I built a new micro service, was intended to be
+
+
+the gateway for all the mobile application functions. Invoice payments, CRM product. I was in charge
+of the API side for the customers app. How much of your internet plan have you used.
+DRATA — AI-native platform for compliance and risk management — metrics and suggestions — they
+had some really big clients, in charge of the new version of the app. They had like one year old from
+the launch, and they were creating a second version, more reliable, I was in charge of a couple of
+modules. Trust Center Module, which is like a public dashboard to show how compliant they are in the
+frameworks they use in the company. Take private info, search and map it to see if they are compliant
+with standards. Multiple Tenant Module - it is like you are Cocacola and Femsa you have
+subcategories of companies, you can use one subscription for all your companies. Techstack: Nest
+CLOUDDB — I was the lead developer of all the development, CloudDB is a subscription, they are
+like a private Reddit, I was in charge of building that from the egging. Tech: nest
+SALARY — $1.5k
+Expectation $2k-$2.5k

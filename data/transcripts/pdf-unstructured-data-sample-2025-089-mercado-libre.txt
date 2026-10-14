@@ -1,0 +1,15 @@
+MERCADO LIBRE — I was working on Mercado Pago Wallet, we did a lot of collaboration with
+Mercado Libre. They were building the vertical within the app. I was building some stuff from scratch,
+new features starting everyday. It needed a lot of work, maintenance and refactor. Bill Payments,
+transport payments, parameter system. Build internal libraries. We had to add new features on
+Objective C.
+Mercado Pago has a vertical for food delivery, it was the first within the company. I ended up, a little
+bit with e-commerce in Mercado Libre, internal library of Maps. A lot of things from scratch.
+TREGGO — I was the only mobile developer — Delivery app for e-commerce. They grew up a lot
+during the pandemic and they needed to scale the app, the wasn’t maintained properly for like two
+years, basically we had to re-do a lot of stuff, needed a lot of new features. In the beginning I was the
+first, then there were tow guys more. I did a lot, NodeJS with MongoDB for new features. I ended up
+doing frontend on Android and iOS. This was an app that was there for a lot of time. It was Android
+and Java.
+English: 9.5/10
+SALARY: $4.5k >>>>

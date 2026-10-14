@@ -1,0 +1,24 @@
+SAUL URIAS — 7+ years as iOS
+TechStack: Swift, Xcode, UIKit, SwiftUI, Combine, Objective C,
+Design patterns that I know.
+LOVEVERY — Then Lovevery contacted me. They offered better. Improved the benefits and the
+salary. I was part of a small engineering team, building the entire app pretty much. I mostly focused on
+the functionality that allows parents to join subscriptions. My team was focused on mobile app, which
+is a digital content to learn how to grow their kids in montesori style. App is personalized based on
+
+
+parents needs and children age. Integrate the apple framework to allow users to purchase digital
+subscriptions.
+LYFT — Business Program Team — as a Lyft user you can be a business user. When I joined I joined
+the Business profiles. Allow user to take rides, invoices and taxes directly to their companies…
+payments module, in-ride. Core functionalities of ride.
+When I joined they had the ability to create business profiles in the web. So usrs would have a link
+from their company and they had to do log in and validate email. What I built was the functionality of
+joiing to the business program from their app, coset up business profile. Golden path, because they
+don’t need to switch profiles. I worked on a solution where a single user can have different business
+profiles.
+BITSO — 3rd iOS engineer — it was an MVP when I arrived it already had millions of users, I joined
+in a critical phase of the company when I had to lead the team for scalable solutions. Build a more
+robust architecture, I integrated unit test, design system definition.
+I joined to the deposit and withdrawal team, which is the main team. I was part of the Core team.
+Salary — $6k/month — depending on the benefits more or less. 7k if no benefits no vacations.

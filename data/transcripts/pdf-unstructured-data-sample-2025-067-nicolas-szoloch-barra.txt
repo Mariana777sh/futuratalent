@@ -1,0 +1,35 @@
+NICOLAS SZOLOCH BARRA
+I have never worked with Snowflake but I worked with similar things on GCP. Snowflake has some
+tools equal in GCP. Even if I haven’t worked on Snowflake I know some tools that are very similar on
+GCP. DataBricks use Spark, and I have use PPySpark on GCP, the service is different.
+TechStack: Python, SQL, MySQL, Postgres, Airflow, GCP,
+
+
+XEPELIN — Destroy everything they had, because the company, the monthly cost of the Cloud is the
+most important. 55k cost in cloud, so I have been making the cost more efficient. $35k. The most
+important thing is that it involves to optimize queries, identify some best practice to make queries,
+re-making the data lake, that is the most important thing. The principal tool is BigQuery in GCP,
+Airflow, Data Stream. We are working with all the data of the company, like invoices data, general
+data area. Invoices, credit lines, payroll, data sales, customers. I have worked with a lot of data and
+thins like security governance, quality.
+Leading other people? Now I am more a Data Architect role because I am the only Data Engineer
+Senior level in the company, the other ones, are level 1 data engineers. I have to mentor them. I have
+to guide them because I have to teach them how data works and practicess I really like that role
+actually..
+FALABELLA — I started as a Data Engineer Senior because I consider myself as very efficient in
+work. I have the opportunity to fill in that work. Falabella is a very big company. More like migrations I
+was working on improving the current projects. For example, build a new pipeline, fixing something
+that someone created long time ago, make it more efficient. I worked with data governance and data
+quality. The user could find the data and analyze them. Some personal area or business unit that
+soundly be able to query data in a project.
+The problem that I was solving was makingt eh stakeholders to equity data and security things in the
+time they want it. If they want to query some data from some dashboardds every 5 minutes let’s say.
+They have a lot of KPIs for business units, and I was in charge of KPIs for business units.
+DEVAID — IT company, I started working as a Data Engineer here, I had a lot of projects of
+migrations to the cloud. I specially work with Google Cloud, I have been working with GCP. One thng
+that I have been doing is migrations to the cloud, cloud in an efficient manner.
+The company SMU.cl — it is a software marketing company — Migrations to the cloud to work on new
+projects. This was my first and most important project. I migrated from servers relational database. To
+GCP.
+I had a lot of other projects too, in devoid, all of them related to the cloud.
+SALARY: $4k >>> $5k

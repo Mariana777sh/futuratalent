@@ -1,0 +1,31 @@
+MARCO MURAKAMI — SOFTWARE ENGINEER— Node/TypeScript 6+ years
+TechStack: NodeJS, TypeScript, RestAPIs, Java, Postgres, MongoDB, DinamoDB, Lambdas, Docker,
+Kubernetes, AWS, GCP, Azure.
+LUMENALTA —
+BOUNTEOUS — agency — I was assigned as backed engineer for delivery food companies — I kept
+in touch with — Danny’s https://www.dennys.com, https://wingstop.com.mx, https://www.redrobin.com
+RedRobin.
+It was a lot of stuff, we manage and host the web application and business logic, on the frontend side
+we had the web page, so we managed all the logic behind their delivery. I built loyalty workflow, a little
+bit of the log in, paper client ID, payment info. APIs with third parties. We used Auth0 for
+authentication, Sales force.
+PARAMOUNT — Validity of the services, I built some automation in order to assure that some
+services are ok. Scheduler, if the app went down or we have one person assigned to check that out. I
+was in charge for the automation of that. Ensure that all the apps have all the necessary things.
+
+
+Integrations
+YALO — Third parties to build WhatsApp bots, different companies contacted us and if they wanted
+to make some adjustments for bots we had an in-house team that does that. We wanted to build a
+web app SaaS, so they can build their own bots, so we had to manage it in a way that it wasn’t that
+technical drag and drop platform, all the configuration, choose what would be the best approach, the
+architecture, the data base and what data base. I helped built the conversational workflow platform. In
+nice months we built it. We were like 8 engineers. I was on the configuration part. I had the webpage
+with all the modules.
+KONFIO — Build AWS lambdas, work on the funnel web up to validate and approve and reject
+customers credits.
+NEKSO —
+CLIP —
+SALARY — $5k >>> at least the same
+RELOCATION — Only Remete Jobs — would move.
+ENglish: 9.5/10

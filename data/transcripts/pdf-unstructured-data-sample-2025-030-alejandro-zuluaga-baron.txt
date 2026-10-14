@@ -1,0 +1,37 @@
+ALEJANDRO ZULUAGA BARON — Full Stack Engineer —
+Workrise —
+Howdy — I am working with a partner called Worries — Oil industry — I work on the finance module. I
+built 15 apps for the finance team. Apps that are very small. Team manager app, sell service and get
+the new hire accounts set up. The finance team is like 50 people. I wanted to build an ecosystem for
+the finance team. Apps: client onboarding app, they are using salesforce, invoice team and payroll, all
+
+
+that stuff need to integrate, so I started integrating salesforce with Retool. Getting all the data from
+sales and getting all standardized so the finance team can invoice everybody. I built a task app.
+Everything using Retool. Components by Retool.
+TechStack: React, Retool. Local platforms and components. Performance.
+NodeJS? I used it every time. Retool doesn’t require Node but I use it to build stronger apps.
+IPG Mediabrands — Started building other products, media company. We tarted tracking all the
+metrics for clients based on the media things they did. If BMW posted on the radio, getting all the data
+from that. I built a full stack media metrics and operational app.
+Techstack: C#, Angular, MySQL
+Accenture — I started working with a bank, modifying the frontend, BBVA. Modifying the frontend of
+the mobile and web app. They already have their own framework. React and Angular.
+Techstack:
+Frubana — Prototype analyst — I was on the product team. Retool to build UI and products. I did a lot
+of projects in Frubana. Warehouse apps, tracking inventory. I also built logistics app. Frubana has a
+system where each morning get the products ready, and there are trucks where you can deliver to the
+whole city, I was setting the logistics. Frubana don’t own trucks, they hire trucks, contract type. So
+sometimes due to the time, they didn’t use all the trucks or they needed all trucks. They wanted to
+satisfy operations. The app, you upload the number of trucks that needs, the logistic manager, this
+used to llive in a google spreadsheet, they try to schedule the trucks. We didn’t have a data base so
+we used a lot. It has three modules, one for all the trucks we have and are sign up, second is table to
+say how many trucks we need, and three is metrics of how many trucks and money we are spending.
+This app work for Mexico, Colombia and Brazil.
+Techstack: Retool, Python, ETL, I tried to build in the product area. We had to develop things on a
+couple of weeks. GitHub. At the end we had Postgres, and JavaScript. Retool.
+Data Analyst -
+I am a mechanical engineer — I failed in love with the technology area. I started moving to the IT
+area. I started in a call center managing data. I used to work with my mom who is an entrepreneur,
+working with Shopify. I falled in love with that.
+Salary: $5.5k

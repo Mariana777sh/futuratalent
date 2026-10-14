@@ -1,0 +1,14 @@
+SAHELI BHATTACHARJEE — INFERENCE ENGINEER
+TechStack: Python, tensorflow, Huggingface, C++, Java, Bash, React, vLLM, SGLang, GenAI pod,
+PyTorch,
+KRAI — Boston based startup — end to end deployment of ML models in hardware systems,
+inference. We collaborated with Google Engineers, I was responsible for vLLM GPU, deploying those
+solutions with Google Cloud GPUs, I am resposnsible for running the ML inference at data centers
+networks, I have used vLLM, SGLang. Cuda - not writing Cuda but I am working on GPU devices.
+ParkSmart — developing smart parking solutions for customers — I was building custom, making
+model, vision models, custom database, annotate. Different data sets, color detections, I trained the
+model so it could detect cars colors and made by which company, brands, model.
+Beofre I was a master student at the university of Liverpool in Advanced Computer Science. I was
+doing AI stuff, for multi agent system, data structures, security based studies.
+SALARY — $100k+
+Cambridge UK — want visa sponsor

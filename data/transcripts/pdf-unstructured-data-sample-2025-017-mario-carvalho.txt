@@ -1,0 +1,24 @@
+MARIO CARVALHO — TOP WEB SCRAPER
+Started as an automation engineer
+Techstack: requests, beautiful soup, cloud scraper, to bypass cloud fare protection, Playwright, Scrapy
+(but too complex for what we needed). We also used some captcha solvers. deathbycaptcha
+GEP — it is the same process.
+Stack — hire people to do services in other companies inside Brazil. — GEP Costdriverss — Leading
+Platform for Cost Management in Procurement — they sell data about rises an index. They
+understand prices and index pricing. We extract all data to set pricing to show if it good to bad
+moment to but their products.
+I started there where we had nothing, I had to build some templates, they were stealing data
+manually and we automated, from countries like Brazil, latam in general, usa, Europe. From all
+industries, food, taxes, government information. In the USA: FRED and BLS. Extract all kind of data in
+from pdfs, html, excel, power bi when they had, cvs files. More than 50 web scrapers.
+They gave some reviews of how they get the data,.. and then I need to automate it, video with the
+instructions, 100 columns, then we extract the data. Manage the team. Technical issues.
+
+
+Techstack: requests, beautiful soup, cloud scraper, to bypass cloud fare protection, Playwright, Scrapy
+(but too complex for what we needed). We also used some captcha solvers. deathbycaptcha
+Ambev — I was hired as an automation controller engineer, not working with the machine but with the
+data, even generate the data, all the process to generate solutions, dashboard with data. \
+GC Automation — when you have a factory, you have controllers that control the machine, program
+devices.
+Salary: 50000 reais. $3k

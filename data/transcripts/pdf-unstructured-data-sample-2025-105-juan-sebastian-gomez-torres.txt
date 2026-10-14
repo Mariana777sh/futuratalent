@@ -1,0 +1,34 @@
+JUAN SEBASTIAN GOMEZ TORRES —
+Techstack: React, DinamoDB, S3, Lambdas, AWS
+
+
+RAPPI — Cargo Team — Last mile as a service — when you order by the rap app you get delivered
+by rappi curriers, if you order by McDonalds app you can also get a currier from Rappi — so it helps
+other apps deliver through Rappi. Integration in an API way. We can show the allies all the orders.
+Cargo was like 300k dollars in revenue / month for this product, I developed all the financial micro
+service, show the clients how much they are paying for the orders, the main goal was to show them
+how much they were built after the order.
+NestJS, TypeScript, Docker, I also had to do some tools in frontend in React.
+I helped build the cargo product, I was doing some features of the last mile as a service product in the
+beginning then I built their financial micro service for last mile as a service. I am the tech lead of the
+financial part.
+Orders per month - I know that we are billing something about $2M - month. We went from $300k per
+month. SO I Helped scale it. From SQL query to move to a Microservice idea. 99% of accuracy in the
+migration. Doing reports was a challenging part. Main information. Work on an environment, where
+most of the tasks aren’t well defined. You need a financial microservice to show the clients the
+financial info. Having to thing ahead of the main goal is the most challenging part. We have to ask a
+lot of questions like trying to understand what are fictional and non fictional requirements.
+CLEVERLYNK (acquired by Rappi) — early hire — restaurant selling and marketing app — it was a
+software as a service for restaurants. We were like the Shopify for restaurants — integrations with all
+the marketing tools, and marketplace tools — we were like 6 developers. Over there I started as a
+frontend dev using React, then I passed on the backend, we did everything in Lamda functions, we
+did server less.
+I was mainly working on the catalogues/menus, upload new images, home page, landing page, you
+could enter to the menu, delivery.
+MO — Internal teams for the team, devops process, Microsoft teams app so we could deploy. Django,
+Python.
+SALARY — $4k/month >> If I would move only if something, the acquisition hire got with.
+I want to buy stocks.
+Hiring bonus — 30k stock options.
+ENGLISH —
+CV —

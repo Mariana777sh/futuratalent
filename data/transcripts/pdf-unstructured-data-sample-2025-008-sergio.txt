@@ -1,0 +1,9 @@
+Sergio — Proyecto — Scrapy
+Problemas si no se hace
+Full-time con Diplo — se mane jar mi tiempo —
+Compensation —
+Notice time — 15 dias — 10 Dias — 29-5 PTO vacaciones: Aruba
+Link booster — trabajo por ticket — spiders, cosas simples, solo trabajar con bitmaker que es mas
+simple. Mantenimiento de spiders.
+Spiders, modular, tiene muchas cosas hechas para middleware, ellos usan AWS, pero el deployment
+es diferente.

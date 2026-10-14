@@ -1,0 +1,9 @@
+SERGIO BUSTOS — SOFTWARE ENGINEER
+TechStack: Python, FastAPI,
+Tri — freelance — ordenes de renta variable, yo hice la integracion c# con acciones y valores.
+Integrar Trini, creacionista de usuario, consulta de saldos, toda la integración con Tri — después, full
+time, integracion de Tri con Calpa (comisionista ) en perú, Python. Nuestro Stack: MySQL, Postgres,
+Redis, Mongo, Golang, Python, fondos multipais , ahora también todo el back del producto de CDTs,
+con MiBanco de servicios financieros, a nivel de Tri. Acciones Internacionales. Alpaca. Arquitectura
+de ese nuevo producto.
+SALARY — $3400 dólares — $20%-30%. —

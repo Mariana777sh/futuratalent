@@ -1,0 +1,26 @@
+MATHEUS ROCHA — DATA ENGINEER
+Techstack:
+FACTORED —it is a consulting company, we are working with clients, working with a client called
+Moody’s, building the data pipeline to the Llm team, data sets for the LLM team to run AI models.
+They have a lot of data, the LLM team was using some data sets to build models. I was responsible to
+build these data sets, get data from data source, provide the final data sets.
+Curinos - a financial company, you were measures, for the clients, basically they sell data platforms
+for another financial institutions, I was resposible to build this on the data platform.
+Data Engineer to Team Lead
+LEMON ENERGIA — I was very aligned with my career goals, back in leadership position, post series
+A — I was facing many bureaucracy. Many years without vacations and went to Ohio University….
+
+
+Nubank — started as an Analytics Engineers — Ultraviolet — the luxury and exclusive, high expense
+people at Nubank, deliver the offer to the final user and also creating pipelines to see how the product
+is going. Through IPO it was a product that was very important. From 0 to 2 million ultraviolet card
+holders, 300k active users. AB Testing, best profile to sell the product, understand what the users
+were needing,
+V-LAB — startup, leadership position for the computer vision team. I was working mainly on V-LAB,
+offer from NuBank.
+RAISE UP — data solutions for companies in São Paulo. We started as a service company, and as
+we got many clients asking for the same things again and again. Retail, healthcare. A lot of contracts.
+I had 4 employees. AN office.
+Snowflake — I am currently studying for the snowflake certificate.
+SALARY: $6350 + equity
+$7-7.5k expectations

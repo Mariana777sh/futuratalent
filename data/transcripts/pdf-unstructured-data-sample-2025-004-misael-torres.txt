@@ -1,0 +1,23 @@
+Misael Torres - web scraping engineer
+BBVA — position of security engineer - devops, not web scraping. Optimization.
+Shelf-e — web scrapping for amazon and mercado libre, we worked for Walmart Mexico, Soriano.
+Our final client were the providers which sell the products in these eccomerces. What info - data of
+prices, stock, visibility of the products, we had to obtain that data. Get the product description. We
+built some dashboards, and reports.I worked organizing the data that we scanned and Jason file to be
+consumed by other teams.
+30 scrapers — Mexico and latam —
+
+
+I had to manage all the third party proxies.
+Selenium, java, htmlUnit, Jsoup, beautiful soup, request, pandas
+Java - 5
+Python - 1
+Teamcore — mainly I had to maintain all the scrapers, 10 scrapers for e-commerce. Not just
+commercial info but also from providers websites that are specifically for providers. Create the
+scrapers to enter that providers websites. We had the opportunity to collaborate with different teams
+so I learned selenium and python. Selenium is a framework that consumes more CPU resources.
+Beautiful soup is better, with selenium you work with your UI in your computer, it emulates a human.
+But others like Beautiful Soup do it on the background. My understanding is that scrapy is more
+complex as it combines different lilbraries.
+I like webscrping —
+$2.6k

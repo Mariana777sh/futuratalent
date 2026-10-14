@@ -1,0 +1,23 @@
+AMIT KUMAR —
+TechStack:
+Working on LLMs, — n8n —I primary work with LLMs and some customers I need to work on
+automation tools. Some people cannot afford AWS and so, so we use automation.
+Healthcare — chat, classification, analysis. ON inference I work with vLLM, TGI by HF.
+When you work with GPUs you work with CUDA, I don’t work with SGLang. When you use a GPU in
+cloud you have to make sure how you write to reach your GPU for your processing, when you use
+python programming, I use CUDA.
+I built on LLM building RAG. I am not an Inference engineer. Of course inference is a thing you do, I
+don’t work 24/7 % in inference.
+Inference if you use big LLMs, when you use quantification techniques, the inference speed, good end
+user experience, quite beneficial for user experience .
+Product —
+I don’t think the company that looks for inference engineer, I don’t think I wouldn’t be a good match, if
+the company is looking only for inference.
+
+
+Ryte —
+I am looking for NLP/LLM Engineering Role — starts from data collection to deployment of models, it
+is not only about research and building end to end product. Working on MVP. My area of expertise is
+LLMs.
+Relocation — needs sponsor.
+Salary: 90k-120k

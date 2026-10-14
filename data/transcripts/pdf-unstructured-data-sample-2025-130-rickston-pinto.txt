@@ -1,0 +1,26 @@
+RICKSTON PINTO — Inference Engineer
+TechStack:
+National Transfer Network —
+Recently I had a LLM downloaded, open source language models like Llama, I had a GPU ready, I
+wanted to see what is the way in which I can do local agents. I was working on vLLM with different
+GPUs, apart from Llama, Mistral,
+LLMs production outputs is slow, so I learned how to do Cuda programming and higher frameworks
+like vLLM for inference. There is a higher level of abstraction. I began learning on how inference. I
+have been doing this a lot. Domain of inference engineering. Then there is SgLang, one experiment,
+what are some good methods of inference in serving large language models. I was learning about the
+transformer architecture on LLMs. With Cuda I was able to notice where a lot of computation is
+happening again and again. There is a lot of math in transformers. I was able to write Cuda Kernels.
+That has been an experience in Cuda.
+Use case — different — documents, the Penn Department, needed to do a project using ML AI
+Agents, sending to open ai but instead using API they wanted to use their own hardware for data
+protection.
+LLM based tutoring — a lot of people, instead of sending the data to chatgpt, you can send your data
+locally, to have your own GPUs at home. Helping students send message to the GPU and get faster
+responses.
+LLM Inference — very recently open ai released a model, ChatGPT, 120 billion parameters, there are
+a lot of methods in which people want to use this locally. Insraunce want to use it, with a lot of
+documents. There is a need to do inference faster. Cloud architecture to deploy via vLLM. From the
+technical perspective, one would be Cuda Kernels. SGLang. Decoding the future response.
+Another big thing like Big LLMs. There is a lot of things that have been performed right now on
+inference engineering.
+SALARY — $200k-$300k

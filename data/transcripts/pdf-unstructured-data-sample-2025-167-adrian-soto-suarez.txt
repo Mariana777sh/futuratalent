@@ -1,0 +1,31 @@
+ADRIAN SOTO SUAREZ —
+TechStack: Graph Data bases, Python, Techlead of a software engineering team, Fast Api, Django,
+Python for web development, NodeJS and Ruby on Rails, I prefer to use python. Right now
+Know a bit about Rust. Java, C#, Scala, C++.
+NOTCO — In NOtCo I am doing mostly Backend with FastAPI — I like to work on data oriented
+products. Software engineering role. I am designing and implanting a lot a product that is data heavy.
+We are doing web scraping. We have like two branches, one branch is related to the food service.
+B2B exposing the AI of NotCo to other companies. Creating concept, taking these concepts and
+making ideas, then creating a formula for a product. I work with the first one, with AI doing concepts.
+We use web scraping to take data from competitors, we understand what are the strong points and
+what consumers don’t like.
+I am doing the API, LLMs, generative Ai
+For now, we have a mix with BeautifulSOup and Spiffy, we use the Proxies in Spiffy to bypass some
+things. Also in my PhD I worked with Selenium.
+INNOVACION IMFD
+FINTUAL — I was more a Data Engineer — Now I am the tech lead of a software team. Implementing
+all infra for creating a data warehouse, cluster of Kubernetes, Docker, Python Script containerized on
+Docker to move the data form different sources to a data warehouse in BigQUery. Mostly Python,
+Airflow. We were in charge of looking at the data. Funnel of the clients and so on. Data Engineering
+and Analytics.
+I havent worked with Snowflake but when I was a professor I used data bricks to use Spark
+UCatolica — Ingenieria de Software / Datos / New Search Systems / PhD was on Graph Data bases,
+I implemented algorithms on graph systems for algorithms to work better, novel algorithms for making
+joins. Graph data bases that collect data across the web.
+Web scraping — I love to do that — I was usingg the information available through the semantic web
+— exposing graph on the web, wiki data, convert it into a graph
+SALARY — $5.5k after taxes I don’t know how that translates in a net salary. I never worked remote,
+so I don’t know how to work with taxes.
+Relocations — to the USA — not in SF but I am open to other places. My wife is also a computer
+scientist, frontend developer. Frontend developer. Not to SF because is quite expensive. I have seen
+some pictures. I would prefer something more like Seattle.

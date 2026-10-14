@@ -1,0 +1,21 @@
+CHANGYI YANG — INFERENCE ENGINEER
+TechStack:
+SGLang project — my optimization for SgLang is for reinforcement learning. Long tail request issues.
+Daily work. IF you want to know how much I do on Inference. I also have some experience,, I worked
+with some Kernel engineers to reduce the cost and time. I mostly do Reinforcement Learning. We are
+about 10 people supporting different frameworks.
+Cuda — I do have some Cuda experience, mostly is I can read the Kurnel and understand it, and read
+different Kurnel structure, but not contributed.
+Yes it is pretty much related to me, for different scenarios, we have different optimization techniques.
+That experience can overlap. Optimization in different hardware. That is also my future directions.
+vLLM — I would say I have some experience with it, but not as much as SGLang. Most frameworks,
+to understand those frameworks I need
+Inference optimization examples — I can talk about a project that I was working on. Previosly, they
+used agent mode. Previosly, engine, calling is instance, for some problems, we would compute with
+several resources, we need to gather all the data to the GPU RAG, you can see how these
+requirements, to take into one, this gather and exploit process. Some problem and .. while you gather
+this… one GPU, RAG. I take that to a server, ……….. (((would need him to explain this, on a written
+note))))) Reduced it.
+Another, good point is that we connect SgLang, we can
+SALARY — $140k+ and for larger $180k
+Starting part time before graduation date —

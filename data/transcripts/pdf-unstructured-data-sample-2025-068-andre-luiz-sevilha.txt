@@ -1,0 +1,49 @@
+ANDRE LUIZ SEVILHA — DATA ENGINEER — SnowFlake
+TechStack: AWS, Terraform
+AGILEENGINE — I was working on a data engineering team, I was allocated with the data platform
+engineering, re-factoring the codebase, creating snowflake resources on Terraform. It was more
+related to Terraform, CI/CD stuff. I have worked on other companies. Building resources, queries,
+Snowflake, management roles, creating pipelines.
+https://www.irhythmtech.com/us/en — Cardiad Monitoring Healthcare — bringing several pipelines
+that were bringing data from IoT stuff, bringing the pipeline, translating that, data lake and stuff using
+PyTrend, we were moving data into the layer, then on top, there were three levels of data. The rought
+data as it is without any preparation with PyTrend, then the other two layers DBT curated, preparation
+the actual data types, moving the actual data type for each of the columns, the third level was
+consumption that business intelliegence and analytices guys were going to use, to create analysis in
+terms of financial stuff , the customer itself, there was like a team that was dealing with customer data,
+som moving data from pre-aggrefated state to check wht the actual customer were using, how they
+were performing.
+Moving data from one pplace to the other. WE bult a data catalogue, it was a resposability to create a
+data product inside the team so other teams of the company can use. Grab the data, prepare, data
+consumption of all the data, my last project it was refactoring Terraform, change in Snowflake,
+creating the tables, granting roles, policies to the roles, creating views, whatever it was needed.
+Using Terreform.
+Client -
+
+
+FACTORED — Samsung — the team, it was Samsung Canada, the office in Samsung was
+dismissed, they are contractors, they were working on a data team. Every product that they were
+using, every resource was built by us and monitor by our team. Monitoring, Governance. Responsible
+to apply governance compliance in our platforms. A lot of Terraform. I wasn’t using data pipelines with
+that, inn other projects, only related to data pipelines.
+Snowflake — I wasn’t using snowflake, it wasn’t my team resposability.
+PROXET — It was only engineering, and not data platform. We used Snowflake, I created views,
+pipelines on top of it. A few pipelines that we were migrating for financial reports, prone to automated
+report, prove that our automated report was going to generate the output with more efficiency. Excel
+files and graphs into using Python, I was using only Python with Pandas, I had to use Airflow, we were
+migrating all the data in the old pipelines into snowflake. I built a few graphs, some other stuff on
+Python.
+The name of the client, it was a company in the USA. https://giphy.com — actually they have recently
+bought anew company and the company that they were working.
+BAIRESDEV
+AVENUE CODE —
+GRAFENO —
+I started my career in 2016. Have been working in companies with software engineering and data
+platforms, creating resources using Terraform, Kebernetes.
+Solutions Architect certification. AWS. I worked on data pipeline orchestrator, Airflow. Firetrend.
+ArgoWorkflows. My main programming languge is Python, Java and Scala. I also started. Few things
+in Golang. I worked with a lot of different database, relational database, SQL servers, Maria DB,
+Postgres, Oracle, Interbase, I may be forgetting something.
+Slowflake, Cassandra. With snowflake I have
+SALARY: $39/hour around $6k > around that $5k starting.
+FRIDAY 24th

@@ -1,0 +1,19 @@
+IGOR ANDRUSKIEWITSCH — iOS ENGINEER
+TechStack: iOS, Swift, SwiftUI, UIKit, ObjectiveC, React Native, Rect, NodeJS.
+BITSO — I work on the Earnings Product - basically provides a way to get yields from the users
+balance. Basically the main idea is as every bank app has, you want your money to get yield,
+whenever money gets in the app, you have a yield system. We can get yields in different currency. I
+build the foundations in iOS to get yields in differen coins.
+EBAY — Contractor — I was part of the payments KYC team, to be honest most of the work was
+boring, getting banking information for sellers. Sellers in China to get their payments, if they want to
+take it out they would need to do the KYC, submit their information. I also was part of the Post
+Purchase Recommendation System, that recomneded new stuff to the user after the purchase was
+done, with products related to the bought product.
+VENMO — I was part of the Business Profile Team — There are some profiles that have special
+treatments, Venmo provide a lot of features for those users, they were promoting within the app.
+Business profiles have more visibility with a photo gallery and different promotions times, and
+protections systems for the products they offer. They can get their money back if there is a scam. I
+worked across the whole business profile flow — set up, onboarding,promotions, authentication, and
+security, refunds.
+SALARY — $6k/month >> I am looking for something similar.
+Next — I would like to do iOS, I have been working with Java, and stuff like that.

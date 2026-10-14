@@ -1,0 +1,19 @@
+CHLOE HE — INFERENCE
+AWS — expert models — general trend, using experts architecture. Optimization for models to run
+and achieve comparable performance with GPU standard.
+I was interested in in lower level inference optimization. Have a lot of learing opportunities. There are
+new models coming all the time. I am I the part of the company that likes more startups. Maybe new
+models don’t come out of the box with performance, so there is a lot of investment in this area to
+achieve comparable performance. We get to learn across the stack. Hardware levels, Kernel, model
+architecture their models.
+We don’t use Cuda, we build our own chips, we have our own language, the idea is youre constrained
+by your hardware design. Right now the hardware that we do iterates very quickly. The models comes
+out and different architecture. The hardware cannot be too generic. What the commonalities…
+I think inference is very interesting. I would def
+Claypot — large scale low latency platfom, a lot of that process, going as the first employee I was
+doing a bunch of tasks across the stack. I think after the startup life. I was doing big tech
+Bioinformatics — Models from different applications
+SALARY:
+I have spoken with a lot of startups — it depends — stage of the company — if I have equity in a seed
+stage. Series A company is not the same. Across different companies
+$200k base and depending on the stage of the startup.

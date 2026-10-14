@@ -1,0 +1,27 @@
+MATH FIGUEIREDO — DATA ENGINEER / AI Engineer
+TechStack: DataBricks, Python, SQL, Spark, Airflow, Terraform, AWS, Azure and GCP (more AWS
+expert). Langchanin and Langraph. Llama Index. I have built some RAGs pipelines and now the two
+main agents is the Transcribe agents and
+FACTORED — I am building a Data Bricks Agent — This company is kind of a marketplace for
+clients to connect with advisors, anyone, and we have a data base of advisors and you ask a
+conversation with that advisor. The company is trying to break into the field of real time transcriptions
+and translation for meeting platgforms. I am building the transcriptions agent and the data bricks
+agent. We cannot hire so much people so we are trying to use AI to do DataBricks jobs and engineer
+review it.
+I am building agents and working with LLM and working with transcriptions models, I am leading a
+project, an agent, to keep memory, transcribe and have conversations around that. My better skill is
+with aMIcrosoft Azure and DataBricks, MLOPs and LLMOps.
+ALLOS — Leading Architect, they look for me because they needed someone to do a migration from
+Microsoft to google cloud. I was hired for this. It was a complete success with the design and
+implementations, we could decrease the cost for more than 90% of the data structure, I also work with
+optimizations. They were not using the best for data engineering. Desing and Implement a Data
+Pipeline and Migrations to GCP using DataBricks and Airflow. Allows is a holding of shopping malls,
+and at the time they were trying to digitalize all for get that data, every kind of data in a mall, why
+people are entering the mall, where they enter, which shos they go, what shops. Parking data,
+shoppers data, camera data.
+iFOOD — Data Engineer — 60 million orders every month — we worked with data from drivers,
+restaurants, customers, orders, menus. I was on the New Ventures team, it is a white paper to create
+new products for iFood. I needed to lead integrations with smaller companies they bought. Azure to
+Google Cloud was the most impactful. We are impacting 200 million customers.
+SALARY — $130k >>> $180k
+ENGLISH —

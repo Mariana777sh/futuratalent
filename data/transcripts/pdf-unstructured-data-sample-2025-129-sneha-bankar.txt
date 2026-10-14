@@ -1,0 +1,21 @@
+SNEHA BANKAR — INFERENCE ENGINEER — 15+ years.
+TechStack: Python, Java, Scala, PyTorch, TensorFlow, AWS, ECS, Docker, Lambdas, Spark.
+PyTorch, TensorFlow, evaluating which one is good to optimize resources in the hardware. Not doing
+Cuda level programming. I am leading a team to do inference. Hsoting the models into our own LLM
+infra. Cost as low as possible for the clients.
+
+
+Amazon retail — Triton servers — Amazon has its own instances, Nviadia, but we have our hardware.
+The hardware of the model depends on the model. Some models don’t require GPUs.
+vLLMm/ SGLang — more low level optimization. There is LM frameworks. Different technologies.
+Inference.
+Triton inference server. PyTorch team. Optimization at those levels.
+I am interested but I don’t know if I will pass the interview… I can try to interview. If the companies
+allow me to learn I am interested.
+What roles — machine learning infrastructure?
+I think the ML world is evolving so fast. How do you optimize serving of the models. I don’t have
+experience with those opportunities. I am confident that I would be able to do those things in vLLM.
+Lot of machine learning hosting requires cloud infrastructure.
+Platform Engineering — people build these different search platforms. Backend engineering. Also
+freelance.
+SALARY — $400k — I am also looking for good enough opportunities. Then $300k is good enough.

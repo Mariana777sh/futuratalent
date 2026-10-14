@@ -1,0 +1,34 @@
+GUILLERMO LEON ALVAREZ SALAMANCA — FULL STACK
+TechStack: React, Java, Python, SQL, Snowflake, AWS, Scala, Grapahana, DataLog.
+Python for data pipelines.
+
+
+ANGI — homeowners and renovation app — they have bought different companies, AngiList for
+example. It is a platform for people who provide services for renovation and maintanece for
+homeowners. If they are subscribed we can provide proposals to them.
+They had AngiList and Home Advisor, and the idea was integrating those platforms, into Angi. The
+idea was migrating all the users from Angilist and home advisor. The idea was understanding the
+database and working alongside different teams, as comms, sales, invoices, and migrate all that info
+to the new platform, so the users can enter directly into the main platform. What are the challenges?
+Mapping info, there are some features that don’t exist in some platforms so we had to work with
+product to see if we need to make a new functionality or not. Build new features when needed. Also
+the stacks are different. For activating the users is not just passing the info, but there is business
+logic, like for example suscriptions, understand the microservices to know which endpoints we need to
+call to activate users. In AngiList was Scala, and Angi is Java. There are people who want to suscribe,
+the prospects, and clients there are 1.5 million users that were passing from these companies to Angi.
+This one was building something from scratch because we had to create a framework to build the
+migration. Before that I worked on another project from scratch to allow people subscribe to the
+platform without a sales person, I built the online enrollment product.
+Here we have a lot of data pipelines for libraries that we have in the company in snowflake, extract the
+data from the data lake and then create reports. For digital marketing data for example.
+FRUBANA — Microserce for the invoices for the curriers and transport companies. It was a a process,
+an app that runs every night for the ‘remissions’ of the route and the products that they have to
+deliver. So their task and the money they get. And data pipeline. Techstack: Java, Scripngwood,
+React.
+BLACKBOARD — I was working with integrations of chatbots, integrating in the LMS, I also built a
+product to see if the students where doing faking (plagio ) where they send the tests or homework and
+they checked if they did it or not.
+Salary — $6k >>>> $7k-8k.
+Relocation??? — if there is possible a relocation, or Ai, I would like, 6 months. Would need to move
+with Wife.
+Master in Georgia Tech — the university is well recognized in USA —

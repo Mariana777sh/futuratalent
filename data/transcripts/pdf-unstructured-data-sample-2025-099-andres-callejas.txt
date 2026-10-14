@@ -1,0 +1,17 @@
+ANDRES CALLEJAS
+TechStack: Go, GOlang, Ruby, Ruby on Rails, Kafka, Elastic Search, MySQL, Redis, Postgres.
+GLOBANT — GO Dev — Disney — Go, but the last year from November there were no GO tickets.
+We are working with the POS (Point of Sale System) for the parks. There is a big monolith, and we
+are migrating to micorservices. Sometimes we need to fix things. I am working on Configuration
+Hierarqy for microservices.
+RAPPI — User Core — Supporting most of the products in Rappi — we were the orchestrator to call
+microservices between back and front — it is the path where the backend starts, a lot of movements
+because our work was not directed in the frontend. Other microservices were after us. We were the
+front to communicate back and front. Kafka, Elastic Search, MySQL, Redis, It is kind of a pipeline to
+receive info from products to show it in the front. We had kind of a pipeline, info from sources to pass.
+GROWTH ACCELERATION PARTNERS — the client was ProofPoint —
+https://www.proofpoint.com/us — Account Managing Product — Digital Communication Governance
+— analyze images, and texts with AI to detect treats. connection between social and professional
+network s —manage protectional accounts for people, help you do reports, what you can post,
+professional networks. The main part of his program was in Ruby. Was starting to learn some Ruby.
+SALARY — $ 12M pesos with prestaciones sociales —

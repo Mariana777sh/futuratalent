@@ -1,0 +1,17 @@
+TREVOR GARRET —
+TechStack: Python, FastAPI, Django, NextJS, React, TypeScript, PHP, Postgres, MySQL, MongoDb,
+AWS.
+People Data Labs — aggregate data — customer deliverables, on website, me in terms of full stack, I
+handle authentication, all our payments, access our data and make purchases. Better returns. Internal
+company tooling. Get people access to and things like that
+Authentication, Payments, Consumer Tooling.
+Consumer tooling — tools that allow our customers to use our products. We sell an API access. For
+example sales force app to consume our data from sales force, targeting non technical users to they
+use our platform more.
+I built the Dashboard, the sales dash which is our internal tooling, I handle all of the stripe payments.
+Prosales — ERD system open source, similar to salesforce and hubsport, sales and accounting. All in
+one software. Manufacturing companies that were very niche, it required a lot of development work.
+Unifying it and getting it more modern into the Javascript ecosystem. Create more dashboards for our
+users at a glance see informations for the different aspects
+Salary: $180k+
+Ask for CV — good candidate.

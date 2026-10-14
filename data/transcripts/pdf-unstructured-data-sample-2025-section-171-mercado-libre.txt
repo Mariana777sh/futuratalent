@@ -1,0 +1,21 @@
+MERCADO LIBRE — I was in the asset management department in Mercado Pago — it is basically
+an account where you put your money in your account and you get some interests. Only available in
+Brazil and Argentina. I was in charge of improving the latency, having features in the data, using
+DynamoDB, it was a better approach. The problem was that we were having high latency times when
+processing the economic interests from the users. Processing that is heavily to the data base and the
+table saving that info is having millions of raws so the process was taking so long time. Solved
+implementing DynamoDB
+COMMURE — Merlin was acquired, so it was in the transition time, during these time I was in charge
+of writing Rust Core for the HL& and FHIR standard. It is a standard api for the healthcare
+communication, the way that you process medical data in services. The API was written in Rust. It
+provided services for different hospital and clinics, and the main API service was by Commure by
+different clients, the standard is the same, for the data base was a standard. The clinic hospitals and
+these kind.
+MERLIN — It was basically a recruiting company, it was in charge of moving some services from java
+to go, I was supporting and fixing bugs in the java services to GCP. New infra, new services used in
+Go, employers with candidates. Employees wanted to hire people posting blue collar jobs. I was
+supporting the backend of the app. I was supporitng all the stuff that would show up to the candidates.
+Merlin had two parts, the employer and candidate part. Showing jobs, scheduling interviews, info from
+the candidate., the chat.
+SALARY — $6k - $6.5
+ENGLISH — great

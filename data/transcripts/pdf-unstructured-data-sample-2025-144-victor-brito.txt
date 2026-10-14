@@ -1,0 +1,26 @@
+VICTOR BRITO — Frontend AI Engineer chatbots.
+70% frontend / 30% backend — I wouldn’t feel motivated, because I like to work with the client facing
+stuff.
+TechStack: React, NextJS, NodeJS, Sigma, Python, .net, C#, GrapghQL, Postgres, MongoDb, Azure.
+BLIP — Chatbot Company and Communication Company — I am a full stack dev — in the front react
+and typescript, in backend with .net, internal no code platform for developing static and ai agent
+chatbots. Our clients have very specific projects for it. On the AI agents, once they started to raise in
+the market we have different use cases, we have chatbots, we have a partnerships with a big car
+company, when the clients buy the cars they are greeted by the AI agents, and they answer it. I
+developed an AI agent totally integrated in the frontend, like an automation. The agent tracks all the
+time the users, what to see, what to use, the other times the client acess it to give instructions and
+what to do.
+I am more of a frontend guy, I do simple integration with google and open ai apis, I didnt get deep into
+the ai stuff.
+PwC — financial consultant company — I worked on the IT area, analyzing the clients IT infra that
+were relevant for the security of the financial aspects. Management of changes, segragation of roles
+in the development team. I was a consultant in the more technical part, for bringing it strategies for
+security and financial it.
+KUMULUS — Python and Selenium to do automation, I built with PyTorch, AWS Lambda, React and
+Node, I was really passionate with Frontend and JavaScript. — I worked with different products
+because it was a consultancy and IT, I worked on a project, integrations, QR code for an industry
+company. I also worked with integrations of payment methods. SKF. - https://www.skf.com/br - I
+worked on the payment side of the website with the subscription product, also integrations. Frontend
+developer.
+Salary — $3.5 dollars / month >> I would like to go around 25% increase
+English — good

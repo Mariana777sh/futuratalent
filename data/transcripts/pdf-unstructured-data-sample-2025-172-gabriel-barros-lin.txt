@@ -1,0 +1,25 @@
+GABRIEL BARROS LIN — AI ENGINEER — great fit for Telepatia.
+TechStack: Python, C++, LangGraph, AutoGen, CrewAI, Pedantic AI, FastAPI, Docker, Kubernetes,
+Cloud Environment, AWS, GCP, CI/CD Process, PyTOrch, Hugging Face, Llama, vLLM, RAG
+frameworks, Mulvus, ChromaDB, Deviate, PGVEctor, Pinecone, Postgres, AWS, Azure.
+MICROSOFT — building an orchestator system for a big bank, manage user intent to call the right
+agents, understand the user needs, based on that plan call the right agents to achieve the result. I
+want to do a transfer to my mom and put the rest of my money into an investment fund, the
+orchestrator should be able to understand the two intents. I used Langgraph and a lot of custom
+things, not depending on the main ones. Besides that I trained a model for that. Handle better these
+situations just to clarify which agents to call. Doing an inference process with Azure. Mainly in the AI
+Foundry. I hav
+GENOA PERFORMANCE — I still work with them on some projects, mainly focused on Customer
+Experience, telemarketing calls, I build products and multiagents system to analyze phone calls, how
+the operator did in the call. I built using Crew AI to evaluate the call, how the operator did, allegation,
+a judge of the financial answer, gather info from the company, did a final report to how an operator
+can improve. Built a big chatbot for calling experience and as a data analyst. I built a knowledge agent
+responsible for a RAG process, collecting info from a data base on user requests based on user
+inputs, and get arguments based in what we have to try to convince the client to not take out the
+money. An customer experience argumentations assistant using Langgrapgh.
+RADIX —
+SALARY — $6-7k — so that is my base, my expectation is 7-8k. But open to negotiate.
+I am closed to Natao —
+RELOCATION FOR SAO PAULO — right now not. Because I have my grandmother 92 years old, I
+can travel to São Paulo a couple of times month. Twice if needed.
+CV — sending

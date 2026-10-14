@@ -1,0 +1,7 @@
+NESTOR CAMELA — iOS Engineer
+TechStack: Swift, ObjevtiC, SwiftUI,
+STORI — I am in the home team, we are coordinating how to navigate with the home, back and forth
+with product and business team. We created a server driven UI, change without having to depend on
+a release. My main focus is home, but also works with login, deposits, mini services like payments,
+design system. The server driven UI is the most consequential thing I have done. Now they can
+change anything from the backend. Build new features thanks to this fuctionality I built.

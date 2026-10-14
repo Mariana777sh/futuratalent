@@ -1,0 +1,25 @@
+MAURICIO GIACOMINI — SOFTWARE ENGINEER — BACKEND AND ARCHITECTURE / NO
+frontend — ELIXIR ENGINEER
+Elixir engineer from 2017. ELIXIT Expert.
+TechStack: Elixir, Go, NodeJS,
+Elixir, React, Next.js, Node.js, Postgresql, AWS, GCP, Kubernetes, Rabbitmq, microservices
+I am ok with React but not so good or don’t like frontend much.
+Stone — microservices architecture — most is in Elixir and migrating to Go Services. — I work card
+banking team, my team is processing payments from PIX, Boleto, and every kind of payments that
+needs process from other banks and put it into my account, we have a legacy monolith, we are
+extracting functionality. Monolith, creating new services. I use in my previous jobs this knowledge of
+getting functionality, move it to another services. Now I work with the .. Our customers can generate
+advice, we build APIs and generate invoice, because we send for someone to pay, when someone
+pays we receive this, we process this, do many checks, basically we are in charge of processing this
+payment. It is basically this. There are other teams that build that allows customers to pay. Our
+process in more like Stripe inside stone. Payment API products. Internally but I am also working on
+the payment API product. I started working on the POS products and payment processing internal
+product but now we are trying to sell this to companies.
+Academy — it was more time managing than coding. I was building a platform like Udemy for BRazil
+to teach coding.
+CREDITAS - - Led the Bcredi team and successfully integrated the Bcredi platform into Creditas after
+the acquisition. I twas a mortgage product.
+BCREDI — there I was building a mortgage platform.
+Ruby on Rails — I was very good with Ruby but I don’t code in Ruby for 4-5 years.
+SALARY — $25000 reais — 4.6k dollars
+English is like 6-7/10 he can communicate but a bit difficult.

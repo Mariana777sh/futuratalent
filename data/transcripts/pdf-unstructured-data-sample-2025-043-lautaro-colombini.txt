@@ -1,0 +1,31 @@
+LAUTARO COLOMBINI — REACT NATIVE —
+github.com/LauColombini
+TechStack: React, Python, NodeJS, MongoDB, Postgress, GCP, AWS
+full stack mostly focused on frontend
+FRESH AND DASH — React Native expo, a lot of integrations.
+
+
+Product — it is an app wellness app where you have courses on mental stuff, pilates, yoga, fitness.
+You customize the profile for the clients. We have the designer, Sigma, to React Native. Right now we
+are only two developers.
+I support a little bit of backend but is not my main one.
+TECHSED —
+Techstack: React, React Native, Typescript, GCP, was, Nodejs, Nextjs, Nestjs, SQL, Postgres,
+MongoDB.
+GitHub:
+I have a project that I built two months ago. https://starmap-web.vercel.app — I made the integration
+with Mercado Pago. From this library — https://rhodesmill.org/skyfield/
+https://www.thenightsky.com
+PIVOT VENTURES — Polser.io — It is a CRM built for people who have a lot of clients through
+WhatsApp and Telegram, sense of when you are talking. Clone your voice, integrations, what app
+business api https://polser.io/
+They already have the web app, I made a lot of progress. Parallel, I manage the pipeline with EAS
+Expo, a pipeline that you can deploy different versions of the app.
+I made some microservices with Python and Lambdas in AWS.
+WEELOK — startup — web3 social media, they wanted to onboard web2 people to web3. I built the
+app from scratch. I made the repo, integrations like Wallet connect. Participated in crypto events. 2.5k
+people using the app simultaniusly. We made the app, a wallet custodial project. React Native.
+CHIPER — when I entered to the company they expanded to Mexico and Brazil, I was only React
+Native developer there, they promoted me as team leader in whole Brazil. Website app, React native
+app, for the warehouse and deliveries. I had 5 people on the team.
+Salary: $25/ hour — $4k/ month.

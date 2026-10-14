@@ -1,0 +1,26 @@
+SANTIAGO CABRERA — SOFTWARE ENGINEER — DOCUMENTATION ENGINEER
+Techstack: Scala, Clojure,
+JavaScript ecosystem — I haven’t worked with this professionally, at the end is gonna be the same,
+as we understand the logic of the handling of concurrency. At some point some are the same.
+No issue working with the frontend. I don’t really have a problem going down to C, I love low level
+programming also.
+Nubank — I got in there, I started in the Colombia team for Bills, what are your transactions for the
+month, when you receive the extract from the bank, a lot of similarities, I am in charge of the logic of it.
+Not so many people really understand what you are working on, I develop some facilities to make the
+developer experiences work better. Now I am part of the Developer Experiences — installments
+feature, if you purchase a fridge, lets say you’re gonna pay in Change installments, you wanna
+change installments, you can select I want to change the instalments, instead of 2 to 6 so I can make
+it because I don’t have the money. Then Refinancing team, I need to renegotiate my debt. Kafka,
+Datomic, Clojure.
+Hopper — really complicated technology about state machines, it is a really nice idea where your flow,
+you design it as a state machine, they developed a library, to what is the process, you get into the app
+and you are looking for flights, that is handle by the library, my job was to integrate information about
+the airlines, with data available.
+I like to get into a complex concept and make it easy for everybody.
+TechStack:
+S4N — Starbucks — it was changing the whole backend and the handling of the transactions, POS
+system, where the transaction is gonna happen. Reconciliations. TechStack: Scala, Kafka,
+I am not planning to leave NUbank
+SALARY: my own pace.
+Intro to doc engineer role — I hate documentation, I would say yeah, I can really get things and get it
+myself

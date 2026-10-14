@@ -1,0 +1,30 @@
+JOSE MANUEL ESPIZONA AGUIRRE — TOP STARRTUP ENGINEER — FULLSTACK but more
+Backend comfortable.
+TechStack: JavaScript, TypeScript, React, Java, Docker, Postgres, AWS,
+Also, Python, FastAPI, GCP.
+ZENPLI — KYB/KYC — experiments with Python and LangChain/LangGrapgh — running small
+experiments. In Zenpli we use most of the google stuff, so we use Gemini. We integrate with Gemini
+API for operation part. Vertex studio — we are using LangGraph for a proof of concept — we have our
+own infrastructure, prompting, langgrapgh helps me. We want to add this capacity to change between
+vendors.
+One day we were running a demo for a client and Gemini was terrible, so we switch, if the Gemini is
+down.
+Use Case — KYB — for document processing and we connect that with verification layers, you need
+to, validate if that company is not in a sanction list. Compliance,. We use AI for that analysis.
+Backend side Java, Python and GOlang, and AWS and GCP and Postgres for KYC/KYB. NextJS for
+Frontend.
+FRUBANA — I was in charge of the Warehouse area. Tech lead and thennthe head of eng. Inventory,
+Stocks, Returns, and truck operations data, all related to warehouse. I had a team of 20 engineers.
+Java
+ADDI — I was working on different parts. Working on Financial Core — the price that process all the
+loan and payments, calculate if you are overdue or not, the interest, all financial calculation. Process
+all the payments. Installments. Java
+RAPPI — Restaurants Integration s— you create an order in Rappi and I send the order to the
+restaurant system. Started as PHP, and then JavaScript, Python, Kotlin.
+SALARY — $7k/month + bonus $3k. Salary is ok, I would like 8k. My main driver is a problem to
+solve.
+
+
+Relocation — would you move? Yes if the right opportunity — it would be a good opportunity — me
+my wife and twins.
+MOTIVATION — high!!

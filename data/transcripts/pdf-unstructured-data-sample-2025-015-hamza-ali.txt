@@ -1,0 +1,21 @@
+HAMZA ALI — web scraper — Pakistan
+Tech: Python, Scapy, Django, GCP, Beautiful Soup.
+Zyte — primarily in company that works with data, web scrapers. I am building e-commerce sites
+scrapers, Walmart, amazon, the major e-commerce websites. Deliver the data to customers. Also job
+posting: Glassdoor, indeed. Articles and newsletter websites. We have our internal api. College
+catalogue websites, to check courses and curriculum.
+https://catalog.ccac.edu/preview_course_nopop.php?catoid=12&coid=22679
+PDFs websites — building materials related, in the construction what materials are friendly,
+composition of the materials. A lot of the info was in website and also we had to scraper data from
+pdfs. Hundreds of pdfs and we used LLMs to get the data from PDFs. Download pdf and feed pdfs to
+LLM.
+Scrapy gives you the flexibility. When we talk on scraping. 1 million records scrapy is better.
+Arbsoft — web scraper — aggregator, integrate different apis, European client, intregrate carries into
+their website where users can check their journey. Website aggregator where carriers can integrate.
+Bus companies. I was part of the backend team, part of integrating the apis of bus companies into our
+platform. So the front end can use our api.
+S&P — Fortune 500, it has one office in our company. Darknet tech stack. I mainly work with darknet
+related technilogies. They had their own framework but I worked with darknet stack mostly.
+Own product — giving insights on financial data, countries ratings, logistics.
+Salary: $4000+
+Remote — $5k

@@ -1,0 +1,32 @@
+YUSUF ANI — INFERENCE ENGINEER
+Inference Engines — I am those to use public models, interested, but not as an inference engineer. I
+am using it for my agentic purposes.
+Cuda — I would like to learn — everyone wants someone that writes these kernels.
+Innospere AI — fully focused on AI agents, developing agents, we passed the MVP, the first one is
+whenever the is a car to car accident, predict amount of the cost. We are trying to assist those people,
+agent RAG where we have the closest scenario. I develop, agentic chatbot for a university, queries
+about lessons, employees of university, automatically re-direct them to the pages. Right now what I
+am doing is there was assessment comany. PDFs. Lots of figures and tests, they don’t have data
+layer. Mostly writing an agentic chatbot to answer from tables,… questions about reports, or generate
+reports about KPIs or info from industries.
+
+
+I anm working inference tools for all of them. IN all the three projects we are not allowed to use any
+APIs. That is why I am using them. I have to configure them because we have limited resources.
+Quasara — Research deployment — data labeling company, companies come with the data, they
+want to find, clustering, clean data and find the only important parts, this for search and customers
+write. Filtering data for big leaning pipeline.
+I worked for two years.. I did my thesis in there. I started working…
+Master — TUM technical university of Munich
+Nova Research —it was a university job it was more of a research thing. It is not one of the best
+papers.
+CBOT — this was a chatbot company, they were running with ML models, and they wanted to move
+their models to deep learning models. I fined tuned classification models. Ofc I was also involved in
+different projects. I worked for ecommerce, I was involved in SearchDeep, they were training models
+that I was responsible for cleaning data and maintain those models. I implemented from scratch. I
+worked on NLP, where you catch color, brand, etc in users queries, capture entities. Search
+classifcation problems.
+Salary — $90k - $120k —
+If you look any job that say it is an agent implementation… what I am doing 1.5 years. Just vLLM and
+SGLang.
+MlOps is a different thing, I help orchestrate. I use vLLM as a tool. Send description.

@@ -1,0 +1,15 @@
+EMILIANO MALLO — iOS — PayPal/Tienda Nube
+TechStack: iOS, Swift, UIKt, SwiftUI, Swift Concurrency, Combine, Carthage, UITests, XCUI, RestAPI.
+VENMO — Working in the Crypto team — I built PayPal Rewards, I built the experience and focused
+on the experience for iPhone. My main experience was the crypto. Recently PayPal launched its own
+cryptocurrency, and now we are trying to add blockchain network stop transfer with lower fees.
+TIENDANUBE — Senior Manager — I received a team of around 15 members and I grew it to 50
+people. My role was in architecture, I was having a lot of design conversations. We were working on
+having our own payment gateway, we were trying to build a lower level layer for our own. We also
+created the app for the merchant managers for stores. Another team scaled from PHP to Scala. I was
+writing code in iOS.
+OLX — I had the listing team in charge to sell different products in the platform. Mobile app.
+Codika —
+
+
+SALARY — $9k/month — 20%-25

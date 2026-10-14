@@ -1,0 +1,15 @@
+TIAGO RAHAL AIRES — 75% full stack and 25% automation (more recent)
+TechStack:
+CREFAZ — Automation — Web Sraping. One Script for Internal Process for Spreadsheets. I need to
+divide that, the files. It is me alone at the company doing automations. At a financial company.
+Also Scraping on external pages to check info from government and expleoyees. A lot of Playwright
+and Selenium. Python that allows you to manipulate the mouse. PyAutoGuide. The last two years I
+started working with Python and Web Scraping.
+Here in Brazil most of info from companies are in public access, the real name, etc. Public access and
+the credit company, sometimes they check some companies. I was checking it, part of the job, this is
+too slow, the info is public, I was trying to make my own API. It is not related to the company. I was
+just mad about
+Baires Dev — Ruby on Rails Apis. Rental something. (((Not so much product oriented)))
+PLATHANUS TECH — I did a script to download and transform Postgres data base. Basically, 5
+gigabytes. Postgres. Created an API>
+SALARY — $1300 —>> 1.5k and 2k.

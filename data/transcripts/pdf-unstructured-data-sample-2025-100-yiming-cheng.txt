@@ -1,0 +1,16 @@
+YIMING CHENG
+CS Predoc —
+Tsinghua University —
+LMCache — Distributed cache like Redis for distributed data base, it is a distributed engine for
+Inference.
+vLLM — the fastest inference engine ever — you want to know. Every company wants to do this, to
+serve customers, you need to calculate, to make some responses, there is some users, you are user
+the LLM what something is, not to calculate something for the same user, re-use the cache. RE-useed
+to make the inference very efficient.
+Production Stack — it is more a product.
+Paper — LMPrefill: Inference Engine for Refill-only Workloads in LLM apps.
+Recommendation System for LLMs. You can ask the LLM. Engine beautiful scenario, we use vLLM,
+LM-based recommendation models is of high quality. Just change. Totally new recommendation
+system. If it is cheaper. Train once and deploy millions of times.
+LMPrefill —
+SALARY — $150k + vis support

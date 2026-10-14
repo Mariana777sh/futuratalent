@@ -1,0 +1,29 @@
+ANDRE BONFATTI
+TechStack: Golang, Ruby, Elixir. TypeScript/Angular.
+Infra — Kuberntetes, AWS, GCP.
+Birdie — 70%React / 30%Golang and Python.
+Customer Data — we categorize that, use data to present the client with insights. I work on the team
+called application, we take care of the website, integrations like Slack and teams. Slack connectors
+are my child brain here. We basically provide an assistant where people can talk with their customer
+data, calories, analyze
+ChatGPT, LangGraph, Agent Logic, User can interact with data, biggest part of the day.
+VITAY — Company was acquired —They had a CTO, just take care of the startup leaving when they
+sold the company. Me and another more junior dev building. 120 customers, building for healthcare on
+Canad. Send a link as ex-collegue, information why the company should hire them. Also just for
+service in general. Referral service to help people in the hiring process. Early stage of the hiring
+process and pass info about the work style. Rate form 1-5 how this person performs in these different
+skills and qualities
+GYMPASS — I was working on the data pipeline and engineering team, we had a few connectors, we
+were responsible to have a data lake and have an analytical tool in the data lake. We were growing so
+fast. The developers program into the backend services. Labelling the data. Cross reference. The
+data lake was there, I was building pipelines. Segmenting the data lake. Instead of using the rough
+data into the data lake. Aggregate the data.
+Airflow with Spark, S3, we used
+NUBANK — KYC process of knowing the customer data, I was responsible to gather all the data from
+new customers. Get bank account and credit cards. We had some bureaus, we needed to have some
+controls on our side. So those kind of data exchange,
+DogHero— full stack
+Movile — full stack
+I started my career as a full stack. Startup — myself as a developer, reviewing CVs for small
+companies. Things didnt work out. Backend. Using Ruby on Rails, being close to product.
+SALARY — $42 dollars / hour

@@ -1,0 +1,18 @@
+Fabio Melo —
+RedRex — data projects. 4 projects, data warehouses. Insurance health insurance. Pay for insurance.
+How much is the price for a meeting with doctors and appointments. Parttime job
+Justbrasil — collecting law suit process, crawlers to get access to the courts, and the cases. I put the
+number in one software. Need to build the right kind of crawler.
+Ascential — Intelllifood — from DoorDash, Ubers eats, food, grubhub. USa Canada, mexico, latam,
+South Korea, India, dubai,
+Intellibrand — collect data from 600 e-commerce websites from latam and Brazil, pharmacy, amazon,
+mercado libre, and small e-commerce websites, we built an entire system to collect this data.A lot of
+sites, 2 million restaurants daily, 1 petabyte of data monthly. Crawlers using typescript.
+
+
+We write from scratch.
+100 + scrapped websites. Understand how the apis were working.
+Now is a part time job
+Tech stack: Javascript In Javascript Axios, Puppeteer in Python Selenium httpx, Beautiful soup,
+I don’t like to use scrapy, limitation.
+Salary: $22k reais — 4k dollars — looking projects.

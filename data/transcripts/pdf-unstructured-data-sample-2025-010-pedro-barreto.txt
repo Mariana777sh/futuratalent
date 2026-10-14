@@ -1,0 +1,29 @@
+PEDRO BARRETO ———— TOP STARTUP GUY*************
+QSraus — consultoria y desarrollo digital, para marketing. Desarrollo web. Ayudamos a las empresas
+a desarrollar sus estrategias de marketing y work management. Work management tiene un flujo de
+trabajo en donde hacen una solicitud. Paso a paso para ejecutar. Marketo / Mailchimp para .
+WorkFront de Adobe, Monday CRM, Asana, Jira, Notion, centralizar la gestión de proyectos porque
+ayuda a automatizar, proceso de comunicación constante, dashbaords, uno trabaja ciertas horas.
+Automatización de los flujos del trabajo.
+Encargado del area de marketing —hablar con las empresas, entender sus necesidades de
+marketing digital y planteamos estrategias. Por ejemplo una empresa va a lanzar una actualización
+de su software, tenemos que hacer webinars, push notification, SEO, posts, etc, gestión del
+marketing de esos leads, como podemos gestionar por marketing digital. Usamos Hubspot, Marketo,
+Pardot, Elocua.
+Lead Scoring — Gracias a las variables, hay personas mas interesadas y puede ser leads
+cualificados. Uno puede configurar en Hubspot ese tipo de cosas. La persona dio 10 clicks en los
+
+
+últimos 2 meses. La persona trabaja en tal cosa que se acerca al perfil del cliente ideal. Embudo de
+marketing, desde que es un lead, contacto
+Example: one of our client in the IT industry, they have an app, SaaS, the idea was to improve the
+workflow between marketing and sales, and implement a lead scoring model, sales team saw that
+leads were not hot enough, we implemented behaviors in our models, I proposed to do more
+engagements such as doing more webinars, because they needed to show the updates and show
+that they are evolving as a software and as a service. Apart from that we implemented SEO.
+Improving the keywords, amount of phrases, improve the probability of the keywords to be shown,
+keywords such as saas, image generation, what we propose is to improve the way. Improve the print
+in search engines. Using Hubspot, the way we were communicating Hubspot with Salesforce, we
+were doing duplicate leads, and we fixed. Before we got our hands in the system there were
+some incorrect set ups.
+Salary: Now 3.5….. $4k-$5k

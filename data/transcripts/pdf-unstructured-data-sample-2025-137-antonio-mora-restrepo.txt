@@ -1,0 +1,33 @@
+ANTONIO MORA RESTREPO — BACKEND / Full Stack RUBY
+TechStack: Python, Django, Ruby on Rails, Go, React Native, React. Postgres, Big query, MySQL,
+Kubernetes, S2, SQS, S3, AWS.
+Airflow, powerBI, Tableau, Redshift.
+FINTUAL — I have been working 3.5+ years in FIntual. Transactions. I have been working on money
+projects that enter money and go out of fintual. I developed our most ambitious project which is our
+Banking Core — before we had to connect with an external bank, get info from the bank if they
+invested, if the bank failed it was outside of our control. So we had to develop our own Baking Core,
+that connects with the transaction system of Chile. I developed two apps. In GO and Python. We
+connect with the Central Bank and certified our banking core. Fintual appears as the list of options of
+banks you can transfer money to. Test driven development, pair programming, we worked hard. The
+second part of the project was the integration of the FIntual Bank with the Fintual Platform. That
+integration took 6 months. IT touched the Core in Django, like the app Fintual in Ruby on Rails. At the
+end of the day the money should go towards the asset. These flows move 60 million dollars without
+any human intervention. For clients this is instantaneous. Before it was 4 minutes and now half
+second. Now it went to production and 80% of clients are using it and I am the owner of the Core
+Banking. New features.
+I was working the first year on the Ops Team of Mutual Funds — accounting of funds, our biggest
+challenge was that all mutual funds, was making analysis of how is it going, if the fund rented or not. It
+has inputs from different sources. Our clients. The dollar price. When I entered Fintual, we had 4
+people to close the fund. We improved UX and internal ops. Improvements for daily operations,
+improvements.
+MANAGER SOFTWARE — business intelligence and data science — Airflow, powerBI, Tableau,
+Redshift. It is an ERP for Chile — it focuses on Pymes. It is Cloud Base. I was working o Business
+Intelligence. I built a data warehouse where all the info of companies could be in a centralized. ETL
+flows for data from. Managers to feed the data warehouse. Also make reports with Tableau,
+Dashboard for reporting the CEOs and Managers to take decisions for the company.
+SALARY — $4k — I have a plan to go live in LA. My wife will start a PhD in UCLA. I will move on
+August 31. Chileans, we have Visa h1b1 that we don’t need lottery. So it is easier to get sponsored.
+$150k -$200k — Sponsor Visa — I could work in SF some days.
+LangChain — two weeks ago I got one week to play, I built a RAG, I built an agent. Cursor.
+LangChain knowledge. I had to agents and I could ask questions, questions in human language of
+how many transfers came in today, consult to SQL, then go to bigquery, and give an answer.

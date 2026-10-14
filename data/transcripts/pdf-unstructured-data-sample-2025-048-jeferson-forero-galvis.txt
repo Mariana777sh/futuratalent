@@ -1,0 +1,42 @@
+JEFERSON FORERO GALVIS — FULL STACK — TOP DEVELOPER TOP — Special FOUNDER.
+********** (but bad English)
+TechStack: TypeScript, React, Angular, Mobile Java, Kotlin, Python, SQL, MySQL, MariaDB,
+Firebase, MongoDB, Postgres, AWS.
+Docker? Kubernetes? Todo lo manejamos dockerizado en AWS,
+Me gusta crear producto a partir de ideas que me se me suelen ocurrir. Apórtate mucho mas de solo
+de desarrollo.
+WIWO — I am building an app that connects employees with employees, you like and dislike, like
+Tinder, if there is a match, both need to like. There is a match, We have s system of interested people,
+a recommendation engine. We work with large companies like Starbucks, BurgerKing, using the app.
+
+
+GRUPO ALUS — Full stack developer, we develop software for different companies, BBVA, Bimbo,
+Mercedes,Loreal Paris, we have a base in Angular with TypeScript and the product is a rewards Ali
+system, where we redeem rewards. Worked with Golang.
+SORTEAME — it was project, it was a boom when influencers were building digital lotteries, I build a
+system to build lotteries. You buy the numbers and they arrive to your email. Web scraping depending
+on what lottery you select, to announce winners, having statistics.
+RAPPI — I was part of the customer service team , when you had a problem, there was the Lupe
+platform for solving customer requests, with chats with customers, fraud detection, analyze the
+curriers, clients, more than anything optimizing and facilitating the customer agents that take many
+tickets at the same time, help with the resolution, no shortcuts, outside of work I build a whataspp
+business system with shortcuts, depending on the client, having different requests, you click some
+commands and optimize time.
+TREINTA — I built Treinta Web, I told them to build a system for restaurants. It is a POS system for
+restaurants, managing tables, menus, inventory, and so on. Additional to everything the app does, I
+built the web platform. It was a POS system web to manage inventory, clients, vendors, balances,
+sales.
+TAKI APP — it was a very well known platform, it was a competition, over 10,000 users. It was a
+mobile platform for different companies, mobile and web, super fast, native, in Java with Kotlin. They
+made me an offer, I sold Taski,
+English: 5/10 — worked with Rappi in a service, I don’t problem to follow this conversation, but need
+more explain for this question, my question…. I like the how the name of this… ehhhhhhhh…. I like
+the solving problems in specific service and clients, I like to resolving different problems, the job in this
+moment,
+Location: Cali , Roldanillo
+What motivates you to be an entrepreneur? I started building software initially for small businesses, I
+did inventory system and payroll because, for people around Cauca. I built a POS for somebody. A
+woman went bankrupt and couldn’t pay, and I decided to improve it and make it for everyone. In 3-4
+months in reached 10k business registered. At the start it was posting on Facebook groups. I invested
+10 dollars in marketing. But in became words of mouth thing.
+Salary: $5k -> start from $5k to talk

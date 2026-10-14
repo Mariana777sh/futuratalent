@@ -1,0 +1,19 @@
+MUHAMMAD USMAN — WEB SCRAPING ENGINEER
+ZYTE - Data Extraction — ecommerce, marketplaces, we are using Scrapy + Python + ZyteAPI +
+ZyteCloud for hosting spiders.
+We did Amazon, Walmart,
+Job directories like Glassdoor.
+Doctor directories — get data from fellowship, experience, personal data from their websites. —
+https://kyruushealth.com
+UberEats, Delivero, OLX.
+I have worked with almost any kind of website, we don’t do LInkedin, because of compliance issues.
+LinkedIN policies are very strict. We used to scrape if some client asks but now we don’t do. Anybody
+who is scraping Linked will face legal issues for LinkedIN.
+I bypass Captcha, did proxies, responsible to get rid of this.
+There are some websites that are very difficult, they implement antidote protections. Walmart is very
+difficult. Amazon is also becoming difficult. Not allowing after a certain page. Apply different filters.
+Different kind of ways to get more data.
+I was working on a project that has 2000-3000 bots in one project. 5000+ Scrapy spiders. I have
+written 100 times amazon spiders with different inpu, with different kind of data.
+SALARY — $70-75k euros. I want to get more. It would need to be around. In Zyte we have job
+security. Other bonuses.

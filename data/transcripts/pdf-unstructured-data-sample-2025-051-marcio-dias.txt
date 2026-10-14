@@ -1,0 +1,17 @@
+MARCIO DIAS — NUBANK
+TechStack: NodeJS,
+NuBank — My main focus was to get all the Nubank client information, make an ETL, recommend
+Nubanks products, chat and insights, I saw that you had 3 signatures and the user can share, it is an
+LLM, how much you have inn your bank account, what is the best investment for me.
+We built it with LangChain, and now using just agents. We are just doing it now through OpenAI. Now
+I just started a project to create insights, all clients had the same the same insights, now we are using
+AI to create different insights for different clients.
+Clojure, and Python.
+Olivia AI —Basically what they did, they connect bank accounts, you give account, I get a little scrap
+there, get transactions, ETL, disagretation, recommendation, I saw last week you buy something. I
+know this product you find there is a better price. Tech: NodeJS, React, Python, start a project to
+make the scrap, Brazil doesn’t have an open finance system, back then I have to make a scrap,
+reverse engineering, all this data.
+Documentation — I dont have any technical writing experience but I have to make documentation of
+everything I do for myself. It is a kind of document.
+Salary: $28k reais / $5k >>>> for full time $10k

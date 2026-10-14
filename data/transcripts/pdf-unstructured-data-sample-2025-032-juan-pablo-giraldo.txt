@@ -1,0 +1,44 @@
+JUAN PABLO GIRALDO — FULL STACK (likes both and good at both)
+PayPal — I started working on PayPal crypto application, we started to provide the options to buy,
+sell, receive crypto. The second stage to send and receive crypto.
+Then I started working on the PYUSD project. If you want to convert bitcoin to ethereum, you have to
+pass it through PYUSD coin. You can get dollars and you can sell it to pesos for example, I worked on
+the checkout for it. PayPal has the buy button and this button has a checkout and you have options
+like credit card, PayPal funds, and you can also buy with crypto.
+Then I worked on another project, the UK Promotion, we expanded the PYUSD product to the United
+Kingdom. I have to work with laws that protects them from scamming, Crypto is a high risk product
+and we have to do very important compliance that everybody agrees to take this product. There are
+some flows that are not belonging to the US, so I had to create new forms only to the UK. The UK has
+a form that question how much you make per year to know your profile risk and based on that you can
+buy specific amount of that.
+I was working as a full stack — React, NextJS (React), NestJS (Nodejs/Express), Nuxt (VueJS)
+6Connex — I worked for around two years. First year working with Java Springwood, to TypeScript
+and View JS. Company for digital and virtual events.
+second year working as a tech leader for mobile applications. It is an event company, you can do
+virtual events there. What they wanted to make was making more hybrid. If you are in a real event
+they want to provide support for the event. Functionalities like a map to reasrch stand, checking the
+line up of speakers, scheduling meetings within the event, check info. I helped build this from scratch.
+This one is for hybrid events
+Bancolombia — I worked on the Tu360 Leasing Mobility Platform — I worked on different services on
+Java Springwood, NodeJS, Python, worked with MySQL, worked with different components in the
+frontend, with Angular. Create a platform where you can rent lease, and repair a car using financial
+solutions with Bancolombia, which supports this kind of use cases to perform enrollment.
+Lab Satoshi — I worked on three projects, crypto platform, using solidity for smart contracts.
+Springwood the framework for Java for the backend. TypeScript for the Frontend. I started the second
+project that was a wallet which we migrated to angular and flutter. NodeJS, nest js, Typescript. Third
+project was an asset tracker, you can check the graphs, the time value of the assets, whatever.
+Backend using Python, Celery, Pandas, Pytoch and tensorflow. Provide back tesiting files that can be
+used with ai that wants to make a trade or not using decision threes.
+Ambientes Inteligentes — the app for managing domestics systems, system design, I stated to make
+application with C++ with this frontend, for example if you want to split the gates in an AirPods, you
+
+
+have more gates on the international. Automatically closing and opening gates, with airports,
+shopping centers, airports, homes. With domestics you have a restroom and you want to turn off the
+lights automatically or you want to see a movie so it turns on the tv or closes the window. Intelligent
+Homes Domotics.
+NodeJS
+Salary: $9k-10k
+$8k to start intros.
+______
+JULY 10th:

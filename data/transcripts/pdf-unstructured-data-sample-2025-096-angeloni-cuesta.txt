@@ -1,0 +1,24 @@
+ANGELONI CUESTA — FULL STACK
+TechStack: JavaScript, TypeScript, React, NextJS, NodeJS, NestJS, Python, Postgres, MySQL,
+Redis, MongoDB, DinamoDB, Express, AWS, GCP, Firebase.
+BELVO — I work on the direct debit product, we charge for our customers, maybe 100-200 thousands
+payments per day, I started that product from scratch of the team. Consist in lets say youre a money
+lender, you need to charge to them, automate it to their bank account, so basically the product
+charges for customers that don’t want to pay, we have a lot of users. I only worked on this prodct and I
+am the founding engineer of this product.
+AKTIUN — Virtual Analytics Data Application — it is a company that do data analytics, build
+dashboards, and diagrams based on your data. Represent the data on diagrams. Mostly I was
+working as a full stack, there was not really a backend because we only process data from data
+bases. I created new diagrams.
+TANGOCODE — Ramp up project — Ads Manager Product for Meta, Google Adwords, Snapchat —
+you want to post many ads in many places, this platform helps you orchestrate the posts you want to
+do across platforms. Mostly Ads for Real Estate.
+When I started working there the project was already robust so I worked some features like support,
+scalability, and I added the TikTok and Snapchat Ad manager. It was an integration. Also we added
+some automatic video editing product to have better quality ads.
+
+
+SNAPEATS — a product I released in my country. It was a delivery app built on React and NodeJS
+with Express, Firebase, GCP. With 20k+ users in 5 cities. More than 500 orders per day.
+Relocation —
+Salary —

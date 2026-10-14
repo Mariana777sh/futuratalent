@@ -1,0 +1,27 @@
+Salomon Novoa —
+Seguros Bolivar — analyst, calculated the prices of the insurance products. Power Bi, creating the
+pricing calculator, different components of sinestralities.
+Cable and Wireless — Tableau sql
+Shopee — people were so smart. I was in charge of creating BI projects in 5 departments. Tax,
+product, customer experience, listings and payments. First scraper — conciliation with international
+sellers. Get info of Mercado Libre. What products they were sellers. Scraper to get info from google
+maps and intagram. I have to do a lot of proxies usage.
+Iceberg data — his boss from Shopee recruited him — built infrastructure for the company in GCP.
+Different kind of websites.
+For e-commerce— Mercado libre, homecenter and fallabella, temu.
+Lawyer — sell for different cases that they don’t have a defendant.
+Scrapped finca raíz, idealista, bayut (uae), seloger (Canada),
+Security company — all the panos from a city. If somebody stole something and you have the video,
+give exact location of that video. Difficult to get the panels, get the panels of that city.
+PH DATA — Chick Fill A — USA — identify the sentiment of different reviews. Scraping google maps
+and google reviews. Build a sentiment engine. Top 3 strengths, weaknesses.
+USDA — website of crops production per county of each month of each year. CHS inc —
+agribusiness corporation — for them I built two websites. All info was in two websites. I go above and
+beyond. Ive been
+Web scrapers — I haven’t found —
+techdstack: request, beatifulsoup, selenium, playwright. Python and JavaScript. Playwright is very
+difficult to detect.
+Career: Usa company, Latam team, I work with usa. Work environment, flexibility, more challenging
+topics, web scraping.
+Salary: $6.5k — $8k
+Part time — 8 hours per day — they pay us for these certification —

@@ -1,0 +1,32 @@
+LUDVIK PROKOPEC — WEB SCRAPING — APIFY
+TechStack:
+Finising master degree. Building scalable apps.
+APIFY — I have been working 6-7 months for them, building web scrapers, automation tools for
+everything. Every scraper. Each website. We are also building proxies for scalpers. Rotate apis,
+access the pages. I am mostly doing the Proxies work. We are building Super Proxies, from data
+center and residential. It is really fast to process the scraper through data center process. It can be
+blocked and you can access the website. Access website by residential. Other devices that can
+access the internet. Homes of the people, provide us the device to access the page. If the scraper is
+broke we can rotate the api, to connect to other proxies.
+Web scrapers from scratch — we have a javascript and python library to build web scrapers. You can
+use the library to create the scrapers. Use the tools to scrape.
+Mainly I work on the proxies but I have also built scrapers. I scraper for page rank scraper, page
+algorithm for google to get page engine optimization, SEO score. I have built instagram scrapers.
+With the library crawly, the page rank is the algorithm defined by google. The scraper doing the work,
+it goes to the website, goes to the next pages. I am building graph in the memory. Get individual
+pages of the website.
+Number — 3-4 scrapers in APify. IT is easy to do because the library. It is really easy to create
+scraper. It is really isn’t everyone can create scraper, we also created LLMs for AI.
+Scrapers use proxies to get the info of the pages.
+Every scraper use our super proxy.
+Every scraper I use a proxy, because every web can easily block the IP address. Know if it is a bot.
+You need a proxy to scrape the website.
+How many scrapers use Super Proxy — we have like 9000 scrapers so 8000 scrapers use the super
+proxy.
+3 devs use the super proxy.
+I think I can build something similar because I know everything about it.
+Proxies prevents you to be ban.
+Technical Challenges — plenty of algorithms, the page rank algorithm.
+I am building my own scrapers. Before Apify I was a full stack dev.
+You need to know how things work. You can create the scrapers. Proxies to access the pages.
+Salary — $9500

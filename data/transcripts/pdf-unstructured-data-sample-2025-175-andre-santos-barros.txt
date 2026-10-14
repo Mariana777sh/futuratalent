@@ -1,0 +1,17 @@
+ANDRE SANTOS BARROS
+TechStack: Python, PySpark, Scala, SQL, DataBricks, Snowflake, AWS EMR,AWS,
+MARLABS — Data Engineer — https://www.experian.com — Financial companies — a bank wants to
+give money to the client and does credit scoring, it is a scoring company in Brazil. They need to
+process a lot of information of each client in Brazil. I collect a lot of information about the clients, we
+buy info about the clients credit cards, what kind they use, if they use some apps, after they buy info, I
+
+
+process info of their history in Brazil and we create a model to see if we can offer them loans or not.
+Credit scoring.
+My main fuction is processing data and transform it, to give it to the client scoring team.
+TORO INVESTIMENTOS — toroinvestimentos.com.br — our function is to understanding the pattern
+of our clients investments, understand the patterns, I collect these data and create dashboards for the
+company.
+TEMBICI — I was working with Python and Django.
+SALARY — $2000 per month — $4k next.
+ENGLISH — good

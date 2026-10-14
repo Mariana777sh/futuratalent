@@ -1,0 +1,21 @@
+OMKAR SHEWALE —
+TechStack:
+SERVICENOW — building AI Agents, we are having problems with latency and I am doing inference.
+We are improving latency in the models. 50% improvement. Basically, we are doing, optimize,..
+utilizing inference servers basically.
+Cuda? I am working on that.
+vLLM — yes, not for our use case, but we are using similar tools, hosting multiple models. vLLM just
+allows LLM, it was not compatible with our models, Nvidia Triton, that supports different models. It is
+similar.
+Apart from that, some of my friends have their inference server. Our own custom built inference
+server. I am contributing to that. I haven’t used it yet, I haven’t used it.
+Infornio (not open source yet) —
+I know the model architecture of vLLMs.
+SGLang — I am not quite familiar with it, if the role is required I can learn it, I like to learn new
+technologies.
+
+
+I like startups, I live this kind of work
+Location — I would like to move, but I would stay in Chicago.
+SALARY — $140k+ — I am open to discussion. I want $150k+. Visa sponsorship, I don’t require, I
+have my visa for more than 3 years. I don’t require for 3 years.

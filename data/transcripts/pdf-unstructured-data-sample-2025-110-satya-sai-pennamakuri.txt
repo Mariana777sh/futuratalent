@@ -1,0 +1,31 @@
+SATYA SAI PENNAMAKURI —
+TechStack: Python, PyTorch, TensorRT, Triton, Onnx, AWS, Azure,
+7-8 years on AI stuff — I have been working mostly on Computer Vision models, and transformers.
+This is my first time doing inference optimization. Before I was doing more research, how to improve
+
+
+accuracy. I have experience using AWS Lambda, and ML services that clients use. Not direct
+customers, but we have other businesses that use us
+WAYVE — it is not GPU, it is the embedded GPU, not server style. Small enough to fill inside a car.
+Here the inference is not in the cloud but on the actual car itself. Nvidia has a GPU called ORIN for
+autonomous cars. Our focus is getting the latency down to as low as possible. The prediction needs to
+be very fast. We do low latency. Specifically I am leading the role on quantization. I am trying to bring
+down the latency. One practical challenge of this embedded is the bandwidth is lower, from one to
+another gpu, you have to reduce the memory usage.
+I am Tensor-RT, which is similar to it. I haven’t tried vLLM. Tensor-RT itself has the same features.
+vLLM is for LLMs. We don’t use vLLM. I think it would be quite fast because once you know one
+framework very well you can transition to the other one. The underlying context and concept is all the
+same.
+Cuda? — Cuda is one way to program kernels, there is another way called Triton. I am familiar with
+Triton and gives you similar benefits. We also use Cuda but we selectively use it. If there is something
+Triton cannot do we go to Cuda. From the practical perspective is 10x easier to implement in Triton vs
+Cuda.
+TRACTABLE — Applied Scientist - improve the accuracy of the models. Let’s say someone gets into
+an accident, the car gets damaged, based on the photos we generate an insurance claim. A computer
+vision app. My work was increase the accuracy of that, and deploy in the cloud to implement with
+different clients. We served insurance companies around the world.
+PyTorch, AWS. Lambdas. Step Function. ML Infra / Research. We had our own internal versions of
+PyTorch.
+SALARY — if it is relocated would need to be higher — if it was a remote role.
+$90-100k quite low for remote —
+Remote — $150k

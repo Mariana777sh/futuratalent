@@ -1,0 +1,14 @@
+FEDERICO JORDAN — iOS Engineer’ — 12+ years
+TechStack: iOS, Swift, SwiftUI, Objevtive C, NodeJS, Android, Kotlin, Java
+BITSO — leading crypto exchange in LatAm — I have been in many squats. User Squat — , then to
+Saving Squat. I also worked on the Core Squad, which is the developer experience for the mobile,
+which we had automation, CI/CD, implemented localize tool for helping with localization experience to
+developers. I also migrated the CI pipeline from Bitrise GitHub Actions. I am now on the onboarding
+Squat which is KYC.
+PEDIDOS YA — I worked mainly on the wallet — I built the whole wallet in Swift and Objective C, I
+also did CI/CD pipelines. Being involved in this kind of tasks. Automation stuff for developers.
+OLX — It was mainly the users experience squad — authentication, validation of the profile and all
+KYC —we started with a product called let go, working with many people from Europe, Asia, Africa.
+We had different devs around the world. My role was mainly iOS Engineering.
+I also like React Native — on freelancing projects.
+SALARY — $9k/month and I would need $10k-11k.

@@ -1,0 +1,20 @@
+MANOJKUMAR REDDY —
+TechStack:
+KUNAI AI — Consulting firm and AI company — high tech companies — we host those projects for
+our clients. AI for the banking sector.
+I am working on operations, ai and infra side. To set up LLMs for our projects, Hugging face, vLLMs,
+let our engineers use LLMs in our projects. Using different resources on AWS. Otherwise I use, point
+to our developers, maintenance and monitoring. Infra work.
+vLLM I deployed most of the LLMs in our instances, LLama3, I worked with other LLMs like Mistral,
+when I deployed there were a lot of challenges. If I am a developer. We can find the doc
+recommendation, I need to do a research, deploy on EC2, AWS family.
+NVIDIA H100 chips, I worked with all the chips available and GCP. Cuda to deploy LLMs. I worked
+with Cuda mostly for vLLMs. Define some difficulties.
+3 years. For 1.5 year I am working mostly on the Inference Optimization Engineering. I am expert on
+AWS and multi cloud environments and Azure, our team, wanted one engineer who had experience in
+Cloud, so they offered me to set up LLMs. Most of it is infrastructure and optimization. To deploy an
+LLM it takes a lot of time to answer a question. I optimize it using different methods.
+Not Open Source — my company policy is not working on Open Source
+More challenging position — I want to dedicate on ai and research —
+SALARY — $ 220k+
++________________

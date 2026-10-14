@@ -1,0 +1,33 @@
+TOMAS HERRERA — FULL STACK RUBY REACT
+
+
+TechStack: React, React Native, Flutter, Ruby on Rails, Postgres, MySQL, DynamoDB, AWS.
+ADMIOS — It is a bank — they have a product of the bank and that is a startup, it is a specific product
+for loans on people that want to have plastic surgery. People who cannot afford plastic surgeries can
+apply to a loan. Plastic surgery. React on the front and Ruby on the backend. Webapp. Senior
+software engineer. I have built everything from scratch, I built the payment gateway, a module that
+generates payments and send reports. I integrate with Stripe. — https://goalphaeon.com — mostly
+secretaries and assisntats are the ones that handle it.
+VERY — agency — they do mobile development, here I started working with React Native. Work on
+the projects, they switched to an IoT company. I worked three years on React Native. A smart fish
+tank, a hardware that controls the temperature and lights. Smart Tank —
+https://www.youtube.com/watch?v=HNakYOjWD_c
+QRVEY — Embedded Analytics for SaaS — it is a Survey app, the clients that are large corporations
+would send surveys to employees to get their statistics. Collect, Analyze and Automate. I was working
+on Collect and Analyze. Mostly NodeJS but also Ruby. Collect is how they collect the information,
+allows the clients to design the services, we used DynamoDB because every record can be
+customizable. I built the frontend and back for these customizable surveys. Building Customized
+Surveys, and also analyzing the data, then also frontend of dashboards to present info.
+BAIRESDEV —
+KOMBEA —
+SALARY — Save Up — Rewards Company — Agency, I was a junior developer, it was basically a
+mobile app. Add credit cards, show merchants, get points and get cash backs. It came from healthy
+people wanting to save money. People have so much credits cards and they. I was building everything
+gor them. as a full stack.
+https://www.google.com/url?sa=j&url=https%3A%2F%2Fapps.apple.com%2Ftr%2Fapp%2Fsave-up-b
+udget-money%2Fid1626893854&uct=1747867631&usg=z_X8IYNh8iKb5eWxKtxfWH7KwTY.&opi=76
+390225&source=meet
+SALARY — $4500 — I like to take into account benefits and those. They pay me through deal.
+I like being a good fit, when the stack is similar to what I do. I want to have freedom in decisions.
+Payments — PayPal and Stripe.
+ENGLISH: 9/10

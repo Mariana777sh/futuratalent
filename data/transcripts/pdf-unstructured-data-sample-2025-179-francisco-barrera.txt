@@ -1,0 +1,22 @@
+FRANCISCO BARRERA — FrontEnd Engineer (5+ years)
+Techstack: Angular, React, Astro, JavaScript, Typescript, NodeJS, NestJS, SQL, Postgres, MongoDB,
+Vercel, Railway, AWS.
+ADL — Bre-B system — new ecosystem to make payment APIs — I am working on this project, trying
+to provide the technology to share between the old entities in the Aval ecosystem, we are working
+with microfrontend. From the frontend perspective we have microfrontend in Angular, these
+microfrontend must be embedded into other applications apps. Imagine, one of those entities has an
+app built in React Native, we have to make our app compatible with that stack. The hard part is how
+you can make your frontend to have more than one style.
+First project was about insurance sales, that was a project where the people go into a website and
+have personal information. Buy an insurance plan.
+Rappi — I worked building the Maps product of the curriers, so clients could see the map of their
+orders. The first challenge was making the fastest road to go from A to B. Calculate the time using the
+Google Maps API. Doing this for Dashboards for Restaurants where they can see all the orders in
+progress, each of those orders have a state in real time using different delivery people, it was a hard
+thing to make it in real time. Stack: microfrontends on Angular and React.
+I also worked for payments in Rappipay — I made some backend changes in Kotlin.
+ENGLISH — 9/10
+SALARY — $5k — I could move from $6k if challenging.
+Relocation — yes to usa.
+Tourist Visa - yes
+OBSBOT webcam

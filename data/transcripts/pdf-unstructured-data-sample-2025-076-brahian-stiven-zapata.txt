@@ -1,0 +1,24 @@
+BRAHIAN STIVEN ZAPATA — FULL STACK — NUBANK
+TechStack: JAvaScript, TypeScript, React, NodeJS, Angular, MySQL, Postgres, MongoDB, Lambdas,
+DinamoDB, Kubernetes, Kafka, AWS.
+I have 7-8 years of expeerience developmg software — I work as a full stack. For that reason, I have
+experience in different tech and frameworks.
+NuBank — supporting the collateral product, this is a business unit,, I support the product in Brazil,
+the product is to increase the limit of the card. You havbe the limit inside the credit card. You need to
+increase the limit, because you need to take a loan. Right now, I support specific products, because if
+the customer has the problem you need to see if the customer.
+I wanna explain my role inside the team, I create the features and resolve the issues. I need to
+discover the flow, the new feature, the PO, brings inside the teams, I need to take this idea, I need to
+make the discover inside a milestone. I create the tasks, I identify, the exact errors, inside the
+projects.
+Right now I am working on the exact project inside about the collateral — Collateral handle the credit
+card, the idea is to increase the limit, my contribution is to create the service about… right now I take
+the bonus offer of the customer, the idea is to create the flow to guarantee the exact bonus for the
+customer.
+Kushki — I was working on the web check-out — I include the different payment gateways and
+methods inside the web checkout. I work with credit cards, do the integrations with reedman.
+Salary — $10M pesos.
+Contractor role — $4k-$5k.
+English: 7/10
+Silicon Valley culture — 6/10 — still has problem understanding the projects and products that he is
+working on.

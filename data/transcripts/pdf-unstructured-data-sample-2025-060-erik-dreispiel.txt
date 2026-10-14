@@ -1,0 +1,40 @@
+ERIK DREISPIEL — DATA ENGINEER —— TOP FOUNDING TYPE
+Medellin
+TechStack:
+5 years as a data engineer for the
+AIMPOINT — Consultant Firm — I worked on many things, client engagements, from Fast Food
+Bank, Bank, Healthcare.
+Bank - I was doing hours sore of thing where they sell hours, helping them with Snowflake,
+accounting system over into Snowflake, Azure, some authentication stuff.
+Healthcare — form the beginning scoping out the project, design and propose solutions for the board,
+and then it was successful. It was a large migration into DataBricks and DBT, it was very interesting,
+designing a framework on DBT.
+FACOTORED —
+Factored doesn’t really offer products. Calendat events, some automations on Slack, putting Hubspot
+data with DataBricks.
+Consumer Goods Company — Household company — this was also in snowflake we were dealing
+with agregation, certain roots from other platforms into snowflake. Certain regions and different rules
+for each region. Internally I worked on a few projects.
+Fortune 500 — Consumer Good, Furniture — Eventually I was moved to a new project Consumer
+Data Platform (CDP) implementation. Get clients into the system as the company was acquired, we
+keep them in the loop. That was a long project as well, I was migrating, coordinating, some analytics
+data, the biggest source of data, that project was very successful. The company decided to de-fund
+the project, and then
+Staff augmentation, for clients, one was a retailer, we were maigraiing multiple pipelines from old
+system, from Oracle, moving to Snowflake and Tableu. At some point with other members of the team
+we proposed to implement new pipelines. New platform, ensuring that the data ws good. Eventually I
+was moved to a new project Consumer Data Platform (CDP) implementation.
+INSTALEAP —
+Eventually the data person of the company left, I started working with data pipelines, delivering data to
+clients, I implemented some changes in the way that data works, optimize a few things, adjust stuff.
+Tasked with hiring at replacement for the data platform. The company started with Big Query, data
+warehouse sort of world.
+I was tasked with integrations, our official API, dealing with clients, implement features and demos,
+web hooks system, update certain things, order status and order details.
+
+
+During my college year I worked at a startup in Silicon Valley, I helped integrate Stripe and whole
+subscription model. I started in Django, Flask, came back to Colombia and started working as a
+consultant
+Salary: $25 million pesos — $ salary integral or higher,
+$6k-$7k

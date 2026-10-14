@@ -1,0 +1,22 @@
+WILL FELIX — FULL STACK ENGINEER
+TechStack: React, NodeJS, TypeScript, JavaScript,
+NuBank — Clojure — I am a full stack, but most part of my time is on backend. It is using Clojure. IN
+mobile app we use Flutter. All the companies I worked at, I was using JavaScript.
+I am currently wealth and protection. My team is responsible to present the product, all the things built
+inside NUbank and put it on the mobile app. The protection page, the page about security, insurance
+and the page of investment. Modules. We are resoposible for the header of the mobile app. The
+information of the header is made by my team.
+THOUGHTWORKS — Consulting company — Main client: Natura — I got into two projects, these two
+projects I was using JavaScript, I always worked as a Full Stack. Often have to help with Frontend.
+The natura, I was working on the mobile app. My second project was on the architecture, NodeJS, I
+was more into the communication between the services, AWS.
+CLUB DA COTACAO — This was a freelance project I participated, my time, was the mobile app as
+well, working on React Native, sometimes, build something on the services it was PHP. I was
+
+
+responsible to build the CI/CD tool, every time a dev made a feature and put it on production I used
+my cicd project.
+COMPLEXO — Educational that sells online courses for lawyers, it was my first company in the area
+as a developer, started my career in Ruby on Rails. After that I started to program in Java. We migrate
+to microservies using Spring. Then using Angular.
+Salary — $15k reais — $3k dollars

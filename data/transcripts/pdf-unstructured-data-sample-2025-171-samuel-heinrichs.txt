@@ -1,0 +1,24 @@
+SAMUEL HEINRICHS — AI AGENT ENGINEER
+Techstack: Python, TypeScript, React, LangChain, LangGraph, PedanticAI, CrewAI,
+ARIONKODER — I have worked on different projects, mostly with document processing, extracting
+info from documents. You have a PDF and you want to extract info from documents. —
+
+
+I also worked on internal chatbots that have access to different tools, you can ask about holidays, any
+documents in the company.
+I also worked for a healthcare company to map genes in the documents, for healthcare related
+documentation. (Onco-something..)
+CAPGEMINI — I worked for Bradesco, financial company, I created a BI agent, you ask questions
+and the agent generate queries and you can ask questions aboutt your data. Like what is the churn
+rate for the past month or different questions of business analytics, instead of creating a dashboard
+panel, the charts came with your questions.
+N2B Brasil — I was the first CTO — started from the beginning, and then became the Data Science
+Head, text classification for traditional machine learning. When CHatGPT launched we created a
+product to help nutritionists, have a chat for any errors and mistakes, creating nutritionist plans, if a
+person has an allergy or something we could create some alerts to show if the person is allergic
+cannot recommend these foods, help create meal plans, suggesting information of what the person
+needs. It is a full stack agent to help nutritionist. Assistant to Nutritionist to create meal plans. We
+used the OpenAI APIs directly.
+WHY HEALTHCARE — I love to help people, if you do something in healthcare that impacts others
+you help people.
+SALARY — $8.8k dollars — similar salary if gets equity. I have a commitment t

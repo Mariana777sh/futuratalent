@@ -1,0 +1,37 @@
+CRISTIAN GOMEZ — FULL STACK + ANDROID
+Techstack:
+SECTION — Flutter — a company that transforms companies with AI, help companies learn what AI
+can help them to do. We want to help employees learn what they can do with AI. We create courses.
+Web app — I entered to build the flutter app, but it is gone, because we don’t have as many engineers
+to support a mobile app right now, it wasn’t used so we stopped giving support to the app. It was a
+
+
+frontend full stack. Now Nest with Typescript and React with TypeScript. I have been using small
+projects for freelancers, pretty much a year and a half
+AI integrations — not yet, there are multiple stuff, if you look for Section there is a new product we are
+building that is called Pro AI, tool to create dedicated courses for a giving plan, right now we are
+having something like a basic prompting course, learn how to write better courses with AI. React and
+Node JS. Some calls to create how the questions get in the
+Prompt AI — I am support engineer and I work for this company and creates a custom course for you
+to learn how to create better prompts. Framework for creating prompts. That is the idea of how to
+teach and how to prompt. Let’s think about this exercise. You’re a software engineer trying to do
+something that is reporting to you. Several users to log in into the platform. AI analyze the prompt and
+gives you a course to how to get better on that.
+That is the next feature is having the ability to create new content. The platform right now only
+supports new courses. Adding more courses shouldn’t be that difficult.
+Antropic APIs.
+Langchain not yet, I don’t know how to use it, something I need to research.
+HOPPER — Android en Hopper — it was kind of s similar role, in that moment Hopper had an integral
+framework for UI from the backend. For a lot of developers who were creating APIs you need to learn
+Scala to deploy ui in the mobile app. Android native. Other screens using our proprietary framework.
+A lot of interedsint bugs with payments.
+Indigo — was my first attempt to be a full stack - opportunity for me to do full stack with Ruby on
+Rails, and also React with TypeScript. Payment reconciliation product. Internal calculator for knowing
+what to pay and when to pay for different contracts, calculator helped knowing when we receive the
+invoices and when to pay them.
+Pager — healthcare SDK — Sura app — I was leading the SDK on Android
+Salary: $12k
+$120-140 doesn’t work — he is too expensive and not that articulated.
+___
+JULY 11
+_____

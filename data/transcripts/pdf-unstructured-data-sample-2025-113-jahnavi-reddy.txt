@@ -1,0 +1,18 @@
+JAHNAVI REDDY — WEB SCRAPER
+TechStack: Golan, gocolly, chromedp,
+Freelance Project — Right now I stated working as a freelance, we are a small team, I was a
+freelance on the team and started working on this project for one month. Python and Playwright. I am
+doing testing. I use ReactJS for the testing. Motorcycle parts data — the client project. They need
+some particular data.
+FISSION INC — I started working as an intern, I started working initially building an app. JavaScript
+app. Then I was offered as a full time employee and started working on web scraper.
+CRMs and automation tools, they need the data, we started working on that. If I had to speak about
+the tech stack I used Golang. 3-4 months. We did background research on a website, we made a
+whole document, navigation, what website, what links, things like that, best part. We are pretty much
+on what we call the speed. Maybe the GOlang was very good. We started doing it with Golang.
+gocollygocolly, chromedp. The targeted websites have so many bot protections. Back in that time we
+used Selenium but didnt work so we used the Golang tools. I was working on projects targeting real
+estate data, like Trulia, Zillow, .
+Visa to work — OPD —-3 years of visa
+SALARY — $85k
+Located: Alabama + open to relocation. How fast? ASAP!

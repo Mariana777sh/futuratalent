@@ -1,0 +1,21 @@
+ALI HASHMI — INFERENCE ENGINEER
+vLLM —
+Cuda — not, previously I did a lot of Cuda programming. MultiGPU and distributed training. It is not
+my day to day work.
+BIFOLD — Third party projects, using the engineers, and also the applied scientist. AI Projects for
+other institutions, it can be ranging from different sectors.
+
+
+Charite Hospital — https://www.charite.de — One of the projects that I was involeved was to use
+multimodal foundational model, pathology and imaging. And also doctoral report. App that combines
+doctoral reports, multimodal, app that is deployed on the hospital. When a patient comes they can
+take a photo and assign it on the data base. They want to have a score and regular checkup. I
+developed the whole pipeline, serving the LLMs for the doctors. Because of the kind of device they
+have is very limited on the CPU and GPU model, even loading in a big server takes time. A lot of
+efficiency.
+Zalando — https://en.zalando.de/?_rfl=de — There was another project involved in agents, and we
+needed to have small language models, and for that reason we use special tools. Also related to
+e-commerce, they wanted to have a chatbot. The kind of company that has this app, order clothes, if
+something happens they want to connect with an agent. Small language models. Use inference.
+SALARY — $150k-200k
+Also interested in $100k

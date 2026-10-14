@@ -1,0 +1,24 @@
+WINSTON STEVEN RUIZ — FRONTEND / FULL STACK / 7-10 years of experience.
+TechStack: React, NextJS, NodeJS, MySQL, Postgres, MongoDB, DynamoDB, AWS
+SIMETRIK — I have worked on React and NodeJS, migrating a large monolith to microfrontends
+applications. In the end we implemented and achieved the reduction of loading times, made
+deployments more efficient and less dependents, easier to work on parallel.
+Building the frontend of the ChatBot for all the context related to Symetics, so the people can type and
+get different questions and answers from the financial data and customers tool inside the Symetic
+team. Also some clients use the tool. Simetrik is a SaaS app, so the people make reconciliation and
+we have two data bases, side A and side B and we compare on both sides, and output the data that is
+missing. With the Chat the people can know what is a reconciliation for example, the chat explains in
+detail all the things related to that, the logic of the reconciliation and any questions for these.
+MUNI — ecommerce marketplace for vegetables, sell different products, women can have their
+stores and sell within the community. I was working on the main web marketplace where clients can
+buy all the things in the ecommerce platform. I worked a lot on the checkout experience.
+HABI — I built a platform related to the brokers, the brokers could see all the apartments available, all
+the buildings, the houses, all the available for sale. The idea is that the broker help with this, show the
+apartments. All the different clients, make a book or reservation with these apartments. A platform for
+only the brokers for their workflow.
+RAPPI — I worked on the main application web for delivery. When people make the orders, I was
+working on log in, the orders, checkout and delivery.
+ENGLISH — good enough
+SALARY — $4500 >>>
+Relocation? Remote
+I would love to relocate to the USA.

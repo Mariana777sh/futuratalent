@@ -1,0 +1,14 @@
+RYAN SEONGIN SHIN — AI ENGINEER — NAVER KOREA
+I want to move to the USA. But now I am more open to remote.
+TechStack:
+Since becoming a leader, I have been wanting to develop more.
+Inference Role — I know vLLM but this is not my speciality.
+My speciality is for pre-training. Build an LLM like ChatGPT. Build like a ChatGPT from Scratch. That
+experience is kind of unique. That is difference. Training optimization. Also build the data from
+scratch, make the Chatgpt from Scratch.
+Most similar role is Research Scientist, Python, PyTorch, Cuda, Distributed Learning, Distributed
+System Optimization. Natural Language Processing. Spark,
+I am open to any skill set that I have.
+SALARY:
+$100k // 140 milion won
+He will send CV, info from huggingg face and research paper

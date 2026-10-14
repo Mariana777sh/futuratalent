@@ -1,0 +1,25 @@
+DEISY VIVIANA AMEZQUITA — iOS — 5 years of experience
+TechStack: iOS, Swift, , SwiftUI, UiKit, CocoaPods,
+YUNO — it is an SDK for payment orchestration, we are not an app, we are an SDK, pretty much
+what I do, they already had a product, when I entered here it was 6-7 months old. When I came here I
+started here I started the CI/CD, they were running some tests, and nothing were working. The whole
+thing was publishing more versions and they were doing it manual. I grew up it automate tests, I have
+been trying to grow and I enjoy to build things for developers and for our teams. I am the only one in
+charge of the CI/CD, other features that I worked with is integrating payment methods, some UI, logic
+of different payment methods.
+Here I have better feedback from my tech leads, I have grown more, the thing that I really like it is that
+I have an amazing senior here, I have improved my clean code, improved the way that I was coding,
+concurrency, I have here seniors that really guide me.
+I have something missing in my experience is that is working in a big app, an app that is really
+modular, with so many people touching the code, Yuno is a great and big project as a product, but not
+necessarily a big app like Rappi.
+MUNI — I was the Founding iOS Engineer, the company started with an Android app and one year
+later they did an iOS app, I was the only iOS for a year. It was my first job, I started the app from
+scratch, I had the lead of the senior mobile that was guiding me with the architecture, the rest of the
+code was mine. It scaled, Muni was a project that was more targeted for people with low income,
+100-200 people using the app in Mexico, Brazil, Colombia. I was in charge of maintaining the app, all
+the CI,CD. The app was an e-commerce app, more targeted for the people who sell the products, they
+give their customers a buchure, and through the app they post the order for groceries. They can see
+how much they have sold in a month.
+SALARY: $15 million pesos >> how they pay, if they pay though deal, I think I would like to get
+$5k-$6k. I am a Colombian employee.

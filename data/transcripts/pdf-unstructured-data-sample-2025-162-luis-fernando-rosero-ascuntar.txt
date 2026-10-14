@@ -1,0 +1,20 @@
+LUIS FERNANDO ROSERO ASCUNTAR — PYTHON ENGINEER / Software Architect.
+TechStack: Python, Flask, RestAPIs, Machine Learning Service, Textract, S3, Lambdas, CouldWath,
+AWS,
+Textract — extract text from PDFs from photography, scanning documents. Nowdays company need
+to do data analysis with these texts, there are a lot of bank account files that need to be analyzed. For
+that I use Python.
+I have used Python with Falsk to research databases and connect between backend and frontend.
+CAPGEMINI — A company in Mexico working with a lot of files, in the insurance industry, a company
+from insurance, this insurance the people needs to have the credentials, the ID, database, for that we
+take that picture that the user send us and we need to extract the text in these files. We extract to
+analyze these data from people that apply to any type of insurance.
+INTEGRA IT — Odoo framework, a framework based in Python, most of the code in this Odoo
+program is made in Python. So in this company I had to develop some features for one app that
+
+
+already existed in the company, to improve the app. The app is a frontend and backend app, and
+sometimes the client neeeds to improve the frontend. User could do the ID number.
+NOT A FIT — VERY CORPORATE.
+ENGLISH — $10 million pesos per month. I am looking for 14 million. I would like to continue working
+on software architect. The path of my career would be on software raising.

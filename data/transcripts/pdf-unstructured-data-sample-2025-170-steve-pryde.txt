@@ -1,0 +1,21 @@
+STEVE PRYDE — WEB AUTOMATION RUST
+Web Automation — I built
+Test Automation — Test automation Selenium
+I wrote a python framework with Selenium. Including test. I wrote the leading Selenium ThirtyFour —
+I am the creator of ThirtyFour — I am still an owner of the project.
+Fantoccini — I was using Fantoccini to get it up to speed. Made me the second largest contributor.
+Request — I use it all the time.
+I know the capabilities and limitations
+If the company need extra feats in these libraries, I can do whatever I want thirty four
+OCR Labs — I work full time in Rust — I build distributed application, everything is on Lambda, AWS
+services, I am one of the leads. We do fraud prevention, document scanning, the official thing is ID
+verification. I work with web application. I mostly do Cloud application.
+Sine — virtual check in — online checkin, instead of writing your name, you get batch, you get
+everything in. Digital. Just tell the business. App and things like that. I was there four and a half years.
+I did test automation. I was working on Python and learned Rust when I was there. I started using
+Rust. The Selenium.
+Beautiful Soup once. I havent used Puppeteer but It is very similar to how Selenium works.
+SALARY — $150k - $180k >>>
+US timezone
+_______
+____________ new week september

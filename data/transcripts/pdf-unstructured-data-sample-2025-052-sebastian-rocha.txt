@@ -1,0 +1,29 @@
+SEBASTIAN ROCHA — PYTHON ENGINEER
+Techstack: Python, Django, FastAPI, FastAPI, Pydantic, BrowserBase, Docker, ECS (similar to
+Kubernetes), AWS.
+TELESIGN —Full Stack Engineer — Now I am working as a full stack with mostly in backend tasks,
+like consumer facing reports, how we build authentication mechanism for this company, I am building
+a solution to standardize how the companies around the world. The way in which google handles
+session between different apps. This is what I am building. It is a Single Sign In Platform. Like Outh0
+for example. It is from Proximus Global companies sign in. Mainly FastAPI for microservices. That
+requires to know some other different libraries like Pedantic,
+HABI — Python in a serverless framework, AWS. We basically built and deployed all of our APIs and
+small specific components, and my main role was to build. There was an internal company inside
+Habi that does services for loans and mortgages for our customers, we did a product that simulate
+loans, external banks to be able to do a mortgage. That was the main part, I was a software architect
+and my role was to standardize the way in which in the team do the software, what are the common
+practices they need to do to build software, if you need to build a service, sore of a bot in WhatsApp.
+Build specific information for the teams that were building these software, more of a software
+architect, also diagrams, build the way in which we are gonna develop software.
+MO technologies — Backend + a bit of react front-end. Some Java. — I build a financial Credit Core.
+It was a huge app that provides some way a foundational system to provide loans, buy now pay later
+and credit cards. You can basically go to the company and provide some loans to the customers.
+Every time that wants to provide these services. I was in charge of mainly build some kind of
+amortization for loans, I built an entire system of loan amortization in Python. React — for some
+specific parts of the projects we did a loan simulator, we did a landing page, how many installments
+they would have and how the amortization would work.
+Started my career programming sensors, then I started doing web development projects. Also have
+some experiences with JavaScript.
+I am pretty good at Django,
+Salary — $3000 >>>>> $4k - $6k
+20h hours / week for documentation would be ok but not full time job.

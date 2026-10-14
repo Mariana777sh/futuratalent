@@ -1,0 +1,27 @@
+NICOLAS VALDERRAMA — WEB SCRAPING
+Truora — here I work more in backend, scraping was not my main job. There are other teams that
+work with data scraping from government data bases, and to them we address issues regarding to
+security. We use proxies to by pass security. I haven’t built the scrapers, that is a responsibility of
+another team, my team is gonna be part of that team, developing new bots.
+I saw the code, and when something is broken I try to fix. In the team that I work I need to integrate to
+those data sources.
+Team — I am in charge of all digital identity validation, biometric, document validation, face analysis,
+email, phone. I am building all the infra for validations. The master we must develop for is document
+validation, because we validate documents to 10-15 countries, each country has different documents.
+ID cards. It is uses for id validation, you do it from your phone, you take a selfie, we validate that is a
+trust worthy document.
+We host the whole infra, I am in charge of e=thewhole development lifecycle, if I propose a new
+feature I have to develop the architecture, I am in charge of how it will scale. How we will support the
+services.
+
+
+Techstack: Go, golang, AWS, Terraform, ViewJS. Python? Analysis models that are wtirrenin Python.
+National University of Colombia — Project from data science professor where we collected all the
+papers from professors from the university from websites through scrapers, to check the research
+capacity of the university. — https://horus.unal.edu.co — we needed to do bots from each source of
+information. We had a specialize data collection from each page. There weren’t too many, Id say 3 or
+4, it was more like a constant development and support. I developed 2 or 3 more. Techstack:
+Selenium, Python.
+Salary: $7 million pesos - I would like to receive 10million to 12 million pesos. I would enjoy a lot doing
+scraping. I would enjoy a lot, I learn very fast, but I think I would perform better on a backend job. My
+current job is on backend. It is kind of obvious.

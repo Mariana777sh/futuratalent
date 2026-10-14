@@ -1,0 +1,20 @@
+GUILHERME CINTRA — SOFTWARE ENGINEER
+TechStack: Java, NodeJS, Clojure, Scala, Flutter, Kafka. AWS. React. GCP a bit.
+Backend infrastructure and architecture, some frontend, it is not something I dedicated a lot to, it was
+more a survival skill. React, Swift, majority of my work on backend with Java, NodeJS. GCP a bit.
+It is a platform team for everything.
+NuBank —
+I am in the foundation team, so I provide abstraction, the bank uses Kafka expensively, there is a lot
+of abstraction, send a message that will only be delivered in the future using Kafka
+
+
+The first time I was resposanible for the debit card product, I was maintaining the backend, 60-70% of
+the work was regulatory obligations, not much product but maintenance.
+ZARV — I spent two years building a startup from the ground app, I built all their infrastructure,
+background checks, monitoring and projects for security of assets like cars and trucks. At some point
+it was an insurance but not really an insurance product. Insurance companies are a kind of client.
+Website, you have some cards to keep safe, safe fleet, see a bunch of data about your fleet, you can
+manage. Security is because if it is stolen we will know and we will inform the police. Backend — how
+to make it work without costing a fortune, optimization everywhere, we built it using Lambdas,
+Next — backend — NodeJS, and Java.
+Salary — $10k / monthly >>> around that to begin a conversation.

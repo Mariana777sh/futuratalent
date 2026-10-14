@@ -1,0 +1,17 @@
+PETR PATEK
+Techstack: Playwright, Puppeteer, crawlee, cheerio, got-scraping.
+We have our own tools
+I am more focus on specific scrapers, captcha, making the scraper human like.
+We run our containers, we have some AWS, I didn’t built the platform but touched every thing of the
+business. I took part on developing the tools. Web Scraping Platform, for like half a year at the
+beginning.
+I was supporting the browser tools of the Crawlee and Got-Scraping tool. Most of my work was on the
+fingerprint tools, makes the browser more human, and make it not automated but more natural.
+Scrapers experience — every industry from e-commerce, automotive, non-profit projects. I touched
+and built from scratch 100+. 10-15 / month. More than 200 hundred.
+NDA — but.. e-commerce, Chinese e-commerce was difficult, was the toughest one. Shopee, Temu,
+Alibaba.
+Food delivery apps, like mobile apps scraping, which is harder, quite sophisticated protections.
+Websitres that are protected with datadome and akamai tool were the most difficult to scrape but I did
+it.
+Salary: he hasnt said

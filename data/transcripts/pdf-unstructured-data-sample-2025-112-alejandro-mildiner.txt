@@ -1,0 +1,24 @@
+ALEJANDRO MILDINER — BACKEND ENGINEER —
+TechStack: Backend, Java, Python, FastAPI, SQLModel, Flask, Pandas, Scikit-learn, Postgres, AWS
+rbs, MySQL, MariaDB, AWS, GCP.
+Past — Data Engineer.
+RENVANCE — real estate investment — we tokenize real estate assets and sell them in little shares
+— it is like buying bitcoins, it is having apartments like company shares. Platform — I built the
+
+
+platform and migrated it to AWS. All the services are in Python and NodeJS with TypeScript. I built the
+smart contracts as well. Lambda functions. Api Gateway of AWS.
+Sign up for users, authentications, deposits, marketplace, tokens, integrations with banks.
+FRUBANA — I was in two teams, I was on the finance team, invoices team, for Mexico, Colombia and
+Brazil. Then I was in the AI team, where we build a recommendation engine to know which products
+to buy from which suppliers, how long do they take to provide us, what products we need to buy
+together. I was building the pipelines for the apps, the backend. Python, Pandas, Scikit-learn.
+JP Morgan Chase — I was a couple of years, started in the exotics trading — it was a financial
+product that include buyer options. Options for buying bonds and shares. I was on the trading of
+products. I built the trading engine, we received the request of buying and selling, we matched for
+processing the transactions. We built the intermediary service for trade and connected with
+bookkeepers.
+Second was for FX — currency trade platform — giving users of JP Morgen to have parental control
+for their own users, for example provide controls to traders fro Banks to what they can do with the
+bank money.
+SALARY — $5-5.5k

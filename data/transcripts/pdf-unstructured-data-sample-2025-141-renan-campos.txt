@@ -1,0 +1,20 @@
+RENAN CAMPOS — SOFTWARE ENGINEER — FULL STACK / Frontend and backend strong.
+TechStack: React, React Native, Node, Clojure, Postgres, MongoDB, MySQL, Oracle, DynamoDB,
+AWS, GCP.
+STONE — instant payment technologies PIX, I was enabling our customers to be able to use PIX.
+Connecting the APIs from the central bank into the product. I helped build the mobile part — Multicard
+experience.
+
+
+ARTOH — Receive payments fast from business in Africa — banking as a service, the initial idea
+changed after I left the company. Provide e/coomerces to have more control of their cashflow, how
+much, taking the money, anticipate,
+NUBANK — Nubank investment app — implementing the whole investment platform end to end. It
+affected the whole company. I specially built and integrated the KYC product into our investment app.
+Sign the contracts, ingest more information, a company that can sell and manage the shared in Index
+Funds, and Nubank deployed this into the Nu Investments. But we also implemented. Money
+laundering stuff, all the questions to being able to do the investment. My task was understanding that,
+implementing in a good timeline.
+ENGLISH — little bit difficult to understand because of Brazilian strong accent… 7/10.
+SALARY — $40 dollars / hour — 6k per month
+Relocation — open to relocation

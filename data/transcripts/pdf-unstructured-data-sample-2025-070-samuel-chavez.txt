@@ -1,0 +1,14 @@
+SAMUEL CHAVEZ — Canada Ontario
+TechStack: React, React Native, Python, Django, Flask, Go,
+Machine Learning — I was a professor of Machine Learning, from Math and Statistics I know it.
+
+
+Meta — Technical Writing — Request for Comment, Design documents, Decision Making registering,
+I was making technical documentation at the senior and staff level in Meta, SignalGateWay product.
+Yalo — My role as manager, I was in charge of 12 engineers, UX/UI, when I was working with teams I
+made a draft of high level architecture, we built the final document for design documents and
+architecture docs. My role was on the first draft.
+Staircase — API for mortgage — here I was working 8 months on the documentation team, I built the
+website of documentation. Every time that a person on the team, more than 100 engineers. Every
+time that a pod made a pull request I build the documentation, when the pull request arrived to me I
+updated the productions documentation.

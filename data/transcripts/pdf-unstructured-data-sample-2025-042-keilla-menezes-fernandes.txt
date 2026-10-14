@@ -1,0 +1,48 @@
+KEILLA MENEZES FERNANDES — Software Engineer Nubank — Full Stack
+TechStack:
+NUBANK —
+
+
+Before Nubank
+Full stack developer, refugee product, a car insurance. They have a big app, with other products apart
+from savings and credit cards. For example you can buy insurance and tickets inside the app. We had
+this idea of selling insurance from NUbank. I had to support. I joined Nubank as an IC, having
+ambiguous problems, support the other developers, architecture.
+It was successful because Nubank has a lot of problems that they have inside libraries, we don’t write
+any Flutter, you write backend code, libraries that we built together for Flutter. Just go to the backend,
+deploy and you have new improvements and features in the same moment, I built the product, having
+the backend. Inside insurance.. It was great because we achieved our OKRs.
+Payment orchestration platform. I want t charge my customer charging from the credit card, these
+connections were becoming bigger, so the payments and transfer platform was born 3 years ago.
+After the onboarding, basically what it does is orchestrate money. The problems, we take care of
+authorizing, where is the money coming from, savings account, just integrations.
+How can I build a platform, big improvement, to evolve, integrate new use cases, products that were
+launched before, currently I am supporting the lending platform, where a customer asks for a loan, the
+deposit goes to savings account. If you want to connect, an engineer needs to understand the
+integration, configuration, how the protocol works.
+Techstack: Clojure (backend), Clojure frontend, JavaScript, React,
+Docker or Kubernetes, I cannot configure this.
+NodeJS, not much python doesn’t have experience
+DELL — Frontend, it was a global product, design system portal. For other products in Dell, I wasn’t
+working on library but all the content that was managed, not only starting websites their idea is
+personalize the site about components. It was because my experience aa a product. A design system.
+I don’t know if they became public. I was since the beginning.
+Dell needed a design system and they built a portal, they long term perspective. The customer, I have
+it, this platform would be managed by content writers, how they work, as a user, as a customer of the
+website, interact with the app. I wanted to get insights of the componts, I understand that since the
+beginning is not only the frontend, I could manage the different components for building frontend. I
+could manage a lot of things in the backend. Go to a full stack position. Full stack is not doing just
+surface but going deeper, when Nubank appear as 100 million customers, scalable apis
+THROUGHWORKS — Natura - working on frontend, mobile application for the user, one of the
+projects that I built for Natura, they were acquiring many companies and they wanted to have
+components, web components.
+Daitan Group — here I started developing leadership skills. Before this I was kind of full stack more
+focused on frontend. Here was the first time that I started to specialize more of 70% of my time in
+frontend 30% backend. Scalable frontend apps
+Natura
+Code vs. leading:
+Feedback — she goes too much to the details but doesn’t really explain th problem and business goal
+initially and the go to the detail.
+English: 6-7/10… she is very smart but it is difficult to understand her articulation.
+Salary: Contractor $10k / month.
+I have a good salary in Nubank and stock options.

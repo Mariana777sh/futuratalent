@@ -1,0 +1,26 @@
+ISIDORA SOFIA VIZCAYA
+TechStack:
+UBER — Backend Engineer — Solang + Java — Depending on the Product where I am working.
+Checkout experience — Uber Eats, since the user create a shopping cart until confirms the order. It is
+a critical part of the Uber Eats platform. Now I am in a new team, The Growth Team — user from Uber
+Rides to Uber Eats. Convert the people from Uber Rides to Uber Eats to make orders, here I am
+working on Java. For example my last project, was as a Growth Team, target of users that havent
+make an oder, we build features in the Home Screen, where a new component appears with
+promotions of different shops, so from the Home Screen of Rides they can see the promotion of Uber
+Eats to make the first order. I habilitated this carousel in 29 countries. In USA, Canada, etc,
+FINTUAL — 5th Engineer —from 5 to 150 engineers — I was working as a Full Stack — Ruby on
+Rails and ViewJS / React — I was two years as a Full Stack, I built a fund profit comparison, we
+check th e invetment in other entities, and we show them analytics of ROI in different funds. Now it
+allows to users in a click make an request to move funds —
+I was the Manager of Operations —
+Accounting System for the Managing of Investment Fund —
+Banking Core and Debit Card — the development of the baking core — I helped build banking core.
+Here I worked with a different tech stack, we started in a service apart from Fintual. Some of it in Ruby
+and some of it in Go. I had to do the configuration of AWS for deploying our service. Initially Fintual
+when it was small the Cloud was on Heroku and then Fintual moved to AWS. And in this project I
+made the deployment of AWS for the Core Banking to integrate ourselves with the Central Bank.
+U Catolica de Chile - Teacher at U Catolica
+SALARY — 100 millones de pesos anuales brutos — $100k with stocks and benefits.
+Relocations — I need eventually to move, my husband will move to the USA. Main universities are in
+SF.
+I use AI / Cursor // always trying new tools, Claude code, and so on

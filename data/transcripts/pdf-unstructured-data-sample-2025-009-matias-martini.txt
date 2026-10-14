@@ -1,0 +1,183 @@
+MATIAS MARTINI — FINTUAL
+Full stack — in the beggining I was in fintual Mexico. I was largening my scope in the company. Best
+practices. I like to validate my criteria. I started working on front and web and product.
+Head of Tech in Mexico — take decisions on infrastructure. Taking decisions when it comes to which
+services we have to deploy and develop. If we need to deploy something. Make the call on how to use
+each technologies, which data base to use, technical documents.
+The initial step is almost always, me doing documentation, understanding what they need. Then for
+the product side, we have a head of product and head of operations.
+When we have big projects I am involved on the design step. Whiteboarding sessions, to have a
+technology plan and technical documentation. Some people from the operation team come with these
+solution, describe a problem and how we solve it. Come with a diagram. The process. Discuss every
+detail.
+
+
+Event storming session — we try to follow, as it is event driven architecture, a lot of distributed
+transactions, in this particular way it makes sense to make an event architecture, as every event has
+an output. Async communication. We receive a message, if you don’t have an event driven
+architecture, you will be less efficient.
+Domain driven design vs domain oriented arquitecture — separate your business logic in domains
+and make the implementation of that model. A way in which you model your business through the
+code.
+Event driven is when the business is async — because the nature of our business is async as we
+have a lot of processing time. You may want to have asynchronous communication. We are doing that
+task and we will let you know when the task is finished. A solution for a real problem, your domain, is
+compatible with this strategy.
+When the user wants to generate a stage of an account or a report, I don’t want the user to keep
+working when the process is finished, I will say that I will let you know when the process is done. If it is
+something that is back office.
+When I have to request transactions to the bank API, in that moment the transactions can take up to
+15 minutes, if the user wants to move money we will need a confirmation that the money is moved, in
+that case we will process the order, and we will let the user through an email or notification. When
+something takes time and you don’t want the user to wait or experience delay we use event driven.
+Delivery use case — for example in Rappi, I want to have an order, we are processing your order and
+we will let you know when is ready. I have the delivery in my power, there is a service that takes the
+order and update it and let the user know.
+Payments and rewards case — I would use an asynchronous approach, if they recycle, if the service
+sends a message to the distributor, wait for the answer to the message and update the database.
+Send a push notification to the user. It depends on the scale of the application.
+Being a Bridge Between Product Ops and Tech
+First I like to understand how things are done, or what is the thing they want to improve and why. We
+have many meetings and product reviews, on things they want to improve.
+Sometimes they want something right now, I am more of the idea that we need to have a good
+foundation, I understand the North Star of the company. Sometimes we need to do stuff, even if in
+tech doesn’t make sense. 60% of the request, we don’t want to do, to changing the backend, the
+foundation and models needs to be right, it should always should make sense, if a model is
+complicated to understand.
+For example, I want to model an asset, part of your portfolio, if you have an idea of how to model this,
+data base, put a column for the name for an etf, show on the other column what is it, at first glance
+having empty cells will be confusing, what happen when we have to process this data. If is a mutual
+fund we do this, but if you are stressing a lot the data base, it would be easier if you have a separate
+table for each. That kind if stuff allows you to scale faster if you don’t do it. It takes a lot of experience,
+to see that. Why product wanted everything together, it is bacause sometimes is faster to ship
+something that is not well done. But sometimes we need to think what is gonna happen next.
+Day to Day / week to week
+Monday — meetings to have the rest of the week to have as clean as possible — product review:
+here all the product managers and owners present the features and problems, why they want to do
+something, how, after they talked with users. We discuss some thoughts that we can have and I ask
+for details. Ex. We want to use AI to understand why the portfolio went down, we do a Figma to show
+how it would look like, if it is approved by the head of product. Here we focus more on bigger features.
+Then I have meetings with the CTO.
+Monday Strategy meetings, we discuss some projects that are way bigger and more strategical. Like
+being a bank, or opening a new feature. I talk with the CEO. Understand what are the plans for
+Mexico.
+Tech Team Meeting — for my, I need a designer, product owner and developer. Discovery phase —
+Then Prepare the Teams. We have the onboarding, advisory and distribution teams, a new feature
+needs to be taken by one of these teams, who will take one of these features.
+
+
+Doing a technical document and a product document. They have to do it.
+My job is helping the dev who is working on it to create that document, check the data model, new
+processes, I need to understand how the feature is gonna be done.
+I also help them when they need help. In Fintual everyone is very vulnerable. I am trying to help
+everyone. Also ask what we don’t know. My devs come to me openly. I try to help the ones who need
+help.
+I have projects for myself as well. I meet with the CTO and we work on new things related to
+architecture and tech planning, prepare repository for spinning up the entire stack locally, we want to
+create our dedicated service for dynamic links, I work in these kind of stuff. On Monday I have a
+meeting with the CTO and then on the C level council, decide who takes something and how we
+resolve it. Structural work and projects, as we don’t have any platform team we do it ourselves. We
+have some backends that take care of the infrastructure and I work with them, I have to create new
+services, spin up on production, I do DevOps.
+Most of our engineers are full stack, we split teams on domains. We have onboarding, compliance,
+advisory, investing. We have the distributing team, we deal with all the accountability and
+transactions. Then we have the stock team to let the users buy stocks and etls. Some devs are so
+good in backend and frontend, but most of them do everything.
+AI Projects — we have a chatbot that is a copilot — Fintual CoPilot — that chat is link with the
+backend service, do performance analysis of your portfolio, and analysis of your stock. I am not
+actively developing it but I worked on some features.
+Techstack: VueJS, React, React Native, Golang, Python, Ruby on Rails, async, GraphQL,
+Kubernetes, Lambda functions, SQS, Terraform, GitHub actions, AWS.
+I am decent on React Native
+Estudios Eléctricos — research and dev engineer, I worked on the engineering team to build some
+internal solution. C, C++, I built digital simulation engine. Web applications, simulate entire power
+system networks, I worked for Central American energy regulator, to check the limits of the power
+transfer between countries. Taking info from power stations, we work with physics and calculation to
+see if the level was over the limit or not.
+We were two developers and the founder. The job was challenging, it was very hard, you have to
+understand a lot of things, read science papers, create something that nobody else had created.
+I don’t want something that takes me away from coding. I really wanted to code.
+Salary: $120k
+Travel ok
+European passport
+_____
+Jose story. +584244053101
+TechStack: Golang, Java, Python, Django, NodeJS, PHP, Scala, JavaScript, Typescript, SQL,
+Postgres, DimanoDB, Redix, Kaska, SNS, Kubernetes, Docker, Jenkins, AWS.
+React Native — I am running a project parallel to story, we have a low-cost supermarket. They looked
+for me because they want to create an app for delivery, 15 stores. The invoices are around 12 million
+dollars every month, the monthly sales. I am building the app with a small team and it is in React
+Native, I am doing this on the weekends. The backend is in Django. They had some technical issues.
+I came to the project to accelerate it.
+Stori — en Mexico tienen 4 millones de usuarios, un ano después de que yo entro se salen de
+colombia para darle foco a que Mexico sea rentable.
+I worked with home and login. Now I am the loan management team, personal loans. My goal is
+scaling the product, have availability, having an architecture. Rebuilding the airplane during the flight.
+Golang, on Lambdas,
+Miniprogram — React Native, Flutter multiplatform.
+
+
+WeChat mindset — it is based on web, html, javascript, do the call, the api call to the backend.
+Multiplatform. It can work on iOS and android, just like React Native or anything.
+We are migrating to a new framework based on mini program.
+I am using Windsurf and Cursor
+Rappi —
+Payments — I was in charge of building the payments system, even credit card, payments in general.
+PSE, Google Pay, Apple Pay. User Payments Platform. Boss was Pablo Abab.
+Curries Payments, how Rappi paid Rappitenderos, how we disperse Rappitenderos, and also how
+Rappitenderos pay the cash. Though effecty. 26 for Chile. Mexico we have ultra mobile.
+How we pay to the partners — restaurants, supermarkets. How we pay them. The conciliation, it was
+the hardest part.
+Techstack: Golang, on Kotlin (Android) and Swift (iOS) to the customer. Having all
+Architecture — what principles did I use? When I build software as an architect, one of my principles,
+one single point of responsibility. Separate responsibilities by domain. Domain can be a user,
+conciliation, something specific.it became a leverage of growth, if we wanted growth, we let the power
+user, a user that spend more than 2 million pesos lets say. We needed having over 2 million dollars in
+debt.
+I had 26 microservices, one micro service that was in charge of the debt.
+If the user is a power user, if the card is rejected of a small order, just give him the order, and for the
+next order create the restrictions. In some moment, we did that.
+SOLID architecture — it is easy to design and easy to maintain. We can combine with event driven
+architecture. A microservice has a single responsibility to manage debt, conciliation, connect to a
+payment provider. Once the user pays the debt to follow the example, I can create an event and I say
+the user just paid their debt, whatever or whoever is interested in that info will get it, for example the
+conciliation team. I produce the event or support team is interested in this kind of info because they
+manage the client.
+Pablo — vision of payments, how the payment was created. The provider is compaining, let’s create
+some layer, principles, communication between areas.
+How to manage a crisis — how to manage a customer who is upset — in 2019 in the mother’s day,
+Rappi crashed, we lost the day, if AWS crashes how we manage that.
+At Rappi, we have a monolith, when we came, we said this is painful, it is not gonna work, so we
+started to migrate to a micro service architecture, so we created thousands and thousands of micro
+services which wasn’t a good practice. If we develop as juniors we don’t think on performance. With
+money we mitigate bad programming. Every time that we have many traffic, we create a lot of
+services and then spend more money. We didn’t prepare for mother’s day scaling the services.
+Having a real understanding of architecture, we want to optimize for traffic?
+Home has all the traffic of the app, how do we manage that, every single time that the users goes to
+home, how do we manage, free charge, I know that usually for your location, I can show you all the
+items, I do the request in the background to give you some pre selected prooducts based on
+preferences and location. A home cannot be slow. We need to preprare the home.
+Management — Planning and execute — a document with the vision of the business and product and
+the vision of the technical side.
+Now I think of initiatives that achieve an objective. There is owners of the area and we sit together and
+we go to the initial document, we estimate that in weeks. I usually divide the projects on business and
+product, business and technical debt. This is my year.
+I do two different ceremonies, planning, retrospectives, demo to the stakeholder.
+Then we have reviews.
+1:1 with my direct reports that are technical leads
+1:1 with boss.
+BlancLabs — startup projects in Canada. — EQ Bank Canada — https://www.eqbank.ca — I built the
+proposal , I had PM skills, and then we executed, basically creating a web page where the users can
+manage their loans. Personal Mortgage Management Platform. See the statements, the interest, how
+
+
+much to pay. I built a layer to interact with the legacy system and offer a great experience to the
+customer. Techstack: Golang for some of the micro services. Mulesoft.
+Then started my own company — a software for a hospital — erp for hospital, from scratch. What
+happened to me in that moment is that the general manager of Indra called me again, the software is
+having crashing and we need you. He came with his team as a vendor. Indra was my only client. 18
+developers that I managed from Indra. I was still the engineering manager. I transformed my self as a
+java developer. I put all my energy.
+InfoSoft — Senior Java Developer — Indra and Movistar. I got a new job as a technical lead and
+project lead, very obsessed with the customer. I built the customer app. How to pay, how to receive
+payments, I really liked the transactional environment. In that way, Movistar Venezuela.

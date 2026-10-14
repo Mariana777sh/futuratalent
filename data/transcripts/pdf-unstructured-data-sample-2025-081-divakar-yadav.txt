@@ -1,0 +1,20 @@
+DIVAKAR YADAV — INFERENCE ENGINEER
+I have not officially graduated, I finished almost all possible credit for my master, I need to finish my
+thesis, my university has this requi\
+UWM — Master — Major AI LLM, my focus is you call specific. Amount of credit. Distributed system.
+Lets say you are using ChatGPT BUT THE COMPANY HAS A POLICY that some of your workers..
+why would you bring Chatgpt in house, our own cloud, to take care of data. We have to deploy LLM,
+they are currently no more than 30 users. In case it would need so many memory. Our job is to reduce
+the cost and optimize, so more users can accommodate, I am writingg custom Kernels, looking at the
+parameters and matrices. See if I can improve the inference time or not, Cuda Graph is an approach I
+am using, you can capture sequence of events and you can do it in one goal. One by one sequencely,
+and that takes 15 milliseconds, if you use CudaGragh, it would take less than 10 milliseconds, the
+challenge with this approach, it predicts the next outcome. We can accommodate that within the Cude
+graph.
+CapriGlobal Software Engineer — a bank, with insurance and real estate, Django, Python, MongoDB,
+Kafka, Kubernetes. 15 different products. LMS — Loan Management System — they wanted to build
+an LMS in-house.
+Udaan.com — my job was developing backend apps — B2B marketplace, sellers, my team was
+catalogue, listing. Different stages. Microservices architecture.
+My job is
+Salary: $160k in the Bay Area.

@@ -1,0 +1,14 @@
+KEVIN CASABUENAS — FRONTEND ENGINEER
+TechStack: JavaScript, TypeScript, React, View, NodeJS, MongoDB, MariaDB, MySQL,
+OMNIPRO — I am a frontend dev — Magento for e-commerce (PHP and Laravel), JavaScript — The
+project is basically oriented in e-commerce, for example Alpina and other clients like Sportline, it is a
+store, we manage their store. I am building the store frontend, design, etc. Built the components.
+Navigation bar, consulting track order, whatever in the frontend.
+PersonalSOFT — I was working for Bancolombia, in this case building the app for the Neighborhood
+ATMs, Angular, the app on the client side. Store owner. Angular.
+RAPPI — two projects that were internal, I was working on the cart of the future, the client was
+Banorte bank in Mexico. The app that I built was the personal banker app, for managing cards and
+clients, tracking clients, metrics, relationships. Angular, React, View. I used microfrotnend, Nestjs and
+NOdejs.
+ENGLISH — 7.5/10
+SALARY — $4k - $5k

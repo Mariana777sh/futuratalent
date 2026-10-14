@@ -1,0 +1,20 @@
+JUAN CASAS - Full Stack Engineer
+React, PostgresQL, MongoDB, AWS, GCP.
+Pinterest — Kotlin and Python on the backend. Still working on Ads.
+
+
+Lyft — full stack Kotlin and Python. On apps, very much for business. Any advertiser that wanted to
+build something in the app. Built ads product.
+Hopper — I started working on the Ads team, sell campaigns and travel plans deals, 20% in some
+flights and that kind of things. Ad formats inside the Hopper app. New section where people could see
+the deals, Implement some logic on the backend. Scala (backend), Kotlin, a little of javascript for the
+web in angular. Dashboard where we. Had to make a section to submit new campaigns for our
+advertisers as it was manual work. Campaign managers web app.
+Bitso — MVP for trading crypto app. It was the first time . Kotlin, Compost. I was the owner of the app.
+99.95% of no bugs. Crashfreerate. I worked on another MVP which was the Bits Card. From zero to
+10k users(trading).
+Rappi — Mobile Engineer Android Kotlin — I was working int the operations part, maintain and
+implement features for shoppers when they had to buy products, choose a product, non available.
+Shoppers app. Checkout for shoppers.
+Next: mobile and full stack —
+Salary: $10k

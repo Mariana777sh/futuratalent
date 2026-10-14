@@ -1,0 +1,33 @@
+SEBASTIAN RODRIGUEZ — FULL STACK
+Treble AI — Full Stack — React + Python + Lambdas microservices. Clickhouse. Langchain. We are
+trying to integrate Langchain. We have a ton of files and we need a good vector database.
+I am building a WhatsApp agent. We are using WhatsApp to talk with customers and CRMs.
+We are connecting clients with leads, we are integrating agents with specific knowledge stacks with
+each client, each agent has their own data so we automate things they couldn’t do.
+Genius Sports — This was a challenge, because they are a UK company and there — we were
+distributing the NFL in low latency for different projects. We distributed the NFL in Las Vegas,
+Canada, Mexico. It is kind of a Netflix, but we distribute to Netflix or different.
+I was in two projects, first, I was building the backend part for creating the infrastructure open the
+demand for creating the pipelines to distribute the video. The idea was to create pipelines on demand
+
+
+to send that string to a CRM, CRM see the command and it was in charge of distribution. Kotlin,
+GrapghQL, Postgres, Kubernetes, S2. HTTP logs, we collect them, per one minute. Of consumption,
+video is delivering in packages, a small change of the video. Snowflake.
+Second, a lot of people uses streaming, and specifically NFL, the consumption was huge. We had alot
+of data without transformation. Forgetting metrics, delivering metrics for our customers. Mostly
+building the designing of transformation pipelines.
+GODadddy — I was working in a contractor project — create new features for the inventory
+catalogue, the ideas was mostly adding features, my project was to improve the inventory part,
+improving efficiency, improving the code, mostly Golang, AWS Lambdas,
+When you are looking for a domain, GODaddy use that info to seeif there is availability for that
+specific address, improving the low.
+RAPPI — Restaurant app — recovering — the problem was that restaurants couldn’t manage the
+management menu properly. Updating the menu, handling different parts of the menu was difficult for
+them. I had to redesign the code, I had to use graph theory, mix of relational and non relational
+databsse, relational for the transactions and non relational for the menu. There was performance
+issue, for example, a usual menu has 200 or 300 items, something you can save or add in an order,
+so if somebody wants to change something in the order it was a mess. Etch: java with micro services,
+Postgres’s, react, some events in Kafka, Mongo, AWS. Mostly backend.
+Salary —$7k for a change ->
+Founder type!!!!!!!!!!!!!!!!!!!

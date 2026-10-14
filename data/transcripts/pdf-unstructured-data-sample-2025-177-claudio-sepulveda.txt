@@ -1,0 +1,25 @@
+CLAUDIO SEPULVEDA — RUBY ON RAILS — BACKEND STRONG
+TechStack: Ruby, Ruby on Rails, React, Angular, TypeScript, Postgres, MySQL, SQLServer, Centri,
+AWS.
+DUALBOOT — Validic — https://www.validic.com/ — they take info from wearables to maintain info
+centralized. This client centralize the info and give to different companies to offer healthcare plans and
+follow patients. My work is integrating new devices connecting to their APIs. The last thing I was
+working was improving the programmed tasks of the data base.
+SPROCKETS AI — https://sprockets.ai/ — based on their different abilities and skills they help
+restaurants and other companies to match candidates. I worked with the SMS message seervices,
+with the QR codes services, I made integrations with AI.
+I also worked in the workflow internal tool..
+RANKMI — HR company — I arrived as the 13th engineer and when I left it was more than 400
+engineers. Evaluations of performance and work culture. Results of performance. Supervising
+evaluation. I worked on almost every product during 5 years. I helped build some products from
+scratch, an API of results, to get what they wanted, graphQL, if we provide the results of performance
+
+
+of employees, we developed an Api where they could connect in any format the data from their
+employees. Performance API. We were on the Performance team.
+Payments and Payments integrations — I have a personal project and I am starting with all the
+payment logic with Stripe, we are waiting for the approval to be a consolidated enterprise in Florida.
+We are trying to build a platform for social media leads, using Meta info. You answer a survey. Send a
+notification to the sales man, what they want, what they sell and all the cycle.
+SALARY — $4500— 10%-20%
+English: Great — I worked with American clients and never got a complaint about my English.

@@ -1,0 +1,24 @@
+LUCAS CORACA — WEB
+TechDtack
+Zyte — Solutions Architect - help design solutions for the needs of the client, I work with sales person
+all the time, how we can implement the solution that the client needs. The idea is helping dev teams
+integrate existing solutions with the Zyte Api.
+All are web scraping solutions. A technical solution engineer helps the customer integrate the solution
+with Zyte Scraping API, integrate their process with Zyte solutions. The client doesnt have all the
+solutions integrated. Example, the solution architect needs to understand the requirements so we can
+design a good web scraper.
+Initially when there is a prove of concept we develop it, architect the solutions.
+
+
+My job - understand how we are actually scraping that Zyte, what needs to be developed from the
+ground up.
+I think the cool thing is that I saw a lot of different web scraping use cases, I am doing all the weird
+web scraping projects. I worked on a scraper for a non-profit doing sex slavery and sex trafficking
+finding people based on tattoos.
+Sex traffickingproject / Largest AI Companies to get training data set for them, like Images / crawlers
+for Fortune 500 commerce companies.
+Number — 1000+ web scrapers. — provide a lot of code for them.
+ORACLE — Cloud Solution Engineer — infra side, I was doing Could Migrations, when a customer
+closed the deal, they would get for free, we would be setting up all the infrastructure, design
+architecture, implement it. Kubernetes, Linux, data base migration, network configuration.
+SALARY: $5k >> $6k-$7kk — 1 year — 20h / week

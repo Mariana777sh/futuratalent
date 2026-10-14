@@ -1,0 +1,31 @@
+JINME MIRABAL —
+TechStack: React, View, Python, NodeJS, Go, AWS
+WHISKER — Pet Robots Company — we create Robots to feed pets, we try to create the best
+experience in the industry. It is the biggest company in this sector. We create robots, we have an app
+to control this machines, to understand the behavior of different pets and cats. At the end we try to
+keep near.
+Backend — I am a product engineer working with Cloud services, AWS, DinamoDB, Python, NodeJS.
+I migrated all the backend from NodeJS to Python. The story is mostly about the cost, the cost was
+increasing every year, every time we scale, as well as the performance, Python works great with AWS
+and Grapgh QL. We increased around 30% of the performance.
+Our project is related to the app. We construct the API that relates to pets, users, robots. I am part of
+the Core App. All the information, we are working with Serverless.
+PLATZI -- I was working as an engineer manager, because I have a lot of experience working with big
+teams, I managed different teams across different fucntinalities. My main thing was related to the
+Business Part of Platzi. The Business part, selling courses to Companies. NodeJS, Python, React.
+We started with this part, my main goal was creating the best product for business partners, we
+increased the customer engagement for 20%+. The most important was to keep the team balanced.
+Coding — in some cases I was coding, not a lot. Even we have a tech lead, but it was not necessary.
+My priority task was more related to manage different.
+RAPPI — In every job is understanding he product. In Rappi it was a rollercoaster, my experience in
+Rappi was my first experience in a big startup. I started as a Senior Backend Developer. We created
+the experience for big companies, like Addidas, Exito, etc, to how to create the inventory, the
+checkout, everything.
+We created the API side and we constructed the different. It was possible to customize the experience
+to the different clients with the same tool. Developed the Big Partners Tool.
+Techstack: MySQL, AWS, NodeJS, Python, Golang,
+English — pretty good 9/10
+SALARY — $5k / month. I feel comfortable in that way. With that salary, depending on the
+responsibility. Right now, I want to change the job as I am working on a project as a Data Engineer. I
+prefer to work as a Backend, Full Stack with React or View
+Relocation —

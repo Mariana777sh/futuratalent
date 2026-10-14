@@ -1,0 +1,6 @@
+Jose Miguel - Examedi
+TechStack: Python con Django (60%) / React (40%)
+Webscraping: resultados de los laboratorios, boletas de laboratorios, no tienen ningún tipo de interfaz
+por api para conectarnos entonces tenemos que hacer webscraper para leer los datos y
+descargarlos. He hecho varios web scrapers, beautfulsoup.
+$5500 usd

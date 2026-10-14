@@ -1,0 +1,10 @@
+DIEGO VELASQUEZ - WEB SCRAPER — BRANDSOLO — View React + Python.
+Django,
+Python: Python, Scrapy, Playwright, Celery, AWS.
+Playwright is heavy formal projects
+Brandsolo — Web Scraping — crawlers, spiders, clients, verify e-commerce of products. We say to
+Google that in their algorithm bring down the rating to products that are not allowed to give it down
+dare de Baja. Number of crawlers: 132+ crawlers in Aliexpress, Alibaba, Amazon, ArtShop, Ebay,
+Etsy, Forever79, OLX, Mercado Libre, RedBubble, Walmart, Sezzle,
+Salary: $4k
+Web Scraping

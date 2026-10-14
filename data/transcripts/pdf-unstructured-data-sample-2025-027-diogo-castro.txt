@@ -1,0 +1,31 @@
+DIOGO CASTRO — Web Scraper
+TEchstack: Python, Scrapy, Playwright, Selenium, Django, JavaScript, VanillaJS, Postgres, MySQL,
+MongoDB, AWS.
+React, Viewjs, Angular,
+I don’t like Selenium much because we end up loosing a lot of time with It because it is very heavy in
+general, so I prefer playwright when needed to handle browser stuff. I run javascript scripts to handle
+log in and dynamic stuff on the web browser.
+Zyte — Scrapy —
+Here at Zyte — Shopee, it is a pain to develop scrapers for Shopee. Just to have context at Zyte we
+have the data operations team, which is the team working on maintaining the crawlers, and I am on
+the set up team, I am the one creating solutions for them. Adapt to the customers, understand what
+they want us to scrape and to deliver. While at Zyte, I had a lot of experiences. I mostly developed
+crawlers for e-commerce, a lot of google search on scraping. Getting crawlers in general to get
+information. We have custom options for the specific projects. I have seen a lot of issues.
+I had calls with three customers last week. I am trying to look for a more stable type of work.
+Information
+We always like to provide the best solution that the customer wants, so they can work with us much
+longer. I used mostly scrapy.
+Americana — Mercado Libre and Amazon — on Americana, basically we had developed different
+crawlers to do competitive intelligence, to adapt the price based on what we were scraping, we always
+had the cheapest price on the market. I worked basically with Amazon, Mercado Libre and Aliexpress.
+
+
+Freelancing — I was mostly working with product scraping from different websites in Brazil.
+E-commerce websites, I built spiders for Americana, Casas Bahia. Mercado Libre
+A quick overview — I am a pretty experience developer, I have almost 10 years. I am very
+experienced with Java and Python,.
+NEXT: I am looking for more stable jobs. In Zyte the stability has been downgrading a little bit. The
+amount of time of contractors are decreasing. They are trying to do more freelancers. I work 40 hours
+now.
+Salary: $3.2k -> $3.8k

@@ -1,0 +1,22 @@
+MATTHEW BIRDSALL — Data Engineer —
+TechStack: Python, SQL, Java, JavaScript, AWS, GCP,
+Consulting and Technical Project Management — I have done pre-sales and post sales engineering in
+the past.
+Our current architecture, Serverless, Data ingestion, Lambda, S3, Athena, Services managed by
+AWS. Spark.
+Snowflake?
+
+
+I transition from the technical lead and staff engineerfor the data engineering team. I transitioned my
+role at the beginning of the year. Now I worked on projects that come across engineering.
+Evangelizing some of the architecture that we already implemented. I code 50-50 of my time.
+Service team — I have been doing a lot of text messaging, but just some of the data. The groups is
+the Core service team, our admin portal reporting, core detail records and calling platform.
+I built reporting for our finance account payable and account receivable units.
+I work really closely with Snowflake, we did a migration inside sales for Snowflake, I was one of the
+main programmers on Snowflake. For data bricks I have been on two different implementations for
+Data Bricks.
+SALARY — $210 - 230 + equity - it will come down what the benefit pack is. I would like to work
+remote with some travel. My current job is in person, so I am co-parenting relationship. It is really hard
+commute everyday. Fully remote or local.
+Remind me of industries — RevOps and Fintech, Legal Tech.

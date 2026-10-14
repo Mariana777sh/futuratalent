@@ -1,0 +1,39 @@
+JIMMY SANCHEZ — RAPPI — PERU —
+Techstack:
+RAPPI — Full stack and engineering lead — I led the team fraud prevention team. I spent most of my
+time at Rappi leading fraud prevention, with 5 backend, 3frontend devs, and 2 data analysts on my
+team. When the customer makes a transaction we need to see if the information that the client is
+doing or saying is true.
+Fraud prevention product — Information from the customers, evaluate that information. Retrieve
+information from different points, we can call APIs, data bases, in order to get information, application
+that we created, we built a rule engine, where we prepare the info and then with a workflow, we have
+to send the order information and it is evaluated in the application, for example, an evaluator that
+evaluates all the rules in that specific workflow, and we can do it in less than 400 milliseconds. Keep
+the user in the transaction, so the user don’t cancel the order.
+A simple customer can order one or two bottles of something, evaluate in the transaction if he has a
+coupon, discount, something suspicious, there are a lot of rules, we develop the engine, evaluate that
+information. Microservices created for that, the analyst and the functional people do a rule with a
+particular language we created, a language for that kind of rule configurations. What I told you,
+respose time is very important. Try to reduce the number of share backs. When the user don’t
+recognize something they report the bank and the bank call the apis in oder to get that info. If we don’t
+have that info the bank pays to the customer. We try to do and ensure, info updated, we can prepare
+some evidence. Provide evidence for chargevbacks.
+Chargebacks product flow — if the company has a good chargeback system the customers like,
+Rappi is trying to reduce it.
+Chargebacks flow - we automate these flows, because before that, Rappi had a team to do that
+manually, they resend mails from different banks, template, convert to pdf and send back to bank. It
+was a complicated work. Then we use some technologies in oder to automate some processes, we
+use a table in a data base, an input, that we have to get a bank request. Reduce that in a micro
+service to send an information daily, in oder to process that info in a micro service. The next micro
+service is getting that information, a java library, from PDF, use some templates uploaded in the
+system and then we use that programmatically, information from database, when we have that, when
+we have that information, we have another process there, pdf, we are using, some design pattern, to
+solve that problem. We have different channels to send the information, by mail, another, get the file
+from amazon stripe bucket, we have different channelswhere we send the information.
+Chargebacks product flow —
+Transactional evaluation —
+Fraud Alert Notification to different teams to check
+Curriers Evaluation of Delivery
+Customer Delivery Check
+INFOSYS —
+Startup Engineer — 6/10 he has worked at a startup but not that dynamic

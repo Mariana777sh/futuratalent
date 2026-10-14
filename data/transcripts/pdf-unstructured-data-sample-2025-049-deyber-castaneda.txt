@@ -1,0 +1,41 @@
+DEYBER CASTANEDA — great at AI Development
+TechStack: Python, bacend development in general, Java, Nodejs, FastAPI, Django.
+S4N — I am building AI applications, right now I am building LLM based applications, also apps that
+use ML models. Mostly Chatbots, Healthcare Coach that helps people have a track of their nutrition,
+give them some recomenddatin, voice processing, a chat, agentic platform.
+LangChain — LangChain, LangGraph and LangSmith — FastAPi to build the APIS, Django —
+receive data from different institutions like Stanford medicine academy, data, we use several agents to
+do something. We have an agent to improve the way … recommend actions, based on the knowledge
+about you it says or recommends to take a walk, consume certain amount of proteins or carbs, we
+need an agent to be on top of your work schedule, when do you spend time with your family,
+multiagentic, every agent is capable of ding something different, multiagentic architecture.
+Right now our client is https://www.thrive.health/ — https://thriveaihealth.com
+Here we are building
+MASIV — https://masiv.com/ — data related projects, creating an ETL for running some analytics
+processes, data warehousing, data streams, data wirehouse. — we receive millions of
+communications and we wanted to take advantage of the transactions that we have. We wanted to
+use that data to implement into the campaigns. With that skit we would analyze, offer dashboard to
+clients where we show the time we sent the message to the moment they opened the message, how
+
+
+many time they spent on the page, analytics. Communication Operations and Analytics Platform, Data
+Communication Platform.
+We had a data team, that was responsible for data ware house
+GLOBANT — Pure backend development, our client was Disney, what we were building was a
+platform, we were implementing new features. They wanted to optimize how to schedule
+advertisement. They had a lot of products, for Disney Channels they wanted to optimize the way they
+will show an advertisement. They wanted to build an algorithm to optimize that. Advertisement
+Optimization Platform. Give some analytics, and algorithms in some ways, some parameters for every
+advertisement, how much money the user has for advertisement, how much money do they have,
+what is the best time to show that.
+Feedback — please explain the product in 5 words first and then the details, you go first to the details
+and that makes people get lost.
+TypeScript — yeah, it is not my main language, but I use it. APIs doing Express and Node, and apis
+for web development.
+Kubernetes — ?? Mainly used Cloud providers to execute it. Definig services, pots, orchestrating
+network between those pots. Making sure the Kubernetes definition is well stablished. How to set the
+environments, how we integrate that with the infrastructure.
+Startups — as I mentioned, I am mostly working for startups, and I am aware of the high intensity
+environment in startups.
+SALARY — $5.5k >>> $6k
+ENGLISH: great

@@ -1,0 +1,26 @@
+SEBASTIAN MORA CARMONA — AI FULL STACK — 50-50 more backend heavy
+TechStack: Python, Django, Node, JavaScript, Express, React, View, PyTest, S3, Cloudfront, Jenkins,
+CI/CDAWS.
+DAILY BOT (YC S21) — since I joined they had a traditional chatbot, we started to implement GenAI,
+I implemented different models, RAGs, Embeddings, we released a product from two months ago. An
+Agent product that is using LangChain, LangGraph, the traditional chatbot, LangGraph and
+Langchain, different tools that the agent can choose, embeddings to get all the client info, get info
+from a RAG. We implemented all MCP tools, we are working with an NCP server that is working with
+LangChain.
+We are mostly doing this for a Chatbot — we released a new product called Esintro — that is an
+agent, for Slack, Microsoft teams, DailyBot has a lot of information of users, and it was really hard to
+get insights from these information, we passed two embeddings, if a manager wants to query what
+happened with an employee or with a developer. Ask info from VectorDB. Get a chart, send kudos
+(congrats), many things can happen
+US Market — Nintendo / Rakuten / there are a lot of companies, there is big companies that use
+DailyBot — I
+BENKY — I was working on a crypto project, decentralized fintech, we had the opportunity to build a
+wallet, have Crypto in your wallet, we created a payment flow, you were able to arrive to a shop. A
+
+
+shop that you have in your town and with that QR, you were able to pay with crypto, the owner of the
+shop would receive COP fiat money. We had the transaction internally. Express, React, Solana, AWS.
+SALARY — $2300 >>> looking for $5k
+Next:
+Relocation - if I have the opportunity to be relocated.
+I live in Colombia but I was born in Spain. Spanish Citizen and Colombian.

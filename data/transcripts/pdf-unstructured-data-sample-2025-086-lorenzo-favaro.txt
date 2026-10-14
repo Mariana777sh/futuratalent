@@ -1,0 +1,27 @@
+LORENZO FAVARO — INFERENCE ENGINEER / AI ENGINEER
+More of an AI Engiiiner / agent builder
+TechStack: Python, LangChain, LangGrapgh, LLMs, Mistal, Lama, vLLM on Lama, LangGrapgh,
+GenerativeAI, RAG, everything regarding that. My background is on computer science and software
+engineering. Related to software engineering rather than just AI
+Inference — working on open source models, how to deploy different kind of models, the main thing
+that me and my company is that the privacy is becoming the most important thing, most companies
+want to shift to that, run their own models. Working with Italian universities and they really care about
+the privacy of their data.
+
+
+REPLY — I am working on a new apporoach, the LangGragp approach, we are working on how to
+extract knowledge, we are working extracting pdfs, excels and so on to our Grapgh, first step is data
+modeling. We are working with Langchain, I have been working on the last month on small project, a
+smart assistant that helps you planning your meals. You want to have a list of recipes for your needs,
+able to have a shopping list. Buy all of the product. This assistant does exactly this. I work on internal
+offerings.
+Projects — Zeiss, Siemens. BMW, Porsche, Wolkswaguen.
+Meal assistant — multi agent system, 10 agents that communicate with each other.
+vLLM — not in this one because we are using proprietary models, Openai models that are already
+deployed in the infrastructure.
+Small models — a model of max 20 billion of parameters, deploy it on our infrastructure.
+I worked on vLLM when I was on Italy because we were testing different models for the university of
+Bologna, have an infra that have whatever models in their own infra. I tested a lot to of different
+frameworks.
+Cuda: I am not working with Cuda. I havent worked on that on the low level.
+SALARY — $90-100k

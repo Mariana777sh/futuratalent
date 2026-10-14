@@ -1,0 +1,35 @@
+MATHEUS MARTINS — iOS Engineer
+TechStack:
+Since the very beginning I am iOS Native
+STONE — Here we have a break even, we can present an idea, that improves something. I was
+working on the credit module, I realized that it was extremely slow. Smart CI (Continous Integrations)
+— A smart CI is a name that I built for what to be changed and tested, from 1 hour to 12 minutes for
+the PR, one of the tech marks, assure that nothing was broke, after my change get disapproval in 10
+minutes.Not the entire app but the piece you needed.
+Basically the credit module was a part of the app that could offer some loans to the users, is this user
+eligible for a loan? Let’s create an experience to sign in. The taxes, the payments, and at the end of
+the flow they need to sign the contract to take the loan.
+Kotlin platform the logic, but the UI is SwiftUI.
+BITSO — here I worked on English. They gave me the opportunity to work on English on a daily
+basis. I was on the account creation and account upgrade, being able to put more money into our
+platform. AB testing to see what converts more. Automation, a built a tool called maestro. Apple was
+blocking our releases, crypto at a time was not well regulated, at a time you have to provide some
+documentations, see that you are not using the app for money laundering. iOS app was blocked, so
+
+
+we created a server driven UI, basically the Bitso home app was created in a way that it can update
+through the backend. Every single place in the app. We released features without releasing the apps.
+Products: account creations, platform team to build navigation, I worked on the exchange product as
+well.
+MERCADO LIVRE — I was hired to be responsible for the payment experience module. People
+wouldn’t apply like maintainable code. Undesirable behaviors were happening, I was hired to fix this.
+500k people use the payment flow everyday, so there was not room for mistakes. I was allocated into
+a Spanish team. After several meeting with the product, backend and design, we built a roadmap and
+we made the refactor. I was carried to push the change, a real success, every single scenario that we
+could handle and fail. This was the biggest company I was working so far.
+NuBank —Started his career as Customer Experience Analyst, I translated the feedback that the
+clients had to the tech team. New Conta, got the feedback from the product, the users like our product
+but what features we need?
+Salary: $20k reais — $3500
+$4k
+Aiming on the $6000-8000

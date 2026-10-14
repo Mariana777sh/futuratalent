@@ -1,0 +1,27 @@
+CARLOS GRISALES — FULL STACK
+TechStack: JavaScript/TypeScript, React, ViewJS, NodeJS, Flutter. SQL, Postgres, MongoDB, Se,
+EC2, Lambdas, AWS.
+1DOC3 — I implement full stack solutions to interact with the medical team. Syntopmts and doctors
+propose medical consuolting. I have been developing frontend features using Frontend. We provide
+several products, the chat using NodeJS on the backend. We also implement Firebase for Realtime
+communication. We use Firebase to transfer data. We process those info in the backend using
+NodeJS. Implementing SQl for info. We also provide other products like programs, important content
+for eating or sleeping habits, lectures, podcasts, webinars, we developed these using Flutter on the
+Appa nd NodeJS on the web. Daily I work with all those technologies but I focus more with Flutter.
+The frontend of the web is ViewJS.
+AI stuff — currently we are implementing AI agents in our platform, streamline solving queries for legal
+and financial assistant. Basically I f the users needs any assistant in those fields. We decided to move
+to other fields like financial and legal assistants and veterinary assistants. We becoming into a chatbot
+specialized. We have our medical team to assist with medical assistants but also we are trying to do
+financial and legal assistants. I was part of developing these ai agents. We developed the model
+implementing NodeJS, and we have anintegrations with OpenAI APIs.
+
+
+I am involved in a project based by Pragma and Bancolombia with Springwood, Docker, Kubernetes,
+Inventory and Sales Management System. Project based course.
+Tuya — Intership — I switched to javascript with NodeJS, I developed a project based feature
+implementingg NOdeJS and React. We were doing an implementation where I had to retrieve the info
+of clients from the data base, their info of payments, if the system detect that this was a potential
+client I sent a notification using SMS to capture new clients, so it was a notification system. Let’s say
+you got a credit approved and send a notification.
+SALARY — $5 million pesos, I am open to discuss further opportunities and compensation.

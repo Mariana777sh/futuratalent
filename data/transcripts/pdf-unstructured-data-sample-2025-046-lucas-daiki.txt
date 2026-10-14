@@ -1,0 +1,37 @@
+LUCAS DAIKI — SOFTWARE ENGINEER — TYPESCRIPT
+TechStack:
+REMESSA ONLINE —
+I have been working here almost 8 years. I can tell a lot of big projects. From USA, Europe, from
+Brazil. USA to Brazil.
+I worked since the beginning when we were like 30 people and now we are over 300 people. It is not
+huge but we have big projects and products.
+Banking migration — I developed from the begging, I defined the solutions, the rules. After that I
+worked leading my team, less than 3 months we migrated from a financial institution to another one.
+We released an interesting product and scaled our operations. Scaled the ops 10-20x. It is the most
+importat because it was the biggest milestone, because we were a startup and we became a real
+company with this. Before that we were a commercial representative, with this project. Building their
+own infrastructure to transfer money. Before we had a manual communication with financial
+institutions, with this we connected with them using Rest APIs.
+We created a project to do money conciliation, to find errors in the operating system, to make it most
+of the time, a 100% automatically.
+In international money transfers we have a lot of small problems.
+I am working as a backend with NodeJS, Javascript, TypeScript, Docker, Kubernetes. ECS I am
+migrating from ECS from Amazon, to Kubernetes.
+I migrated to software engineering to tech lead, I migrated from a platform team, I am now tech lead of
+two frontend web and mobile boys. These days I am working more with React and Next.
+Hardest Techical Problem — understand how the people works. Scalating the ticketing. We send the
+operations to the bank, we create the order, and the bank makes it. We have to understand well the
+operations life cycle and understand from beginning to end. Event driven architecture. It opened a
+new world for me. Handle exception cases. When we started we took an easy path, and then we
+needed to work with different operations. Money coming from Europe is different from money coming
+from USA, so we needed to design different backends and architecture for the different use cases.
+Startups — yes, most of our clients were startups. I am a creative person, I like to imagine the things,
+brainstorm ideas, and startups have more space to contribute with ideas and different work. Big
+companies are like a black box but here I know where I am contributing to the product and the teams.
+EASYVEST — it was my first experience as a frontend engineer, I only had one project, I had to
+migrate one old portal to a new structure. From C# to React, using NextJS. It was a broker of shares
+product for fixed income.
+VIZIR — we were a software studio so every month changed my techs. Many kind of projects. Best
+school because I studied a lot of javascript, rails, c#, python.
+Salary — $Reais 90000 reads every month — $3500
+I intend to have $5k

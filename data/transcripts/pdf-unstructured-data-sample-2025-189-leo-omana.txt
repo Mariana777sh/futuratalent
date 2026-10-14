@@ -1,0 +1,21 @@
+LEO OMANA — FRONTEND ENGINEER
+TechStack: React, NextJS, JavaScript, TypeScript, Angular,
+GLOBANT — Frontend Dev — EY
+EY —My project is a user interface library, a design system for internal projects, EY - they have a lot
+of internal projects, my role is creating their frontend component library for when we manage inputs,
+fields, buttons, tables, etc, to work in a lot of projects. I have a lot of meetings too with stake holders. I
+am the leader of 8 frontend developers from India, Argentina and Colombia whille I am an Individual
+Contributor as well. Material UI, Design, I work with TypeScript and JavaScript, web components. You
+can work with a framework. Mostly with React and Angular, and I am the expert of React Library.
+RAPPI — I worked for 4 years, first I worked as a frontend developer in the Restaurants Vertical, for
+partners, it is more like the platform that manages the restaurants, high level users. For example, the
+owners of the restaurants. Mainly creating dashboards to understand the data, performance, reviews,
+and helping them create the menus, custom search, convos, promotions, individual product offerings.
+I worked migrating to microfrtontends from monorepo. NExtJS.
+MERQUEO — I was working on the shopping cart and the product catalogue, with ViewJS. I
+contributed to the project, more than shopping cart my job was mainly on the product catalogue,
+creating for example topicalization, consume data to print in the UI, unit testing, working with global
+state, these projects I worked only three months. Was a little project.
+Salary — $20 million pesos — I would need $6.5 dollars or $7k.
+Relocations — YES — Perfect Remote —
+Tourist Visa — NO.

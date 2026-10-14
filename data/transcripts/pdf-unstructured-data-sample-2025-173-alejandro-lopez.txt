@@ -1,0 +1,18 @@
+ALEJANDRO LOPEZ
+TechStack:
+SMARTFIT — Payments Gateways — Backend with Ruby on Rails, mostly backend engineer. Ruby
+on Rails on the backend. Both of integrations but also making some new additions to the payments.
+
+
+MERU — Full stack — A project in Mexico, Meru today is a company that consist in autoparts
+ecommerce for car workshops. I worked on the SaaS that was the connector to help workshops
+communicate with the people to sell parts and workshops to buy parts from big vendors.
+GOGROW — Uruguayan Software Factory — it was more like a staff augmentation company, I
+worked for a US company. Full Stack Ruby front and backend. Monolithic application that you can
+work as a backend developer. This was a platform that was related to the phycological situation of
+people, this app asked you about making a kind of exam, this ensures what kind of burnout we are
+having right now. Blossom website: https://blossomup.co/
+VAIRIX — This is an Uruguayan company as well, I worked for them for three projects. I just
+remember a last mile company in Spain. I am referring to a package company.
+Salary: $3.2k — I am looking for something around that. This will last two months more. I am working
+directly.

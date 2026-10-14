@@ -1,0 +1,72 @@
+SANTIAGO JEJEN —
+Nevado del tolima
+TechStack:
+RAPPI CARD — Data Engineering Lead — Separation por passes — we did well and they bought us.
+We were bought and we are gonna be an independent business — Tarjetas del Futuro —
+Microservices and put that info into a warehouse, Snowflake, Gt information from our banking core
+and get this information inside our warehouse like images, pdfs, different info, processing. ETLs. The
+part that I am doing in Rappi. Relating to the transformation of the data, using Kimbal methodology
+and Snowflake architecture.
+I don’t know if this question is related to this specific moment, I am working fo business process,
+which is risk, fraud, antimony laundering, operations, clarification, BI.
+Here we have feature store, imagine that you have different data science teams, one for fraud, one for
+growth, each team are creating features, number of orders, page. I don’t know, If this user likes dogs,
+or whatever, what is the problem, each team can create the same feature. The problem is you have
+5-10 features. Create a tool to centralize features of one team. Period of time for updating, real time
+and branch processing.
+You need this feature for real time, microservices, or you need this feature for a Bach process in
+general. Real time and Bach processing, governance or monitoring, for me this is an important part.
+Different pipelines for business risk. The typical work creating models and tables.
+First question — How do you implement tools for DBT and Snowflake. For DBT, at this moment, we
+create a repository for each DBT process and with this repo, we create a Docker image and push this
+image on a ECR Elastic Container Registry on AWS. At this moment we have a DBT, repo, image in
+an ECR. WE pull this image and we run this image on Airflow. We create the product environment, the
+pipeline for CI/CD, for pushing the images, and when you run the image running airflow, these images
+run on Snowflake, Snowflake are creating the specific solution for DBT, from Snowflake you create
+your repo and run DBT project on Snowflake using Snowflake. Use data in Snowflake, share the data
+in Snowflake, good governance rule.
+Why are you creating images if Astronomer can work with them? Because it is a legacy process,
+when astronomer don’t have the operators to run the… maybe you think you are over engineering.
+ETL — for example Glue on AWS or Spark to ge information from our banking core. Firetrap, Airbyte.
+TO capture data from our transactional database and put this info into our warehouse. You need ro
+process images, and transform.
+The big challenge is when you start solving different problems and you have a lot of pipelines and you
+want to monitor the pipelines and you need to use the tools. Data Engineering in every company has
+storage, processors and orchestators, with these tools is important to have a good understanding and
+monitoring.
+Data infra and pipelines from scratch — we work with providers like Astronomer and Snowflake, we
+use clean architecture, model View to create an API or a webpage. Our Provider uses our infra.
+Related with implementation, Snowflake is a whitelabel, so I proposed different times of
+implementation for organizing our data warehouse, on Astronomer I am a lead and in proposed a nice
+
+
+to have for a pipeline, don’t recreate tables. On typical pipelines when you have to process images.
+When we have to get our information from our banking core, transform from a table, you need to use
+AWS services like Glue and Spark. At this moment, the antimony laundering —the company had a
+provider but we tried to build an anti money laundering engine, it is get data, transform this data and
+with the data create different data and reports, so we are using Streamlit, we have a lot of tables and
+you need to show this information to a business person, with this we can create our engine. What
+challenges? The typical, a lot of tables, a lot of transactions, working with transactions, because it is a
+lot of data; the other problem is understanding the banking core and operations; use the data in
+snowflake and transform this info. How did I face it? I try to understand business data, the process of
+the company generates the data, so if you create a pipeline you need to understand the financial
+services industry.
+Team — I have a team right now, 6 people. Do you collaborate? How? I work with different parts of
+the company solving a problem. To create stuff from scratch.
+Collaboration —
+Data Security and Compliance — Governance define the rules and I try to implement this rules, an
+user in an warehouse can be an object, a role of each user can be an object, everything in our
+warehouse is my focus. My focus is in our warehouse, related to our warehouse at this moment, I am
+working in using Terraform, many poeple use it for infra, but the truth is that you can use Terraform for
+orchestrating APIs, so Snowflake has a module with Terraform where you can create and monitor with
+Terraform the objects, to take control of each object, I can know easily when one user was created,
+who delayed some user. What is compliance for me? It is rules, with compliance you have to know
+how many objects you have and for example, imagine that you have a table with the number of the
+credit card exposed, this would be a bad situation for the company, one guy could get the info and sell
+it in the deep web or something like that, so you need to monitor tables, you columns, this column has
+somehting exposed, so we have to apply policies for masking, but on the other hand you have the risk
+team or fraud teamthat needs info for the specific process, so that is why you need to create different
+policies for this part of the table, with policies. With Terraform you can centralize this operation, a
+policy is an object and you can apply objects or policies to other objects.
+BBVA — for me it was interesting because it was like
+Salary: $4k >> I am looking for $6k / month

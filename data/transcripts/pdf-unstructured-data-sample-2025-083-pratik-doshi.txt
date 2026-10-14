@@ -1,0 +1,13 @@
+PRATIK DOSHI — INFERENCE ENGINEER
+Techstack: vLLM, NVIDIA TensortRT, Cuda.
+SO I have been doing inference over a year now, I was doing a lot of graduate research, LLM work,
+inference should be better. I did an internship. Using models and benchmark them. Recently
+COMFYUI — it is my job, speed up the inference, help them scale inference.
+I have a working knowledge of CUDA
+Master in University of California — AI in general. Inference is a big problem and got interested on it.
+ML system and make it run faster as it is what is stopping us.
+I have contributed to LLM projects — ongoing contributions, video tool, you have a text to video
+model, quickly preview the model.
+I have a couple of months.
+Salary: $75/hour — $144k
+I am looking for high learning opportunities.

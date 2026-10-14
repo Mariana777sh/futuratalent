@@ -1,0 +1,17 @@
+JOSE FRANCISCO LIMAICO — KUSHkI
+TechStack: React, Node Python, Golang, Docker, AWS,
+Native Python, Django,
+Most of the time we use
+Products in Kushki — Console for clients React and NdeJS, managing clients and clients can see the
+transactions. Transactions CRM Platform, also to customize commerce, integrate payment
+processors. Reports about the transactions. Payments Console.
+Integrations with local banks and international banks. We created a system to integrate banks and
+sending payouts, created with Golang.
+We created a system to process files with all the transactions. Transactions provided by the bank,
+process dos, integrate and make payments, provide the final status to clients.
+Currently I am working for an onboarding process for new clients, onboarding process where you can
+create merchants, when you want to affiliate a new payment point, you have the infra and the view.
+Process for onboarding. You get of the process that shows all info that the clients needs to complete.
+Documentation? Write — I provide the info for the projects, technical writers, they are the ones who
+provide the documentation for the products. I don’t do it.
+Salary — $2.7k>>>> 30% up.

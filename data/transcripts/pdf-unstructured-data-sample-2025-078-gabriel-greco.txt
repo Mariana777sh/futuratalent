@@ -1,0 +1,19 @@
+GABRIEL GRECO — WEB SCRAPER
+
+
+TechStack: Python, Scrapy, Selenium, Puppeteer, Playwright, Electroneek, n8n,
+Other: Pandas, scikit learn, Tensorflow, Nummpy, SQL, MySQL, Postgres, MongoDB, Redis, React,
+NodeJS, Express, Nest, Lambda, RDS, AWS.
+LUMA — Web Scraping — extracting data was the easy time. Over a 100 projects at Luma. Today at
+Zyte we only work with web scraping.
+Zyte — I deal with tickets with scrapers that have been done. From Amazon, Bookings, Trip Advisor,
+Walmart, Carrefour. Open browsers, browser less, api, data. Like 30-40 web scrapers. Today I had 8
+tickets, they are from 8 different projects, Indeed, Carrefour, we are scraping those sites. The architect
+develop everything and I fix it.
+In Loma I created 300-400 web scrapers, from banks, for government sites, the industry was car
+insurance, I had to take a lot of data from government. A lot from government, banks insurance
+companies.
+Automation and bots to buy things online, and then after that I joined a first role as a system analyst,
+they asked me to to automation to insert data in systems. I started working on Selenium.
+I have done 1000+ web scrapers. I started creating bots for Nike.
+Salary: $3.5k.. Looking for 30%-40% more

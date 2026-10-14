@@ -1,0 +1,28 @@
+EDUARDO OSORIO — SOFTWARE ENGINEER — FULLSTACK — Front leaning.
+TechStack: React, NodeJS, JavaScript, TypeScript, NextJS, Tailwind, Apolloclient, GrapghQL, Redux,
+Express, NextJS, Apolloserver, MongoDB, SQL, PostgreSQL.
+QUBIKA — I have been working for almost 4 years now, a bunch of clients, I worked on an internal
+project for about 6 months, all the clients have been in the USA.
+PETFOLK — https://petfolk.com — The last time I worked with — I helped the build an internal
+chrome extension
+CENTR: https://centr.com - 8 months — Chris Hemsworth’ company — they have their backend in
+.net, and they are migrating it to typescript with NestJS. Before that I worked on 8-10 months, on
+frontend, they are an app, for training sessions. They wanted to migrate their whole frontend. They
+had two frontend app, one is the log out experience, they have a single page app. Track their log outs,
+etc, we were mainly on re-branding and re-designing. Content management system. They had a
+problem because changing content in their website was difficult. Now the marketing team can upload
+the content on their CMS. We redesigned their frontend and we created new sign up flows. Redesign
+the app.
+Q-Centrix: https://www.q-centrix.com — it is a company that provides software for clinical data
+management, collect and analyze clinical data. Angular app that they were migrating to React. I
+helped them migrate to their new frontend on React, they built a custom component library
+VOOKS: https://www.vooks.com — video books for children — animated videos, the features are
+called Storyteller, they wanted to allow users to record themselves reading their books. By parents
+and loved ones. Creating an app where you can record it, merge the audio with the video to have a
+new narrative options.
+Before that I worked on Qubika building the internal invoicing and admin platform.
+OLIMPICA —
+SALARY — $5k starting $5-6 ——
+RELOCATION — Open to relocations — if
+ENGLISH — 9.5/10
+Will send CV.

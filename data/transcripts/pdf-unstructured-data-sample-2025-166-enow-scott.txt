@@ -1,0 +1,26 @@
+ENOW SCOTT — FULL STACK — WEB SCRAPER — 3 years profesionnally
+TechStack: Rust,
+Rust — I was enthusiastic into Rust, I founded it was a solution to memory management. The
+philosophy of Rust feels different. Makes memory efficiency. At the beginning it was hard because of
+the learning scope. One of the things is I got the opportunity to get into it.
+Presently I am the co-founder of the Rust Africa Association — we have 8 communities in Africa with
+Rust developers.
+ADORSYS — customer acquisition projects. -- Full Stack Developer — with Rust particular but I also
+code Python. Rust. Telecom companies of Germany. Part of the team building the indemnity wallet
+for decentralized identities. We use Rust to develop the code identity. Components. We also work with
+Core Banking System. We have a Core Banking System, we provide Core banking systems.
+Sometimes a company approaches us. Getting clients, sometimes, they approach us, how to use
+Rust. I am like yeah - you gotta try. It is really good. Most of the big folks. The Core Banking System.
+We also experience tremendous speed. We use Rust for Bank Application, most of the time I am
+project lead, I am more into managing people. Banking apps with Rust. I do reviews of the
+developers.
+
+
+What contributions — Rust Ecosystem —
+Reqwest — 4
+Scraper — 4
+Fantoccini — 4
+I implemented a project just once — an internal project. I know about web scraping a bit but I am open
+to learn more. I know of web scraping.
+Online web scraper, experiment we were doing to scrape different websites, I got the privileged to
+work with these frameworks.

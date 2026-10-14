@@ -1,0 +1,26 @@
+FABIAN LUNA — SOFTWARE ENGINEER — 14+ years — FULL STACK
+Started as a web dev using Wordpress and PHP in general, then as a frontend dev with Angular and
+React. The latest techs, it is a full stack using from backend and frontend typeScript and JavaScript.
+TechStack: React, TypeScript, JavaScript, AngularJS, NextJS, NodeJS, NestJS, MySQL, Postgres,
+MongoDB, AWS.
+QUBIKA — Software Factory that provides clients, I am working on testing in Software Engineering.
+Hybrid between backend and DevOps. Bank from USA - we work with the employees inside there
+Coastal Bank - https://www.coastalbank.com — I joined two or three months there.
+Before I worked on ROYO AI — https://www.royo.ai I modified in the landing page, the workflow of the
+sign up, the Stripe subscription, I integrated this app with the backend.
+VENDOO — Startup from USA — https://www.vendoo.co — full stack connecting marketplaces to our
+platform to get and post information. We used a Google extension to manipulate this. Send the
+information and get one. Very hard but we built the app very well. Cookies to read if the user is
+logging or not in the platform, does it have the cookie or not? We used web scraping, read the
+endpoint from these marketplaces, Etsy is one of these, we retrieved the information using the
+endpoint. 5-6 marketplaces at the same time, we created a hub and we post that information. So I
+worked on the Core platform. I was 50/50. I started as a frontend creating the subscription and
+inventory UI and then started manipulating the backend on firebase with Node, Mongo and Elastic
+Search.
+ANOMALI — Frontend Developer to UI for two products, threadstream product which is a security
+platform where you update the info of the security of the company. AnomaliLens - read the information
+of the page, scraping for security, to try to understand if the information of this website is secure or for
+malware.
+MILO — ….
+SALARY — $4.5k / I would go for 1k more
+Relocation to the USA? — Just remote.

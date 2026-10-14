@@ -1,0 +1,33 @@
+BRUNO RODRIGUEZ — FULL STACK TYPESCRIPT REACT RUBY in SF
+TechStack: React Native, Ruby on Rails, Django, NestJS, NodeJS, TypeScript, Supabase, Postgres,
+MongoDB, AWS.
+I prefer things on TypeScript and Ruby. I am better at TypeScript than Ruby
+STEALTH STARTUP — they don’t have PMF — Real Estate, an app for realtors — It mixes a couple
+of products — one of the founders is a real estate agent. Full Stack — I’m doing a bit of everything,
+creating services, image generation, a little bit with geographical information.
+GIS Geographic Information Systems — because there is people who their careers is being
+specialized in these systems.
+FINTUAL — Full Stack — more inclined on the mobile side with React Native, my girlfriend lives in the
+US so I was searching a job in SF. I was doing mostly full time. As a financial service, most of the
+most complex things was handled by another team.
+I was part of the Mexico team, onboarding and recurrence, how recurrent are the users. Trying to
+analyze how to improve the usage of the app. Recurrence team, reducing the churn. I did a lot of
+refactoring, moving many screens, to the new architecture, the main difference, strongly tied to handle
+errors, and also had another kind of way other make queries and handle errors and project structure
+in general and improving the app overall. I spent a lot of work on the onboarding experience, being
+able to assess the risk adversity of a user, are they able to risk a lot of money in the investments? You
+cannot give counsel to somebody if you don’t ask these questions. The logic for asking these
+questions. How are we gonna handle users with different paths of answers and things like that.
+30-40% in Ruby. 60% React Native. Most of the features required frontend more than backend.
+CARDDA (YC W22) — Internship — 3 months — I integrated with bank APIs, accounting systems,
+where I would log, every entry of money. They provide credit card for companies. Ruby + Svelte.
+
+
+SALARY — $160k+ below that it wouldn’t make much change for me. Not a reason to change. Maybe
+below if they are more stable.
+RELOCATION — he is in San Francisco — the company right now is processing my visa and I would
+be getting it in September. Chileans don’t need the visa H1B1. There is a link in my resumes. You can
+get a very nice Visa. Would need to file another request of visa. They would need to file an LCA, we
+want to hire this guy and I would need that with the job offer to continue on our side.
+Something could happen.
+ENGLISH 9.5/10

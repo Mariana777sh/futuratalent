@@ -1,0 +1,41 @@
+FELIPE FADUL - VTEX — FULL STACK ENGINEER
+I am a full stack software engineer 6+ years.
+VTEX — context, I develop new features and develop marketplace integrations iwht companies like
+Amazon, Facebook, Mercado Libre. I created an integrations so seller can match their products at
+VTEX, because they have a catalogue, they can synchronizer their products between VTEX and
+Amazon. I built one of these integrations for Mercado Libre.
+By matching the products between VTEX and Mercado Libre, they can sell more because they will
+appear first. Matching is building a screen so they can see their products in VTEX and Mercado LIbre,
+and they can say, this product in Mercado Libre is the same as their product in VTEX. If you have a
+cellphone, they need to search which cellphone is in Mercado Libre, to build this match, if they link it
+they will rank higher in the first page of Mercado Libre and will rank higher. To deliver this project, I
+first neeeded to understand their Mercado Libre API, collaborate with the designer for the best product
+and user experience. Maintain their partners in their marketplace.
+I used React TypeScript and GraphQL< backend with C#, .net, AWS. But I mostly worked on
+Frontend.
+I added a matrix that tracked over 3000 product publications per month. Because we needed to track
+how much our clients were using our app. So we needed to know if the app was being used to
+prioritize new features for this app.
+I also built a TikTok integration app, it was a similar app in the sense of VTEX customers now can sell
+their products on TIkTok, it is a new channel for the merchants to sell their products. In React,
+Typescript, GrapghQL. I did all the onboarding of the app, get the info, synchronize info of VTEX into
+
+
+TikTok store, so I built a survey to add info to connect with TikTok via Vtex platform. I created my own
+form, and then we sent it to TikTok, and they would create a TIkTOk store but everything was on
+VTEX admin, so we integrated with TikTok SDK. We also sent metrics to TikTok. If our clients clicked
+on cart, we would send the data to TikTok so they can track that and show Ads for the Shopper.
+Everything was managed inside the VTEX Admin. So this Admin is like a marketplace. In every single
+panel they can manage Mercado Libre, Facebook, Google, TikTok, they can manage everything on a
+single page.
+VTEX is a single control pannel for all the orders, catalogue, logistics module, etc.
+My team works with marketplace integrations — I build full stack apps. I currently work mostly
+frontend but I maintain backend application because I am the only person in my team who knows
+backend, so I work as a full stack.
+EQUIPE SIGA — I had contact with infra, support, web development and mobile development. I built
+a mobile application with Flutter. This mobile app was created as a mobile app so university students
+the system takes care of the university stuffs. The student need to enroll in classes, so they can use it.
+This mobile app that I built helped student manage their classes and courses, issue documents from
+universities, issue a digital card ID to access the university restaurant, view classrooms, change their
+social name in the system, built in Flutter and have over 50k downloads.
+Salary: $5k-$6k
